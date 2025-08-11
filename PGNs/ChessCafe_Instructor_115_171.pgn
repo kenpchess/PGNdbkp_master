@@ -1,0 +1,8760 @@
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r1r3/pp3nkp/1q1p2p1/3P4/3NNP2/6Pb/PP1Q4/4RR1K w - - 0 25"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r3/pp3nkp/1q1p2p1/3P4/2rNNP2/3R2Pb/PP1Q4/4R2K b - - 0 26"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r1r3/pp3nkp/1q1p2p1/3P4/3NNP2/1P4Pb/P2Q4/4RR1K b - - 0 25"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r2k2/pp3n1p/1q1pP1p1/8/4NP2/1P4P1/PQ6/4Rb1K b - - 0 28"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/pp5p/1q1pN1p1/3Pn3/4RP2/1P4P1/PQ6/5b1K w - - 0 29"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/6pp/2pb3r/1p3p1q/2PP1PbP/4R1P1/1P1N4/R2B1QK1 b - - 0 25"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/6pp/2pb3r/1p3p2/2PP1PqP/4R1P1/1P1N4/3R1QK1 w - - 0 27"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/7p/2pb4/1p3pP1/2PP1Pq1/4R1Pr/1P1N4/3R1QK1 w - - 0 30"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/7p/2pb4/1p3pP1/2PP1Pq1/4R1Pr/1P1N4/4RQK1 b - - 0 30"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/1q1rnpp1/4p2p/1pp5/5PQ1/P2P2P1/1PP1RN1P/4R1K1 w - - 0 1"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r1k2/1qr1npp1/5N1p/1pp2Q2/8/P2P2P1/1PP1R2P/4R1K1 b - - 0 4"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/1q2npp1/4p2p/1pp5/3rNPQ1/P2P2P1/1PP1R2P/4R1K1 w - - 0 2"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/1q3pp1/4pPnp/1p6/3rN1Q1/P2P2P1/1P3R1P/4R1K1 b - - 0 5"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2nq2rb/3pr2k/1pp1p2p/p3Pp1B/3P1P2/PPN5/5Q1P/R5RK w - - 0 31"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2nq2rb/3pr2k/1pp1p2p/p3PP1B/3Pp3/PP6/5Q1P/R5RK b - - 0 32"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2n2qrb/3pr2k/1pp1pP1p/p3P2B/3Pp3/PP6/5Q1P/R5RK b - - 0 33"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2n3rk/3p4/1pp1pPRp/p7/3Pp3/PP6/7P/5R1K b - - 0 38"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2n2qkb/3pr3/1pp1pP1p/p3P2B/3Pp3/PP6/5Q1P/R6K b - - 0 34"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2q1rk1/ppp1ppbp/4bnp1/3n4/2BP4/5N2/PPPN1PPP/R1BQR1K1 w - - 0 11"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qr1k1/pp1nppbp/2p1b1p1/6B1/3P4/2PB1N1P/PP3PP1/R2QR1K1 w - - 0 16"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r6k/pp2prbp/2p1Pnp1/3q2B1/7Q/2P2N1P/PP3PP1/4R1K1 w - - 0 25"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2rqkb1r/1b1n1ppp/pn1pp3/1p6/3NP1P1/2NBBP2/PPP2Q1P/1K1R3R b k - 0 13"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbq1rk1/1p3pbp/p2p2p1/3Pp2n/4P3/2NBBP2/PP1Q2PP/R3K1NR w KQ - 0 11"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bq1rk1/3n1pbp/p2p2p1/1p1Pp3/4PnP1/2N1BP2/PPB1NQ1P/R3K2R b KQ - 0 14"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r5k1/5p1p/p2r3b/2p2b2/2P5/1N2p3/PP2B1PP/2KR3R b - - 0 24"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/5p1p/p6b/2p2b2/2Pr4/8/PP1RB1PP/2KR4 w - - 0 28"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r1kb2/pp1b1pp1/1q2p2r/n2pPn1P/1P1P2Q1/P2B4/1B1NNP2/2R1K2R b K - 0 20"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r1kb2/pp1b1pp1/1q5r/4Pp1P/1PpP4/P7/1B2NPQ1/2R1K2R b K - 0 23"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4kb2/pp1b1pp1/1q5r/4Pp1P/1P1P4/P1B5/4NPQ1/4K2R b K - 0 25"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3k1b2/1p1b1pp1/q6r/3PPp1P/1Pp5/2B5/r3NPQ1/4RK1R w - - 0 29"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b1k2r/ppqn1ppp/3bp3/2p5/2PP2Q1/5N2/PP1B1PPP/R3KB1R b KQkq - 0 12"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3k2r/pp1b3p/4pp2/8/2Pp1Pn1/8/PP1B2PP/2K1RB1R w kq - 0 19"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r1q1rk1/3bppbp/p5p1/np1PP3/2p2P2/2N1B3/P1B3PP/1R1Q1RK1 w - - 0 19"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1q1r1k1/1n1bppbp/pB4p1/1p1PP3/2p2P2/2N5/P1B2QPP/1R3RK1 w - - 0 25"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r1r1k1/1n1qppbp/1B4p1/1p1PP3/4BPP1/2p4P/5Q2/1R3RK1 w - - 0 31"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r1r1k1/1n1qppbp/1B4p1/1p1PP1P1/4BP2/2p1Q2P/8/1RR3K1 b - - 0 33"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r1r1k1/1n1qpp2/1B4pb/1p1PP3/4BP2/2p1Q2P/8/1RR3K1 w - - 0 35"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/1n1qpp2/1B4pb/1p1PP3/4BP2/2Q4P/8/1R4K1 w - - 0 37"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/1n1qpp2/1B4pb/1p1PP3/2r1BP2/6QP/8/4R1K1 b - - 0 38"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3R4/5p1k/1B1q2p1/1p3p2/2r2b2/7P/5QB1/6K1 b - - 0 45"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5p1k/1q4p1/1p1R1p2/8/7P/7b/5Q1K b - - 0 49"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6R1/1P6/P1b2p2/2p2k2/2P5/5p2/1r5P/4R1K1 w - - 0 1"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3rr1k1/ppp1qp1p/3b2p1/4np1P/1P1N2n1/P1P4R/1B1NBP2/R2Q1K2 w - - 0 21"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r3r1k/p6p/2q2b1P/3p1Pp1/2P1p3/QP2P3/P1B3P1/1K1R3R b - - 0 31"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r3k/p6p/2q2b1P/2rp1Pp1/4B3/QP2P3/P5P1/1K1R3R w - - 0 34"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4rk1/1b2qpp1/p3pn1p/1pN1N3/3P4/1Q6/PP3PPP/2R1R1K1 w - - 0 1"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r5r/4k1p1/p1ppp2p/6n1/6Q1/2N1q3/PPPR2PP/2K4R w - - 0 21"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r1q1k1/3R1p1p/2P1r1p1/2BQ4/1p1b4/5P1P/6P1/5R1K b - - 0 27"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4rk1/5p2/p1p4P/3p1b2/3Q4/6q1/PPP1B1P1/R4K1R b - - 0 21"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1r3k1/5q1p/p5p1/3bB3/P1B5/2p4Q/1PP3PP/R6K w - - 0 27"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/p4p2/1pr3pp/5P2/2qP2QR/6P1/P3P2P/R5K1 w - - 0 29"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1q1rbk1/1b1n1ppp/1B2p3/PpP5/5P2/4Q3/6PP/1NRR1BK1 w - - 0 32"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/p4pp1/5q1p/8/4B3/1rr1P1Pb/RQ3P1P/2R3K1 w - - 0 22"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4rrk1/5p2/p1p4P/3p1b2/3Q2B1/6q1/PPP3P1/R4K1R b - - 0 22"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1r2bk1/3n1ppp/1B2p3/P7/2b2P2/4Q3/6PP/1NR3K1 w - - 0 36"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/R4pp1/5q1p/8/4B3/1rr1P1Pb/1Q3P1P/2R3K1 b - - 0 22"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3nrk1/3b2bp/1qnpp1p1/6B1/ppp1P1P1/3P1N1P/PPP1N1B1/1R2QR1K w - - 0 18"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3n1k1/3b3p/4p1p1/3pP1B1/pppq2P1/7P/PPP3B1/1R3Q1K w - - 0 23"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r4qr/1k3pp1/1nn1p2p/pp1pP2P/b1pP4/P1P1N1BB/R1P2PP1/2Q1R1K1 w - - 0 27"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r4qr/1k2n1p1/1n2p2p/pp1pPp1P/b1pP1P2/P1P1N1BB/R1P3P1/3QR1K1 w - - 0 29"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6qr/1r6/kn6/pp1pPP2/b1pP2P1/P1P1N1Qp/R1P3nB/5RK1 w - - 0 39"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqnrk1/5ppp/p1npp3/6P1/1p2PP2/1NNBQ3/PPP4P/2KR3R w - - 0 15"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b1nrk1/2q2ppp/3pp3/6P1/1N2PP2/pP1BQ3/P1P4P/2KR3R b - - 0 20"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r1r1n1/6kp/p1pQ2p1/qpn1p3/2P1P3/2N2PP1/PP2N3/2KR3R b - - 0 19"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r1k3/4n3/p1p2Qp1/q1n5/1pP1Pp2/2N2PP1/PP6/2KR4 w - - 0 25"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r1r3/4n1k1/p1p1Q1p1/q3p2p/npP1P3/5PP1/PP2N3/2KR3R w - h6 0 23"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r1r3/3Q2k1/p1p3p1/q2np2p/npP1P1P1/5P2/PP2N3/2KR3R b - - 0 24"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2Q5/4r1k1/p1p3p1/q2np2p/n1P1P1P1/1p3P2/PP2N3/2KR3R w - - 0 26"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/2pr1p1p/p1pq1p1Q/4pP2/1nP5/1P6/P5PP/2B1R1K1 b - - 0 30"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/1b2qppp/pp2p3/4n3/1P1NP3/P1r2P2/3R1QPP/R4BK1 w - - 0 21"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/1b1nq2p/2ppp2Q/6pP/2P1P1B1/2N5/PP4P1/2K2R2 b - - 0 20"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "q2b3k/6pp/2bp4/1p1Np3/1P1r2P1/1P2N2P/2Q2P2/3R2K1 w - - 0 33"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r2rk1/pp2bppp/q7/3pN3/3P4/1R3Q2/PP3PPP/R5K1 b - - 0 19"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2rq1rk1/5ppp/p3p2b/1p1nP3/1P1N3P/P2P2P1/1B3Q1K/4RR2 w - - 0 26"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6rk/2p2p1p/p2q1p1Q/2p1pP2/1nP1R3/1P5P/P5P1/2B3K1 w - - 0 33"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/1b2qppp/pQ2p3/4n3/1P2P3/P4r2/3RN1PP/R4BK1 b - - 0 22"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "q2b3k/6pp/2bp4/1p1N1Q2/1P1p2P1/1P2N2P/5P2/6K1 b - - 0 34"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "q1Qb3k/6pp/3p4/1p1bp3/1P1r2P1/1P2N2P/5P2/2R3K1 b - - 0 34"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3q1rk1/5ppp/p3p2b/1p2P3/1P1N3P/P2Pn1P1/5Q1K/2R2R2 w - - 0 28"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r5k1/1p3p2/2bq2pb/p1Rp1n1p/P5n1/1P2PBP1/3B2QP/3NR2K w - - 0 34"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r2rk1/1q2bppp/pB2p3/n3P1P1/Np3P2/1p6/P1P1Q2P/1K1R3R w - - 0 23"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/4P3/6r1/4n3/2B5/5K2/3N4/6k1 w - - 0 4"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/pb3ppp/1p2nq2/2r5/1Q1p4/P1nBPN2/2R2PPP/5RK1 w - - 0 22"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/k7/B3K3/1P6/3p4/5b2/8/8 w - - 0 4"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/p2r2pp/2nBk3/1Rp5/2Pp4/P2P3P/5KP1/8 w - - 0 33"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r1k/4qpp1/p3pn1p/1bN5/8/3BP3/1P1Q1PPP/2R3K1 w - - 0 26"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bq1rk1/7p/p2p4/nppPn3/2P2P2/1P6/PQ1NB2P/R2N1RK1 b - - 0 20"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r6r/1pp1k2N/1b1pbp1R/8/1P2Pp1N/8/P4PP1/R3K3 b Q - 0 26"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r2rk1/1q3ppp/p4n2/BpP2N2/8/6P1/P1Q1PP1P/R5K1 b - - 0 27"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2r2k1/1p3ppp/q4b2/p1P5/1P1pn3/P2R2B1/2Q1NPPP/3R2K1 w - - 0 23"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3r1k1/p1p2pbp/1qpp1np1/8/2P1PP2/1PN2Q2/P2B2PP/R4R1K b - - 0 17"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r2rk1/4bppp/pBq1p3/4P1P1/NpP2P2/8/2P1Q2P/1K1R3R w - - 0 25"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/4P3/8/4n3/8/8/3rB3/4K1k1 b - - 0 6"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/p4ppp/1p2nq2/2r5/1Q1N4/P1RBP3/5PbP/5RK1 b - - 0 23"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2B5/k7/3K4/1P6/8/5b2/3p4/8 w - - 0 6"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r3k/5pp1/4pn1p/8/1N6/3bP3/1P3PPP/3R2K1 b - - 0 29"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r3k/5pp1/3qpn1p/8/8/3NP3/1P1Q1PPP/3R2K1 b - - 0 29"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r3k/5pp1/3qpn1p/1b6/1N6/3BP3/1P1Q1PPP/2R3K1 w - - 0 28"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r6k/7p/p2p4/np1P4/2Pp4/1P6/P2N3P/6RK w - - 0 29"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2q1rk1/7p/p2p2n1/nppP4/2P2PB1/1P2N3/PQ1N3P/5RK1 b - - 0 23"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6rr/1pp1k3/1b1pbN1R/8/1P2Pp1N/8/P4PP1/R3K3 b Q - 0 27"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r2rk1/1q3ppp/p4n2/BpP2N2/8/6P1/P1Q1PP1P/R5K1 b - - 0 25"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r5k1/1p3ppp/q7/2P5/1P1Rn3/6B1/2Q2PPP/6K1 b - - 0 26"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1r3k1/1p3ppp/q4b2/B1P5/1P1pn3/P2R4/2Q1NPPP/3R2K1 b - - 0 24"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3r1k1/p1p2pbp/2pp2p1/8/2PqNP2/1P3Q2/P2B2PP/R4R1K w - - 0 19"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1rnqr1k1/1p1b1pbp/p2p1np1/P1pP4/2N5/2N3PP/1P2PPB1/R1BQ1RK1 b - - 0 18"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1rnqr1k1/1p3pbp/p2p2p1/P1pPn3/8/R1N3PP/QP2PPB1/2B2RK1 b - - 0 22"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2q1r1k1/n2n1pbp/pr1p2p1/R1pP4/2Q1PP2/2N3PP/1P4B1/2B2RK1 b - - 0 27"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2q1r1k1/3n1pbp/pr1p2p1/R1pP4/N1QnPP2/6PP/1P1B2B1/5RK1 b - - 0 29"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/1q1n1pbp/p2p2p1/RrpP4/N1QnPP2/2B3PP/1P3RB1/6K1 b - - 0 31"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/3n1pbp/1N1p2p1/BppP4/3nPP2/6PP/1P3RB1/6K1 b - - 0 34"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rn3rk1/1q2bppp/pp1ppn2/8/Q1PNP3/2N1BPP1/PP4KP/R2R4 w - - 0 15"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbq1knr/pp1p1ppp/4p3/2p5/1bP1P1Q1/2N5/PP1P1PPP/R1B1KBNR w KQ - 0 5"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bq1k1r/pp3pp1/2nppn1p/2p5/1bP1P2Q/2NP1N2/PP2BPPP/R1B2RK1 b - - 0 9"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bq1k2/pp3p1r/3p1n1p/2p1p1p1/1bPnP2P/2NP2Q1/PP3PP1/R1BBNRK1 b - h3 0 13"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2kr1b1r/pppq1ppp/4b3/4Q3/3P4/4B3/PPP2PPP/RN3RK1 b - - 0 11"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4rk1/pq1pbpp1/1p2pnn1/7p/2PN4/1PN1QPP1/PB2P1KP/R2R4 w - h6 0 16"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4rrk1/pq1pb1p1/1p2p1n1/5P1n/2P4p/1PN1QPP1/PB2N1KP/R2R4 b - - 0 20"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1q2rrk1/p2pb1p1/1p4n1/3N1p1n/2P4p/1P3PP1/PB1QN1KP/R2R4 b - - 0 22"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4k2r/1pr1bpp1/pq1p1n2/3Pp3/7p/1N3PPB/PPP4P/1K1RQ2R b k - 0 17"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2q1rk1/1p1nbppp/p2ppn2/8/2PNP3/1P6/PB2QPPP/RN3RK1 b - - 0 11"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3rrnk1/1p3p1p/p4np1/2bP1N2/5P2/1PN3P1/PB4KP/3R1R2 w - - 0 22"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3r1k1/1p1nbppp/p2ppn2/7q/2PNP1P1/1P3P2/PB1NQ2P/R4R1K b - g3 0 15"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3r1k1/1p2bppp/p2ppn2/6q1/2PNP1P1/1P2Q2n/PB1N3P/5RRK w - - 0 20"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3r1k1/1p2bppp/p2ppn2/6q1/2PNP1P1/1P5Q/PB4RP/5R1K w - - 0 22"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3r1k1/1p1nbppp/p2pp3/6q1/2PNPnP1/1P2QP2/PB1N3P/5RRK w - - 0 20"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b1kb1r/pp2nppp/1qn1p3/2ppP3/3P4/2P2N2/PP2BPPP/RNBQK2R w KQkq - 0 7"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b1kb1r/pp3ppp/2n2q2/2Pp1p2/5P2/2P5/PP2B1PP/RNBQ1RK1 w kq - 0 12"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r2rk1/pp1b2pp/1qn1pp2/3pP3/1P1P1PPb/P3B3/2N1B1KP/R2Q3R b - - 0 17"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2bb1k1/q5pr/1p2p1Np/pP1pP2P/N2P1Pp1/P3Bn2/1Q4K1/2R4R w - - 0 31"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/ppq1n1pp/4pp2/3pP3/bP1P1PPb/P1rBB2K/R1NQ3P/2R5 b - - 0 22"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/pp2n2p/4pp2/3p4/1P1P1PP1/P3B2K/2qQ3P/4R3 w - - 0 27"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/p6p/4ppk1/1p1p4/1P1PnPP1/4K2P/8/4B3 b - - 0 43"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/p3n3/4p1k1/1p1p3p/1P1P1PP1/4K3/8/4B3 w - - 0 50"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r2rk1/pp3ppp/4p1n1/q2pP1N1/b1nP1BP1/P2B4/2P2P1P/R1Q2RK1 w - - 0 19"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r2r1k/pp3ppB/4p3/q2pP1N1/b1nP2Pn/P5B1/2P2P2/R1Q2RK1 b - - 0 21"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r2rk1/pp3ppN/4p3/q2pP3/b1nP1BPn/P2B4/2P2P2/R1Q2RK1 b - - 0 20"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r2k2/pp3pp1/4p3/3pP1Q1/b1nq2P1/P2B4/2P2PK1/R4R2 b - - 0 25"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r2rk1/pbq1bppp/1pn1pn2/6B1/3P4/1BN2N2/PP2QPPP/2RR2K1 w - - 0 15"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b1kb1r/pp1n2pp/1qn1p3/3pPp2/2pP1P2/P1P2N2/1P2N1PP/R1BQKB1R w KQkq - 0 10"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3kb1r/1p1b2pp/1n2p3/p2pPp2/2pP1P2/PqP1BN2/1P2BKPP/R1Q4R b kq - 0 19"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3kb1r/1p4pp/1n2p3/p2pPp2/2pP1P2/PqP1B3/4BKPP/1RQ4R b kq - 0 23"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4kb1r/1p4pp/4p3/3pPp2/n1pP1P2/1pP5/r2BBKPP/1Q1R4 b k - 0 28"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4rk1/pbqnbpp1/1p2p2p/2pn4/2BP4/2P2NN1/PP1B1PPP/2RQR1K1 w - - 0 14"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/p3bpp1/1p2pn1p/4q3/2P5/1P2BQN1/P4PPP/2R3K1 b - - 0 22"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkbnr/pp2pppp/8/3Pn3/4p3/2N5/PP3PPP/R1BQKBNR w KQkq - 0 7"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqkb1r/1p2p1p1/p4nn1/3P1pNp/4p2P/2N3B1/PP3PP1/R2QKB1R w KQkq - 0 12"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b4r/1p2k1p1/p3P1n1/2b4p/3qQp1P/2N5/PP3PPB/R3KB1R w KQ - 0 18"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2r4/1p2k3/p3b1Q1/2b5/5p1P/2NB4/PP3qPB/R2K3R w - - 0 27"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3k1nr/p2nppbp/2pp2p1/qp6/3PPPb1/2N1BN2/PPPQB1PP/R4RK1 w kq - 0 10"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bq1rk1/pp4b1/2n3pp/2p1p3/3pP3/1P1P1N2/1PPBN1PP/R3QRK1 w - - 0 16"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1q2rk1/p4ppp/1p6/2nQ4/3R4/P1N2P2/1P4PP/2KR4 b - - 0 19"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/1q2r1b1/1p1p1n1n/1Pp1ppp1/2P5/2NPP1P1/1B1Q3P/4RRNK w - - 0 33"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4rk1/1q3ppp/p3p3/5b2/QPR2B2/P3P3/5PPP/2R3K1 w - - 0 28"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1rq1bk1/1n1b1p1p/3p1np1/1p1Pp3/1Pp1P3/2P1BNNP/R2Q1PP1/1B2R1K1 w - - 0 24"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2rr2k1/5p2/p1q1p2p/6bP/1p4P1/3B1Q2/PPP5/1K1R2R1 w - - 0 27"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6kp/2bp2p1/2q1p3/Np2P3/1P1Q2P1/2P3KP/8 b - - 0 43"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/p7/1p6/4P2p/P1PPbqk1/Q7/1P4P1/6K1 b - - 0 45"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3k2r/p7/1qp1bp2/2Qp1n1p/8/BPP5/3N1PPP/R4RK1 w kq - 0 18"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4rrk1/pp1b1ppp/8/2nBq3/2P1PN2/Pn2BR2/1Q4PP/1R4K1 w - - 0 22"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r1k/6p1/1b5q/4Q3/4P1p1/8/P4PB1/5RK1 b - - 0 40"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7r/5pk1/4p3/p1b1q1p1/2B5/P4Q1P/1PP3P1/3R3K b - - 0 31"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r2rk1/1p3pp1/p2p3p/2nPp3/6Pq/4PB2/PPP4P/1K1RQ2R b - - 0 22"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2q1rk1/3p2pp/bp2p3/4Q3/3B4/6P1/P3PP1P/R4RK1 b - - 0 18"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4r1k/2p3pp/4Q3/7n/4p2q/5P2/PP3P1P/R1B3RK w - - 0 21"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/p5bk/3Q2p1/4BpP1/qn6/5P1N/4P1K1/8 b - - 0 41"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2r2k1/pp2qpp1/2p1bn1p/8/4P3/P1R3N1/1PQ2PPP/1B3RK1 b - - 0 22"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b2rk1/pp4np/3p1ppQ/1BpPq3/P3PR2/2N3P1/1PP4P/R5K1 b - - 0 19"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4k2r/p1R1npp1/4p2p/3pP2P/6P1/q7/3B1P2/3QK3 w k - 0 29"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b1k1r1/pp3p2/1n1p1n2/2pP2p1/q1P1p3/2P1P1B1/P2QBNPP/R3K2R w KQq - 0 17"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2k5/p2n1pp1/2pBp2p/1q2P2P/6P1/1P3P2/P3Q3/1K6 w - - 0 40"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4qk1/p1p2rpp/1p1pQn2/3Pp3/1PP5/P3PR2/1B4PP/R5K1 b - - 0 21"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1rr3k1/p2pnppp/bq2p3/3n4/3P4/P1P2NP1/1BQ1PPBP/1R1R2K1 b - - 0 17"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3q2k1/1bp2p1p/pp3p2/8/1PP1pP2/P3P3/4B1PP/2KQ4 b - - 0 21"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r2/2pq2kp/ppp2p2/5Pp1/6P1/1Q6/PPP2P1P/4R1K1 w - - 0 24"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1k3rnr/1p2b3/p1p2p2/P1p1pP1p/2N3q1/1P1PB1Pp/2P2P1K/R2Q2R1 w - - 0 20"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r5k1/p1q1b1p1/Q1p1pn1p/4p3/P3P3/2N1B2P/2P3P1/1R4K1 w - - 0 21"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/2R3pk/3npb1p/4p3/2p4P/8/3Q2PK/1q2B3 b - - 0 37"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4rk1/3b1pbp/1p1p4/pP1PpP2/N1P4q/3Bp2P/P5P1/R2Q1RK1 w - - 0 19"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b2rk1/pp4p1/4p1Bp/2ppP1q1/8/P1P3Q1/2P2PPP/R4RK1 b - - 0 18"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "b2r1rk1/p3ppb1/2n1p1pp/q1p1P3/N1P2B2/1Q4P1/PP3PBP/R3R1K1 w - - 0 18"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4rk1/ppp3np/3p4/3Pb3/2P1p2q/4B2P/PPB1Q1P1/2KR3R w - - 0 19"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4kr1/4qp1p/p5p1/1p1pP3/2pP2Q1/2P5/5PPP/RR4K1 w - - 0 23"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r5k1/5pp1/pp1p4/2pPr2p/P7/1P1QPqP1/R4P1P/3R2K1 b - - 0 27"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b2rk1/1p2bppp/p2ppn2/q7/3QPP2/2N1B3/PPP1B1PP/2KR3R w - - 0 12"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r2rk1/1pp2pp1/p3p1bp/3Pn1q1/P3P3/2N4P/BP1Q1PP1/2R1R1K1 w - - 0 21"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3r1k1/1b3ppp/p2p4/1p1p4/2qPn3/PQN3PB/1PR1PP1P/2R3K1 w - - 0 21"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3rbbk1/1p3ppp/q3p3/P3P3/3NBP2/P1r3P1/4Q2P/3R1R1K b - - 0 30"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/qpk5/4p3/1QPpPp1p/3P2pP/1K2P1P1/8/8 w - - 0 47"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r3rk1/1p3p1p/pNbR4/2P1ppq1/4Pn2/5P2/PP3Q1P/2R2B1K w - - 0 23"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4rk1/p4pbp/2ppbnp1/q7/3BP2P/2N2P2/PPPQ2P1/2KR1B1R w - - 0 14"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2kr3r/pp1b3p/4pp2/2qp3P/6n1/P1PB2B1/2PQ1PP1/R3R1K1 w - - 0 19"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r1r1k1/1p1nppbp/p2p2p1/q7/2P1P3/PPN3P1/1B2QP1P/2RR2K1 b - - 0 20"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b2rk1/5ppp/2p5/p1q1p3/PpB1Pn2/1Q6/1PPN1PPP/3R1RK1 w - - 0 19"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4rk1/1p1nbppp/p2p1n2/Pq1Pp3/8/1N2BB2/1PP2PPP/R2Q1RK1 w - - 0 15"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r4r/qp1kbppp/4p3/p2pPn2/P2P4/BP1Q1NP1/5P1P/R4K1R b - - 0 19"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "k2rr3/pp1bn1p1/1q1Bp2p/1B1pP3/P1p5/2P1QP2/2P2P1P/R3R1K1 b - - 0 21"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1n1r1rk1/1pq1bppp/3p1n2/pB1Pp3/8/PN2BP2/1PP1Q1PP/1K1R3R w - - 0 19"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/5pp1/1p2pn1p/8/2NP1q2/1R2Q2P/1P3PP1/6K1 b - - 0 33"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1rr3k1/1pqn1pp1/p3p1p1/3pP3/P2Q4/2P1R2P/1P1N1PP1/R5K1 b - - 0 22"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3r3/3nqpk1/p2n2p1/P3p3/1Pp1P3/5NNP/B4PP1/2QR2K1 w - - 0 32"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4kr1r/pppqb1pp/2n1b3/3pP3/8/2NQ1N2/PPP2PPP/R1B1R1K1 w k - 0 13"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4kr2/pppq2pp/8/3pP1B1/8/2N5/PPn1Q1PP/R3b2K w - - 0 19"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4kr2/ppp3pp/3qP3/3p2B1/8/2N5/PPn1Q1PP/R3b2K w - - 0 20"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4kr2/ppp3pp/4P3/1Nqp2B1/8/8/PPn1Q1PP/R3b2K w - - 0 21"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4kr2/ppp3pp/4P3/1N1pq1B1/8/8/PPn1Q1PP/R3b2K w - - 0 21"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3qbk1/p4pp1/1p2p2p/2n1P3/1P6/5NP1/P1Q2PBP/3R2K1 b - - 0 24"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "R7/6p1/5p2/5Pk1/4K2p/7P/8/5r2 w - - 0 66"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3rk1nr/1pp2pQp/1pn1b3/2p5/4q3/1N2B3/PP3PPP/R3KB1R b KQk - 0 14"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3qr1k1/1pR2ppp/4r3/p1Qb1N2/8/P4P2/1PP3PP/1K5R w - - 0 1"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/1pR2ppp/2b1r3/p4Nq1/2PQ4/P4P2/1P4PP/1K5R w - - 0 3"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/1p1r1pb1/p2P3p/P2R1Q2/3RN3/7p/4qPP1/6K1 w - - 0 35"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/1p1r1p2/p2P1b1p/P3RQ2/6R1/7p/1q3PP1/6K1 b - - 0 37"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6p1/pPk5/P3K3/2r1p3/2p1P3/2R5/8 w - - 0 47"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6p1/pP6/P2k4/2r1pK2/2p1P3/2R5/8 w - - 0 48"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/4P2p/6p1/1r6/8/5N2/2B2PPP/b5K1 b - - 0 35"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1rr2k2/pp1bpp2/3p2pp/3P2P1/3R3P/P2B1P2/1PP5/2K1R3 b - - 0 20"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5k1R/2r2p2/4b3/8/1p6/3B4/r1PK2PP/4R3 b - - 0 1"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/4K3/8/8/5p1k/5P1P/8 w - - 0 1"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r4k1/R1R2p2/4p3/3p1p1p/p2P4/4P1P1/r4PKP/8 b - - 0 33"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r2/4Rp2/R3pk2/3p1p1p/3P1K1P/4PPP1/5r2/8 w - - 0 42"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/3b1K1B/6Pk/8/8/8/7P/8 w - - 0 1"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5p1p/5p1k/7P/P2p1P2/B2p1P1r/P4PK1/8 w - - 0 1"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5p2/P4p1p/5P1k/3p4/3p1P1r/P2B1PK1/8 w - - 0 7"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2q1rk1/ppp1n1pp/3b1n2/3p1BB1/3P4/2PQ1P1P/PP3P2/RN2R1K1 w - - 0 15"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqk1nr/pp1p1pbp/4p1p1/1B1N4/3pP3/2P5/PP1P1PPP/R1BQR1K1 w kq - 0 10"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1r3k1/1p2ppbp/p1npbnp1/q2N4/2P1P3/4B2P/PP1NBPP1/R2Q1RK1 b - - 0 13"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1r3k1/1p2ppbp/pnnpb1p1/q2N4/2P1P3/1N5P/PP2BPP1/R2Q1RK1 b - - 0 15"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r5k1/1p2ppbp/p1npb1p1/8/1qP1P3/1N5P/PP2BPP1/R2Q1RK1 w - - 0 18"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2kr1b1r/ppq2pp1/1np1pn1p/4N2P/2PP4/6N1/PP1BQPP1/2KR3R b - - 0 16"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2k2b1r/ppq2pp1/1np1pn1p/4N2P/2P5/4B1N1/PP2QPP1/2KR4 b - - 0 18"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/kP3p2/4pNpp/4n3/3p4/3P4/2r3PP/1R4K1 b - - 0 42"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/7p/8/6p1/4knP1/7P/8/2BK4 b - - 0 60"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5q2/3B3k/bp1n2p1/p2PQ2p/4P2P/1P6/1NR5/1K3r2 w - - 0 53"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3k3/p6p/3b1B2/3p4/3Qp1q1/8/P1P2P1P/1R3R1K b q - 0 24"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/p1k1P3/P3K3/8/8 w - - 0 1"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/5p2/8/4P1P1/8/5k1K/8 w - - 0 1"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1k6/1P3p2/4pNpp/1R2n3/3p4/3P4/2r3PP/6K1 b - - 0 43"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3k3/p6p/3b1B2/3p4/3Qpq2/8/P1P2P1P/1R3R1K w q - 0 25"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4N2/4Pp2/n1kP2p1/6P1/3R4/PPp1Bb2/K1P5/7r w - - 0 37"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1P6/3k2p1/8/6p1/2n1R3/5P2/1r3BK1 b - - 0 43"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/1b4p1/1p1p3p/4p1q1/1PPn1r2/4QP2/5RPP/3RNBK1 w - - 0 31"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r1b1k/p1qr4/1p1p2p1/4p2p/2P1PPb1/BP1R2P1/P2Q2B1/3R2K1 w - - 0 29"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1b6/8/2P5/6KB/8/4kP2/8/8 b - - 0 1"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4rk1/p2qb1pp/2N2p2/1p1n3b/2pPQB2/8/PPB2PPP/R4RK1 b - - 0 18"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4rk1/4ppbp/p1np1np1/qp6/3PP3/1BN1BQ1P/PP3PP1/R3K2R w KQ - 0 14"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1k4pN/4n3/PP6/2K5/8/8/8 b - - 0 59"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5k2/6p1/7p/8/7P/7K/8/8 w - - 0 1"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b1kb1r/1pNn1ppp/3ppn2/8/1q2PP2/3BB3/P1P3PP/R2Q1RK1 b kq - 0 12"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "K2n4/8/P7/8/2k5/8/2N5/8 w - - 0 1"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/4N1k1/2pP3p/5R2/3K3P/3n1pr1/8 b - - 0 46"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1P6/3k2p1/3n4/6p1/3R4/5P2/1r3BK1 b - - 0 44"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1P6/6p1/4k3/5np1/8/1r3PB1/3R2K1 w - - 0 46"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4B3/2bK4/1kP5/8/8/5P2/8/8 b - - 0 5"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/2r1ppbp/p4np1/qp2p3/3P4/1BN1BQ1P/PP3PP1/R3K2R b KQ - 0 17"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r2rk1/4ppbp/p1np1np1/q2N4/1p1PP3/1B2BQ1P/PP3PP1/3R1RK1 b - - 0 16"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6p1/kPK1n3/P5N1/8/8/8/8 b - - 0 63"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5kp1/7p/8/6KP/8/8/8 w - - 0 2"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6p1/5k1p/8/6KP/8/8/8 w - - 0 3"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b1kb1r/1p1n1ppp/3ppn2/1N6/4PP2/3BB3/PqP3PP/R2Q1RK1 b kq - 0 11"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "q1b2b1r/1p1nkppp/3np3/2P5/5P2/3BB3/P5PP/R2Q1RK1 b - - 0 17"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3n4/K7/P7/1k6/1N6/8/8/8 b - - 0 2"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/3P4/4N1k1/2p4p/2K5/7P/3r4/5n2 b - - 0 50"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5K2/8/p1r5/P4R2/1k5P/8/8 b - - 0 57"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "Q7/8/8/4K3/8/2k4P/8/1q6 w - - 0 65"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5K2/7r/p6P/P6R/1k6/8/8 b - - 0 60"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/p4pk1/6p1/6Pp/r4P1P/P1R2K2/8 w - - 0 39"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/2R5/p4pk1/6p1/6Pp/5P1P/1r6/5K2 w - - 0 41"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/7Q/p4k2/1p4q1/1P2p3/P6P/7K/8 b - - 0 47"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/2Q5/p7/1p2k3/1P2p3/P4q1P/8/4K3 b - - 0 51"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/7Q/p4k2/1p6/1P6/P3p1KP/3q4/8 w - - 0 49"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/7Q/p7/1p2k3/1P2p3/P5KP/4q3/8 w - - 0 51"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/3p3Q/8/2P1p3/5kqP/8/7K w - - 0 1"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/3p4/8/2P2Q2/4p2P/4k1K1/4q3 w - - 0 6"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/3p4/8/2PQ4/4p2P/2k3K1/4q3 w - - 0 8"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/7p/5k2/r7/5NK1/6P1/8/8 w - - 0 53"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/4N2p/4r3/4k2K/6P1/8/8 w - - 0 59"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/5Nrp/8/7K/5kP1/8/8 w - - 0 62"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/1R5p/4K3/7P/8/2b5/8/8 b - - 0 1"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/4k3/5p2/6p1/4P1Bp/5PP1/1r5P/6K1 b - - 0 1"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/4k3/5p2/8/4P1Bp/5P2/4r2P/6K1 w - - 0 3"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3qk2/1p3p2/1n2p1p1/1p2N2p/p2PP2P/P5P1/1P2QPK1/3R4 w - - 0 31"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3qk2/1p3p2/1n2p1p1/1p2N3/p2PP1QP/P7/1P3PK1/3R4 b - - 0 32"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/R4p2/4k1p1/P6p/7P/4K1P1/r4P2/8 b - - 0 58"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/R4p2/P3k1p1/7p/7P/4K1P1/r4P2/8 w - - 0 60"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "R7/5p2/P4kp1/7p/3K3P/r5P1/5P2/8 b - - 0 67"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "R7/P7/5pp1/2K2k1p/7P/5PP1/r7/8 b - - 0 70"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3R4/1K3p2/P4kp1/7p/7P/6P1/1r6/8 w - - 0 73"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "K7/5p2/P5p1/1R3k1p/7P/6P1/r7/8 b - - 0 75"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "K7/P4p2/6p1/7p/6kP/1R4P1/r7/8 b - - 0 76"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "K7/P7/5R2/7p/6kP/8/r7/8 b - - 0 79"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/7R/8/8/4K1kp/8/8 b - - 0 87"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3qk2/1p3p2/1n2p1p1/1p2N2p/p2PP2P/P5P1/1P2QPK1/3R4 w - - 0 31"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/7R/8/8/4K1kp/8/8 b - - 0 87"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3R4/1K3p2/P4kp1/7p/7P/6P1/1r6/8 w - - 0 73"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1R6/6p1/8/8/rp1k2PK/7P/8 b - - 0 1"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1br2k1/pp4pp/2n1pq2/2np4/5P2/2N2NP1/PPPQ3P/2KR1B1R w - - 0 14"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1br2k1/pp4pp/2n1p3/1B1p4/5P2/2P2NP1/P1P4P/2KR3R b - - 0 17"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1br2k1/6pp/ppn1pq2/2np4/5P2/2N2NP1/PPP3BP/2KRQ2R w - - 0 16"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2r2k1/p2b2pp/1pn1pq2/2np4/5P2/2N1QNP1/PPP4P/2KR1B1R w - - 0 16"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2rrb1k1/p5pp/4pq2/1pnp4/3R1P2/2N1Q1P1/PPP3BP/2K1R3 w - - 0 20"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r1b1k1/p5pp/2q5/3R4/np3P2/6P1/PPPQ3P/2K1R3 b - - 0 25"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3rb1k1/p5pp/1p1rpq2/2np4/3N1P2/2N1Q1P1/PPP4P/2KRR3 w - - 0 20"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/6pp/pp2b3/2np1Nq1/3Q2P1/2N5/PPP4P/1K2R3 w - - 0 27"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/6pp/pQ6/5Pq1/1P2p3/8/P1P4P/1K2R3 w - - 0 31"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4b1k1/6pp/pp6/8/1P1N2P1/8/PKP4P/8 w - - 0 34"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/3b1kpp/pp6/8/1PPN2P1/2K5/P6P/8 w - - 0 36"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4b3/6pp/pp3k2/8/1PPN2P1/2K5/P6P/8 w - - 0 36"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/3b2pp/pp6/8/1PKN2P1/8/P1P4P/8 b - - 0 35"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/7p/1p3k2/1P1K2p1/3N2b1/8/P6P/8 w - - 0 40"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/3b1kpp/pp6/6P1/1P6/2K2N2/P1P4P/8 b - - 0 36"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/3b2pp/pp6/5kP1/1PPK4/5N2/P6P/8 b - - 0 38"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6pp/p1N5/8/3K4/7k/P6P/8 w - - 0 44"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4rk1/pp1b2pp/4p3/3pR3/8/2NP4/PP3PPP/5RK1 b - - 0 18"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/p4pp1/4p2p/3n3Q/1p6/3q4/PP3PPP/R4RK1 w - - 0 24"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/1pp2ppp/4b3/p1B5/5Pn1/P7/1P1K2PP/R3R3 w - - 0 22"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r1bk1/1p3p1p/p2r2p1/3b2Q1/8/P2B4/1PP3PP/1K1R4 w - - 0 26"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r2k2r/4bp2/p2pbp2/1p2p3/4P1P1/P3B3/1PPR3P/1K3BR1 b k - 0 20"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r6/4b3/p4p2/1p1kp3/8/PP4Br/2P1R2P/1K3R2 w - - 0 30"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r2/1p1r1k2/p2Pbpp1/2p1np2/4pN2/1P5P/P1PRBPP1/2K4R w - - 0 24"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/p3bpp1/1p2pn1p/4q3/2P5/1P2BQN1/P4PPP/2R3K1 b - - 0 22"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbq1rk1/ppp2ppp/5n2/3P4/1bBP4/2N2P2/PPP1N2P/R1BQK2R b KQ - 0 8"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/r7/5pp1/3k4/P3R1PK/5P2/8/8 b - - 0 53"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2k5/q1p5/3p4/pPpPp1pp/N1P1Pp2/P4PbP/KQ4P1/8 b - - 0 1"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/2k5/7R/6rp/2K5/8 b - - 0 74"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1k6/4qp2/5p2/KP3P1p/P2Q3P/8/8/8 b - - 0 44"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r1k/pp5p/3q2b1/8/3N1ppR/8/PP3PPP/3Q2K1 w - - 0 1"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1R6/4rppk/2p2q1p/4pP2/8/1B4QP/P3rPP1/6K1 w - - 0 33"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/p2rk3/R7/P3pp2/8/4KP2/8/8 b - - 0 1"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/4R3/P1p2pp1/2P2k2/2PK1P2/r7/8 w - - 0 50"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4b1k/5pRp/3p1n1B/4pP1P/1p2P3/q2B1P2/2PQ4/1K4R1 w - - 0 28"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r1k/pp5p/3q2b1/8/3N1ppR/7P/PP3PP1/3Q2K1 b - - 0 1"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1R6/4rppk/2p2q1p/4pP2/8/1B4QP/P3rPP1/5K2 b - - 0 33"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/p3k3/R2r4/P3p3/4Kp2/5P2/8/8 w - - 0 3"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4b1k/5pRp/B2p1n1B/4pP1P/1p2P3/q4P2/2PQ4/1K4R1 b - - 0 28"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/5qp1/1Q5p/8/6P1/1p3P2/1P1r2PK/4R3 w - - 0 36"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1Q5R/6p1/6kp/8/6P1/1p3q2/1P1r2PK/8 w - - 0 39"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/pp3pp1/3rpnp1/2q5/2P5/1P3N1P/P1Q2PP1/3R2K1 w - - 0 24"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/2B5/2K5/1P6/8/3kb3/8/8 w - - 0 89"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/3nbpk1/4p1pp/r1p5/1p1P1P2/3NPBP1/1P2K2P/2R5 w - - 0 36"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4Bb2/5pk1/n3p1pp/r3N3/1p1P1P2/6P1/1PR1K2P/8 b - - 0 40"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r1r2k1/1p2qp2/p1p2bp1/7p/2Pnp2P/2B3P1/PP1RPPB1/2R1Q1K1 b - - 0 25"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r1r2k1/1p3p2/p1p2bp1/7p/2P4P/2B3P1/PP3QB1/2q1R1K1 b - - 0 29"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r3rk1/p4pp1/q3p2p/2p1P1n1/1bPn3N/2N1R1PP/PP4Q1/2B2RK1 w - - 0 23"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r3rk1/p4pp1/4p2p/2p1P3/2Pn2QN/1PR3P1/q7/2B2RK1 b - - 0 26"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4rb1k/3q2pp/2n1bp2/2p1pN2/1pP1P1P1/3PBQ2/rP1R1N1P/5RK1 w - - 0 25"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1r3k1/1p2ppbp/3p2p1/p1nP4/4P3/1P2BP2/P2KB1PP/2R4R b - - 0 19"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5nk1/R5p1/p3p2p/2B1P2P/rp3P2/6K1/6P1/8 b - - 0 44"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1b6/p2k2P1/2Rp1B2/PKp5/2P5/6r1/8 w - - 0 47"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r1k2r/3bppb1/p7/1p1N3p/3NP3/1P2QPq1/PP1R4/1K5R b k - 0 25"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r1rk1/3qppb1/1p3npp/1N6/Pn1P1N2/5QP1/1P2RPKP/R1B5 b - - 0 21"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4rb1k/3q3p/4bN2/2p1ppP1/1pPnP3/3PBQ2/rP1R3P/5RK1 w - - 0 28"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r5k1/1p2ppbp/3p2p1/3P4/1P2P3/pP2BP2/3KB1PP/2R5 w - - 0 23"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5R2/6pk/p3p2p/2B1P2P/1r3P2/1p4K1/6P1/8 w - - 0 47"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2B5/1b6/p2k2P1/K1Rp4/P1p5/2P5/1r6/8 b - - 0 48"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3rr1k1/3qppb1/1p3n1p/1N4p1/Pn1P1N2/4BQP1/1P2RPKP/R7 w - - 0 23"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r5/1r2ppkp/3p2p1/3Pn3/RP1R2P1/7P/3QB1PK/2q5 b - - 0 31"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/2q2ppp/r1p1b3/1r2p3/N1p1P3/R1R4P/1P1Q1PP1/6K1 w - - 0 1"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1q4k1/6p1/2p1p3/p2nP2P/3B2PK/P2b1B2/5Q2 w - - 0 73"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4R3/5ppk/7p/p2b4/1p1N4/PPr2P2/3K2PP/8 w - - 0 38"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5b2/5p1p/4p1k1/6p1/R2P2P1/4P2P/1rr2PK1/R3B3 w - - 0 36"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2r2k1/6p1/p5bp/4q3/2Ppp3/P4B1P/3R1PP1/3QR1K1 b - - 0 24"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3k2r/1bq1bpp1/p3p3/7p/Pp1Q1P2/1P1BB3/1P4PP/R4R1K b kq - 0 19"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3r1k1/1p3ppp/1B1b1p2/p2P1q2/1n6/1P3N2/1P1Q1PPP/R2R2K1 b - - 0 18"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5Nk1/1b3ppp/p2bp3/1p3q2/3Pp3/4B1P1/PP5P/R1Q3K1 b - - 0 23"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1B2ppkp/3p2p1/3Pn3/RP1R2P1/7P/2rQ2PK/1q6 b - - 0 33"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/2q2ppp/2p1b3/1rN1p3/2p1P3/R6P/1P1Q1PP1/6K1 b - - 0 2"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7Q/8/6pb/2p4k/p1Bpq2P/6PK/P7/8 w - - 0 78"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5ppk/7p/p2bR3/1p1N4/PPr2P2/3K2PP/8 b - - 0 38"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6R1/5p1p/4pk2/6p1/1b1PP1P1/7P/1rr2PK1/R3B3 b - - 0 38"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r5k1/6p1/p5bp/4q3/2P1p3/P2Q1B1P/5PP1/4R1K1 b - - 0 26"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3rk2r/1b2bpp1/p3p3/8/PpB2P1p/1P2B2P/1P4P1/R4R1K b k - 0 22"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3rk1r1/1bq2p2/p3pQ2/7p/Pp3P2/1P1BB3/1P4PP/R4R1K w - - 0 22"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/1p3ppp/rB1b1p2/p2P1q2/1n6/1P3N2/1P1Q1PPP/R2R2K1 w - - 0 19"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3Q4/1b3ppk/p2bp2p/1p1q4/3Pp3/1P2B1P1/P6P/2R3K1 w - - 0 32"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5k2/1b3ppp/p2bp3/1p3q2/3PpB2/6P1/PP5P/R1Q3K1 b - - 0 24"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r4/p2qbp2/1k2p1p1/pP1pP2r/3P1P2/P4NK1/7P/R3Q2R w - - 0 22"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qrbk1/pb1n1ppp/1p1ppn2/8/N1PP1B2/P2B1N2/1P3PPP/2RQR1K1 b - - 0 13"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4rk1/1bqn1ppp/pp2pn2/8/1bPN4/1P1B1N2/PB2QPPP/R2R2K1 w - - 0 16"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4R3/pBp2pkp/1b3qp1/8/1N3n2/2P5/PP3PPP/3R3K b - - 0 25"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4rnk1/4qppp/p2p4/1p2r3/1R6/2PB4/PP3QPP/5R1K b - - 0 29"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b1r1k1/pp3ppp/n1p2nq1/8/4P3/1NPQ2PP/P4PB1/R1B2RK1 w - - 0 15"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qk2r/ppp1bppp/4b3/3pP2Q/8/2PB4/P1P2PPP/R1B1K2R w KQkq - 0 10"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/pp1q1p1p/2nbp1p1/8/3P4/4PNP1/PQ3PBP/2R3K1 w - - 0 20"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b1k1r1/pp3p2/1n1p1n2/2pP2p1/q1P1p3/2P1P1B1/P2QBNPP/R3K2R w KQq - 0 17"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r4/p2qbp2/1k2p1p1/pP1pP2r/3P1P2/P4NK1/7P/2R1Q2R b - - 0 22"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r4/pk1qb3/2R1pp2/pP1pP2r/P2P1K2/5N2/7P/4Q2R w - - 0 26"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qrbk1/pb1n1p1p/1p1ppnp1/8/N1PP1B2/P2B1N2/1P3PPP/2RQR1K1 w - - 0 14"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4Nk1/p4p1p/1p4p1/8/b1P2n2/P6P/1P3PP1/4RBK1 w - - 0 22"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4rk1/1bqn1ppp/pp3n2/5N2/1bP1p3/1P1BQN2/PB3PPP/2RR2K1 b - - 0 18"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3r1k1/1bqn1p1p/pp3n1Q/2P2B2/1b6/1P3p2/PB3PPP/2RR2K1 b - - 0 22"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6R1/5p1p/1bq3pk/p7/5N2/2P5/PP3PPP/3R3K b - - 0 29"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/4qRpp/p2p4/1p2r3/8/2Pn1Q2/PP4PP/5R1K b - - 0 32"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r5k1/pp3ppp/n1p2n2/5P2/6q1/1NPQ2PP/P4PBK/R1B1r3 w - - 0 18"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3rr1k1/pp3ppp/n1p1bnq1/8/2P1P3/1N1Q2PP/P2B1PB1/R4RK1 w - - 0 17"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3k2r/pppqbppp/4b3/3pP2Q/8/2PB3P/P1P2PP1/1RB1K2R b Kkq - 0 11"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/2Q2p1p/p3p1p1/1q6/8/4P1P1/P3nPBP/4K3 b - - 0 28"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/pp1q1p1p/2nbp1p1/8/3P4/4P1P1/PQ1N1PBP/2R3K1 b - - 0 20"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b1k1r1/pp3p2/1n1p1n2/2pP2p1/q1P1p3/2P1P1B1/P2QB1PP/R2NK2R b KQq - 0 17"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b1k1r1/pp3p2/1n1p1n2/2pP2p1/q3p3/2P1P1B1/P3BNPP/R2Q1RK1 w q - 0 19"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r2rk1/1p3pb1/p3b1pp/2Rp4/1P1P1q2/PQ1B1N1P/5PP1/4R1K1 w - - 0 27"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r2k2/5pq1/pp2b2Q/3p4/1P6/P6P/5PP1/1B2R1K1 w - - 0 34"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/5pq1/pp1Qb3/8/1P6/P7/5PP1/1B2R1K1 b - - 0 37"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/5p2/pp1Qb3/6q1/1P2B3/P7/5PP1/2rR2K1 b - - 0 39"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r3/2RR4/p5pk/p3ppnq/1b6/4P2P/1B3PQ1/5K2 b - - 0 46"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/2RRr3/p2b2pk/p3Bpnq/8/4P2P/5PQ1/5K2 w - - 0 48"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b2rk1/pp1n1pp1/2p2q1p/4p3/2BP4/4PN2/PP3PPP/2RQ1RK1 b - - 0 13"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bq1rk1/pp1n1pp1/2p2b1p/3p4/1P1P4/2NBPN2/P4PPP/2RQK2R b K - 0 11"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b2rk1/4qpp1/5n1p/3p4/2pP4/2N1P3/4BPPP/2RQ1RK1 b - - 0 20"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/5pp1/5n1p/3p4/1qpP4/2NbPB1P/5PP1/Q3R1K1 b - - 0 25"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5ppk/3r1n1p/3p4/1qpP4/2NbPB1P/3R1PP1/Q5K1 b - - 0 27"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/2R2ppk/3r1nbp/3p4/2pP4/2N1PB1P/2q2PP1/Q5K1 w - - 0 34"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1R6/5ppk/3r3p/Q2p4/2pPb3/2N1P2P/2q2PP1/6K1 w - - 0 38"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r1nk1/1q3ppp/rp6/1Q1p4/P1pP4/2R1P3/R2N1PPP/6K1 b - - 0 23"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4nk1/3q1ppp/rp6/1Q1p4/P1pP4/R3P3/R2N1PPP/6K1 w - - 0 25"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r5k1/5pp1/rp4n1/3p4/P1pP2q1/R1N1P1P1/RQ5P/6K1 b - - 0 30"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/4npp1/4q3/3p4/2pP4/2N1P1P1/Q6P/6K1 w - - 0 36"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4rk1/ppqnbpp1/5np1/2pp4/N2P4/1Q2PPP1/PP1B2KP/R4B1R w - - 0 16"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3r1k1/3n1pp1/1Pq2np1/p2p4/1bpP4/2N1PPP1/1PQBB1KP/R1R5 w - - 0 23"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3r1k1/5pp1/1nq2np1/3p4/pbpP2PP/2N1PP2/1PQBB1K1/R6R b - - 0 25"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/2b2p1n/1nq3p1/1R1p2Pp/2pP1P2/2N1PB2/2QB2K1/8 w - - 0 34"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/2q2p1n/1nr3p1/B1Rp2Pp/3P1P2/2p1PB2/6K1/1Q6 w - - 0 39"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/5p2/6p1/3p3p/2qPnP1B/2p1P3/6K1/1Q1B4 b - - 0 43"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2rq1rk1/pb2bpp1/1p2p2p/4N3/3P4/1BP3P1/P3QPP1/2RR2K1 b - - 0 19"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3q1rk1/pbr2pp1/1p2pb2/7p/3P4/1BPQN1P1/P4PP1/2RR2K1 b - - 0 22"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3q1rk1/pb1r1p2/1p2pbp1/8/3P2N1/1BPQ4/P4PP1/2RR2K1 w - - 0 25"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2kr3r/pbppq3/1pn1p2p/6p1/2PPN3/4P3/P1Q1BPPP/R3K2R w KQ - 0 16"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1k1r3r/pbp1q3/1p1p3p/n2Pp1p1/2P1N3/P3P3/2Q1BPPP/RR4K1 w - - 0 20"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3b3/ppk2ppp/4p3/1P6/2P5/5B2/P4PPP/2KR4 w - - 0 23"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1kr1b3/1p6/3R4/pPP2p1p/P1K1p1p1/6P1/5PBP/8 w - - 0 33"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5R2/1p1k3p/p2p4/2pPnNr1/2P5/PP4P1/6K1 w - - 0 48"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/1pk4p/p2p1R2/P1pPnNr1/2P5/1P4P1/6K1 b - - 0 49"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5nk1/5p2/6p1/Q7/4B1Pp/P2P3P/1q3PK1/8 w - - 0 37"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r1r4/2n1b1pk/1p1p2pp/4p3/P1B5/2P1B3/1P3PPP/R2R2K1 w - - 0 24"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3k2r/pp1n1p2/4pnp1/3q2Bp/3P3P/3Q2N1/PP3PP1/R3R1K1 w kq - 0 17"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r1r1k1/1bpnqpb1/pp3npp/4p3/1PN1P2B/2P2N2/P1Q2PPP/R3RBK1 w - - 0 16"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r1r1k1/1bpn1pb1/pp2q1pp/4p2n/PPN1P2B/2P5/2QN1PPP/R3RBK1 w - - 0 18"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/pp1b1r1p/4p1p1/3p4/2pP1q2/P1P5/2P1RPPP/R3QBK1 b - - 0 23"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/2q2p2/P5p1/1Q6/4B1Pp/3P1K1n/5P2/8 b - - 0 42"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r1r4/4b1pk/1p1p2pp/3Rp3/P7/2P1B3/1P3PPP/R5K1 b - - 0 25"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r1r1k1/1bp2p2/pp2qnpp/4p1bn/PP2P3/2P1NP2/2QN1BPP/R3RBK1 w - - 0 21"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2kr3r/ppp1np1p/2nb2p1/3p4/3P3q/2PQB1N1/PP2NPPP/2KR3R b - - 0 13"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2kr3r/ppp1np2/2nb2pp/3p4/3P1Pq1/2PQB1N1/PP2N1PP/2KR3R w - - 0 15"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rn3rk1/1p2bpp1/2p1p2p/8/Pp1PN3/4P1P1/1P2BP1P/R2R2K1 b - - 0 21"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/3nbpp1/B1p1p2p/8/1p1PN3/4P1P1/1P3P1P/3R2K1 b - - 0 25"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4rk1/pp1nb1pp/1q2pp2/3pP3/3P1PP1/3BB3/PP2Q2P/R4RK1 w - - 0 19"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/pp1nb1pp/1q2p3/3pP3/3P2P1/3BB3/PP2Q1KP/5R2 w - - 0 22"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rn1qk2r/pbpp2bp/1p3np1/3P1p2/8/P1N2NP1/1P2PP1P/R1BQKB1R w KQkq - 0 9"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qk2r/1p1bbppp/p1npp3/n7/4P3/1PN3P1/PBPN1PBP/R2Q1RK1 b kq - 0 12"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r1q1rk1/3bbppp/2np4/n3p3/Pp2P3/1P4P1/1B1NNPBP/R2Q1RK1 b - - 0 19"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r2r1k1/5ppp/2npb3/n2N4/Pp1qP3/1P4P1/3N2BP/2RQ1R1K b - - 0 25"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b1r1k1/1pq2pbp/pn1p2p1/3Pn3/P1p1P3/6PP/1PQN1PB1/R1BN1RK1 b - - 0 17"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1n1k2r/3bb1p1/p3p1p1/1p1pPp2/1P1N4/P2B1N2/2P2PPP/R3R1K1 w kq - 0 18"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r3/1p6/1R6/2pN1pk1/7n/P2P1p1P/1PP5/5K2 w - - 0 46"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1n1r1rk1/q3bppp/p3p3/2pbBn2/PpN1NP2/1P1P2PP/2P1RQBK/R7 w - - 0 24"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r3/1p1n2p1/1b1Pkp2/p3p3/P3N1P1/1P6/1BR2PK1/8 w - - 0 34"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bbr1k1/1pq2ppp/2pp1n2/p1nPp3/P1P1P3/2N1B2P/1P1NBPPK/R2Q2R1 b - - 0 14"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3r1k1/1pqb1pbp/1n1p2p1/p2Pn3/P1p1P3/4N1PP/1PQN1PB1/R1B2RK1 w - - 0 19"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r1r1k1/1p1b1pbp/1n1p2p1/p1qP4/P1p1P3/2NnN1PP/1PQB1PB1/R2R2K1 b - - 0 22"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/q5pp/p3p3/3n2b1/PpNp2P1/1P1P2NP/2P2Q2/7K b - - 0 34"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r3/1p1n2p1/1b1Pkp2/p3p3/P3N1P1/BP6/2R2PK1/8 b - - 0 34"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bbr1k1/qp3ppp/2pp1n2/p1nPp3/P1P1P1P1/2N1B2P/1P1NBP1K/1R1Q2R1 b - - 0 16"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3rr2k/pp5p/2p2qb1/2P2p2/P2P1Q1R/1B2R3/5PP1/6K1 w - - 0 39"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/1p3pp1/p1n1p3/3pP1P1/3P4/1P3N2/1P5P/1KR5 w - - 0 26"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3rr1k1/1q3pb1/p2p3p/1ppRn1p1/P3PB2/1PP4P/2Q1BPP1/5RK1 w - - 0 26"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3qrnk/1ppbbppp/2n5/p2pP3/B2P4/P4N2/1PQ2PPP/R1B1RNK1 w - - 0 15"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3rr1k1/p1qn1ppp/1pp2n2/2b5/P1PNPP2/6P1/1BQ3BP/R2R3K w - - 0 21"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4rq2/p1nb3k/1p1p2p1/1PpP1p1p/P1P2Q1P/3B1NP1/5PK1/7R b - - 0 28"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r1k2r/3nqpp1/p2p3p/1p1PpP2/6P1/4Q3/PPP1B2P/1K1R3R b k - 0 22"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2k4r/pp4p1/5pb1/2Pr3p/1P1p1BP1/P4P2/4PKBP/7R b - - 0 24"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r7/pp1knpb1/3p4/2p3P1/4PN2/3P2P1/PPP3K1/R1B1rN2 b - - 0 24"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1r3k1/1bqnbppp/p2pp3/4n1P1/Np1BP3/1N3PR1/PPP2Q1P/1K1R1B2 b - - 0 18"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/pp1b3p/4pqp1/3p1r2/2pP4/P1P1R1Q1/2P1BPPP/5RK1 b - - 0 23"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1k1r3r/ppq2pp1/2pbpn2/7p/P2P1n2/2P2QN1/1PB2PPP/R1B1R1K1 w - - 0 17"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r3k/3r3p/1pp2qb1/5p2/P2P3R/3R2P1/2BQ1P2/6K1 b - - 0 43"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3rr1k1/1q3pb1/2np3p/1ppR2p1/4P3/1PP1B2P/2Q1BPP1/5RK1 w - - 0 28"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3qrnk/1ppbbppp/2n5/p2pP3/3P4/PB3N2/1PQ2PPP/R1B1RNK1 b - - 0 15"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r2rk1/5pp1/pQ1p1n1p/1p1PpP2/6Pq/8/PPP1B2P/1K4RR w - - 0 25"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2k1r3/pp4p1/5p2/2P4r/bP1p3P/P4PB1/4PKB1/2R5 b - - 0 28"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r5/pp1knp2/3p4/2p3P1/3bPN2/2PP2P1/PP4K1/R1B1rN2 w - - 0 26"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1k1rr3/ppq2pp1/2pb4/P3p2p/3P2nP/2P2QP1/1PB2P2/R1B1R1K1 w - - 0 23"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1k1r4/pP4p1/Q4p2/3p1KP1/B4P2/R6r/1P4q1/2B2R2 b - - 0 29"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1k1r4/pP4p1/Q7/3p1Kp1/B4P2/r7/1P4q1/2B1R3 w - - 0 31"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r7/pp6/4k3/2p1np2/7P/2P2pP1/PPB2K2/3R4 w - - 0 33"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6r1/pp6/4k3/2p1np2/7P/2P2pP1/PPBR1K2/8 w - - 0 34"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6rk/R7/4pqp1/3p2RP/5r2/P5Q1/5P2/6K1 b - - 0 31"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r6k/8/4p1R1/3p3P/8/P7/5QK1/q7 b - - 0 35"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4rk2/R7/5r2/2nR3p/2P3p1/2P1P3/5P2/2K5 b - - 0 37"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/7R/5r2/7R/2P1n1p1/2P1P3/5P2/2K5 w - - 0 40"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3r1k1/p1Q3pp/1pN2p1q/2nRp3/2R1P3/1P4PP/P4PK1/8 w - - 0 27"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3r1k1/N1Q3pp/1p3pq1/2nRp3/2R1P3/1P4PP/P4PK1/8 w - - 0 28"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2Nr1k1/p1Q3pp/1p1R1p2/2n1p2q/2R1P3/1P4PP/P4PK1/8 b - - 0 28"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4rk2/p1R3pp/1p2Qpq1/4p3/4P3/1P4PP/P4PK1/8 w - - 0 34"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2NQ3/p5pk/1p1R1p1p/2n1p3/1PR1P3/6PP/P3qPK1/8 b - - 0 31"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2Nr1k1/p1Q3p1/1p1R1p1p/2n1p3/1PR1P3/6PP/P3qPK1/8 w - - 0 30"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "R7/6k1/P7/8/8/r7/2K5/8 b - - 0 1"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/R7/P4k2/8/8/5r2/2K5/8 w - - 0 3"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/R7/P4k2/8/8/7r/1K6/8 b - - 0 3"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/R7/6k1/P5r1/8/4K3/8/8 b - - 0 68"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/R7/P4k2/6r1/8/4K3/8/8 b - - 0 69"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/p6R/r1k2K2/8/8 w - - 0 1"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/4k3/p4R2/6K1/8/r7 w - - 0 7"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6k1/p1r5/3R2KP/P7/8/8/8 b - - 0 73"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/R7/p1r5/P5KP/8/8/8/8 b - - 0 76"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/3R4/p1r5/P3K2P/8/8/8/8 b - - 0 80"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5k2/8/R4K1P/P1r5/8/8/8 w - - 0 60"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6k1/8/R5K1/P2r3P/8/8/8 w - - 0 59"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1p6/7p/5p1P/5P2/1p6/6RK/k7 w - - 0 1"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/pkp4Q/q6P/3pb3/1p6/1P1PP3/PB4r1/1K1R3R w - - 0 1"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/3q1p2/p4b1Q/2rppP2/4n3/1BP4R/P5PP/5R1K b - - 0 29"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r1k2/3q1p1Q/p4b1R/2r1p3/4p3/2P5/P5PP/5R1K b - - 0 34"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1p1p2p1/8/P7/5pPk/1K6/1P3P2/8 w - - 0 1"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6p1/8/8/6P1/5K2/8/5k2 b - - 0 24"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1p1p4/6p1/P5P1/1P2kp2/8/4KP2/8 b - - 0 6"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/Q2p2p1/8/8/6P1/8/K4p2/6k1 b - - 0 8"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5k2/5p1p/1Q2p1p1/3pP3/1p6/4RKPP/5P2/3r1q2 b - - 0 1"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5p1p/4p1p1/3pP2k/1p3Q2/4RKPq/5P2/3r4 w - - 0 5"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6r1/5p1k/4p3/3pQp2/1p1P1P1q/1P3RR1/2r4P/5K2 b - - 0 41"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6r1/7k/4pp2/3pQp2/1p1P1P1q/1P3RR1/2r4P/5K2 w - - 0 42"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/5p1p/8/7N/P1P5/8/K1R5/6q1 w - - 0 1"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/1p3p1p/r5q1/1Q6/3pNRn1/P5P1/1P5P/4R1K1 w - - 0 1"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/Q1p2pbp/4p1p1/2R1P3/3P4/5N2/Pr2qPPP/5RK1 b - - 0 23"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r1r4/1b3kpp/p2ppb2/q6P/np1NP3/4BP2/PPPQ4/1K1R1BR1 w - - 0 22"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r1r4/1b3kpp/p3pb2/q2p3P/np1NP3/1B2BP2/PPPQ4/1K1R2R1 b - - 0 23"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r1r4/1b3kpp/p2pBb2/q6P/3NP3/2p1BP2/P1PQ4/1K1R2R1 b - - 0 24"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r1r4/4k1pp/p2pbb2/q6P/3BP3/1NpQ1P2/P1P5/1K1R2R1 b - - 0 27"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r1rk3/6pp/p2pbb2/7P/4P3/1N2BP2/P1Pp4/1K1R2R1 w - - 0 28"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r1r1k2/1b4pp/p2pBb2/q6P/3NP3/2p1BP2/P1P4Q/1K1R2R1 b - - 0 25"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r1r1k2/1b4pp/p2pB3/q6P/3bP3/2p1BP1Q/P1P5/1K1R2R1 w - - 0 27"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r1r2k1/1b4pp/p7/q2p1Q1P/4P3/1Bp1bP2/P1P5/1K1R2R1 w - - 0 30"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/1b1r2bp/p6P/3p4/4P3/1Bp2P2/P1P5/2K3R1 b - - 0 36"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r1r1k2/1b4pp/p2pBb2/q6P/4P3/2p1BP1Q/P1P5/K2R2R1 w - - 0 28"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r1rk3/1b4pp/p2pB3/q6P/3bP3/2p1BP2/P1P4Q/K2R2R1 b - - 0 26"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/7p/p1Qpk3/7P/4P3/2p1bP2/P1q5/KR6 b - - 0 37"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r1r4/5kpp/p2ppb2/7b/8/1N2B2B/P1PR4/2K3R1 b - - 0 28"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r4/2k3pp/p2p1b2/3Q3P/8/q1p2P2/PrP5/K1BR2R1 w - - 0 31"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r1r4/5kpp/p2ppb2/q2b3P/8/1Np1BP1B/P1P5/1KQR2R1 w - - 0 26"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5kpp/p2p1b2/4p2P/8/1rpKBP1B/q7/2QR2R1 w - - 0 32"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r1r4/5kpp/p2ppb2/q2b3P/3R4/1Np1BP1B/P1P5/1KQ3R1 b - - 0 26"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r6/5kpp/p2ppb2/q6P/4b3/1Pp1BP1B/2P5/1KQR2R1 w - - 0 27"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r6/6pp/p1k5/4q2P/4P3/1Pp5/2P5/1KQ3R1 w - - 0 32"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2q1rk1/ppp1ppbp/5np1/n2P4/1Q2P1b1/2N2N2/PP2BPPP/R1B1K2R b KQ - 0 10"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4rk1/pp2ppbp/2p3p1/n1nP4/1q2P3/2N5/PPQ1BPPP/R1B2RK1 w - - 0 16"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3r1k1/p2Q1p1p/1pp3p1/n2P4/4P3/5B2/Pq3PPP/2R2RK1 b - - 0 22"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2r2k1/p1Q2p1p/1pp3p1/n2P4/4P3/5B2/q4PPP/2R2RK1 w - - 0 24"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3r1k1/p1Q1P2p/1pR3p1/8/8/5P2/q4P1P/4R1K1 b - - 0 30"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3r1k1/p1Q1P2p/3R2p1/1p3q2/8/5P2/5PKP/4R3 w - - 0 33"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r1r1k1/Q3P2p/3R2p1/1p3q2/7P/5P2/5PK1/4R3 b - - 0 34"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r1r1k1/1Q2P2p/3R2p1/pp3q2/7P/5P2/5PK1/4R3 w - - 0 35"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/4P2p/r1q3p1/1p2R2P/p7/4QP2/5PK1/4R3 w - - 0 40"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/4P3/4rqpQ/1R6/p7/5P2/5PK1/4R3 w - - 0 43"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r1q1rk1/p4pp1/3b1n1p/2pp1B2/7B/8/PPP2PPP/R2Q1RK1 w - - 0 16"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/p4pp1/5n1p/2ppqB2/8/1PP2QP1/P4PP1/2R3K1 b - - 0 23"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5pk1/5np1/p3q2p/B1p5/2P3P1/P2r1PP1/1QR3K1 b - - 0 31"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r2r1k1/p4pp1/3q1n1p/2pp1B2/8/1P4P1/P1P2PP1/1R1Q1RK1 w - - 0 20"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/p4pp1/5n1p/2pp1B2/5Q2/1Pq3P1/P1P2PP1/1R4K1 w - - 0 24"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r3/5pk1/5npp/p1pp4/5QP1/1PqB1P2/P1P3P1/5RK1 b - - 0 27"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r3/2Q2pk1/8/p2p2pn/2P4q/3B1P2/P1P3P1/5RK1 w - - 0 33"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3q1rk1/p4pp1/5n1p/2pp1B2/1r6/6P1/PPP2PP1/1R1Q1RK1 b - - 0 18"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/p4p2/1r3npp/2ppq3/1P6/2P2QP1/P1B2PP1/1R3RK1 b - - 0 23"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3qr1k1/pr3pp1/5n1p/2pp1B2/Q7/2P3P1/PP3PP1/1R3RK1 b - - 0 20"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3q2k1/pr3p2/6pp/3pr3/QP2n3/3B2P1/P4PP1/2R2RK1 w - - 0 25"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3q2k1/1Q3p2/6pp/4r3/1P1p4/r1nB2P1/5PP1/2R2RK1 w - - 0 30"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3qk2r/p2b1ppp/4p3/n3N3/2pP4/PrR3P1/3QPPBP/R5K1 b k - 0 19"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3q1rk1/p2b1ppp/4p3/n3N3/2pP4/PrR3P1/3QPPBP/R5K1 w - - 0 20"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2rr2k1/p1q1pp1p/2p1b1p1/1p1nP1B1/1P6/P5P1/2Q1PPBP/2RR2K1 w - - 0 26"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2rr2k1/2q1pp1p/2p1b1p1/ppRnP1B1/1P2Q3/P5P1/4PPBP/3R2K1 b - - 0 27"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/2q1pp1p/2p1b1p1/1pR1P1B1/1Q6/6P1/4PP1P/3r1BK1 b - - 0 31"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/2q1pp1p/2p1b1p1/ppR1P1B1/1P2Q3/6P1/4PP1P/3r1BK1 b - - 0 30"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/2N5/1p2p2p/p1k1nr2/4R3/P7/1KP4P/8 w - - 0 48"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/2N5/1p2p2p/p1k1nr2/8/P7/1KP1R2P/8 b - - 0 48"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qk2r/pp2bpp1/2bp1n1p/4p3/4P1PP/2NQB3/PPP2P2/R3KBR1 b Qkq - 0 13"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3kr2/1p2bpQ1/2b4p/qp6/6PP/2N5/PPP2P2/2KRR3 b q - 0 20"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r7/pb1pkp2/3n3R/3Pp2N/2p1PP2/2P5/P1B4r/2KR4 b - - 0 25"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2kn3/pb1p1p2/3P3R/4P2N/2p2p2/2P5/P1B4r/2KR4 w - - 0 28"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "k7/p2p4/3Pp1B1/7N/2p2p2/2P2b2/P2R3r/2K5 b - - 0 33"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2kn3/pb3p2/3Pp2R/7N/B1p2p2/2P5/P6r/2KR4 b - - 0 29"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2kn3/pb1p1p2/3P3R/4P2N/2p2p2/2P5/P1B4r/2K3R1 b - - 0 28"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r1knR2/pb1p1p2/3P4/4P2r/2p2p2/2P5/P1B5/2KR4 w - - 0 30"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4qr1k/6p1/4p2p/p2p2b1/1p2P1Q1/1PrB3P/P1R2PP1/3R2K1 b - - 0 33"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/6p1/2q1p2p/p3P1b1/1p1p1r2/1PrB3P/P1R1QPP1/3R2K1 w - - 0 36"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/6p1/2q1p2p/p3P1b1/3p1r2/1PpB3P/P3QPP1/3R2K1 w - - 0 37"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5k2/6pQ/4p1Bp/p1q1P1b1/3p1r2/1Pp4P/P4PP1/3R2K1 b - - 0 40"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/6p1/2q1p2p/p3P1b1/3p1r2/1Pp4P/P3QPP1/1B1R2K1 w - - 0 38"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/7p/3pBnpk/3P4/2Q4P/5pPK/P4R2/1r1q4 b - - 0 41"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6kp/3pBnp1/3P3P/5Q2/5pPK/P6R/1r1q4 b - - 0 44"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6k1/3pBnPp/3P4/5Q1K/5pP1/P6R/1r3q2 b - - 0 46"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6kp/3QB1p1/3P3n/8/5pPK/P6R/1r1q4 b - - 0 45"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/7p/3p1n1k/3P1Bp1/6PP/5p1K/P6R/6r1 w - - 0 46"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/7p/3p1n2/P2P1Bk1/6Pp/5p2/7K/8 b - - 0 50"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6kp/3p4/3n1BpP/6P1/5p1K/P4R2/6r1 w - - 0 48"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6kp/3p4/5BpP/6P1/2n2pK1/P4R2/r7 w - - 0 50"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6k1/2np3p/5BpP/2K3P1/8/8/8 w - - 0 55"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/7p/3p1k2/5PpP/8/R7/P4K2/r7 w - - 0 54"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/7p/1R5P/6pk/8/8/r7/6K1 b - - 0 60"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbk3r/ppp2ppp/3b1n2/4p3/4P3/2N2N2/PPP2PPP/R1B1KB1R w KQ - 0 7"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r6r/pppnkppp/3bbn2/1N2p1B1/4P3/5N2/PPP2PPP/2KR1B1R w - - 0 10"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2r4/1p1nkp2/p2pbn1p/1B2p1p1/4P3/6B1/PPPN1PPP/2KR3R w - - 0 15"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r5/1p1rk3/p2p2bp/4p1pn/8/4NPB1/PPP3PP/1K1R3R w - - 0 21"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r5/3r4/p3k1b1/1p1pp1pp/8/1P2NPP1/PKPR2P1/4R3 w - - 0 26"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r5/8/p3k1b1/1p2p1pp/3r4/1P2NPP1/PK1R2P1/4R3 w - - 0 28"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r5/8/p2k2b1/1p4pp/1N1p4/1P3PP1/PK4P1/4R3 w - - 0 31"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/3k4/1p6/1N1p3p/1P3P2/P3K1b1/8 b - - 0 37"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b1kb1r/1p3ppp/pqnppn2/8/P1B1P3/1NN5/1PP2PPP/R1BQ1RK1 b kq - 0 9"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b1k2r/1p2bppp/p2ppn2/q7/P1B1P3/2N1BP2/1PP3PP/R2Q1RK1 w kq - 0 13"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3k2r/1p1bbppp/p2ppn2/q7/PPBQP3/2N1BP2/2P3PP/R4RK1 b kq - 0 14"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2rr4/1p2kppp/p1bppn2/8/P2RP3/1BN2P2/1PP3PP/3R2K1 w - - 0 21"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2rr4/1p2kp1p/p1bppn2/6p1/P2RP2P/1BN2P2/1PP2KP1/3R4 b - - 0 22"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2rr4/1p2kp1p/p1bppn2/P5p1/3RP3/1BN2P2/1PP2KPP/3R4 b - - 0 22"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r6/1p1nkp1p/p2pp3/P1r3p1/RR2P3/1B3P2/1PP2KPP/8 w - - 0 27"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r6/1p2kp1p/p1npp3/P1r3p1/R3P3/1B2KP2/1PP3PP/R7 b - - 0 29"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r2/1p2k2p/p1npp3/P1r2pp1/R3P3/1BP2P2/1P1K2PP/R7 b - - 0 31"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1p2k3/p1npp2p/3r2p1/8/2P2P2/1PB1K1PP/1R6 b - - 0 40"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/4k3/2npp2p/p1r3p1/1p5P/1PP2P2/2BK2P1/7R w - - 0 45"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/7R/3ppk2/3r2p1/1p1n4/1P3P2/3K2P1/3B4 w - - 0 51"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2b2rk1/4R3/2pp3b/Q3p1n1/2P1Nqp1/B2P4/P2NPpB1/5K2 w - - 0 33"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2b2Bk1/8/2p5/Q3p3/2P1NbpK/3P4/P3P1B1/6q1 w - - 0 39"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/4R3/2pB3b/4Q1n1/2P5/3P2pb/P2NPNBq/5K2 w - - 0 36"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2b2k2/4r2p/p2p3b/n1pPpp2/1pP4q/1P3P2/PBQ1RNK1/4RN2 w - - 0 28"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2b1R3/5krp/p6b/n1pP4/1pP3pq/1P3P2/P1Q3K1/4RN2 w - - 0 32"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2b2k2/6rp/p2p3b/n1pPpp2/1pP4q/1P3PN1/PBQ1R1K1/4R2N b - - 0 29"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2b2k2/6rp/p2p4/n1pPpp2/1pP1N3/1P3P1q/PBQ1R2b/4K2R b - - 0 32"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2b2k2/6rp/p2p4/n1pPp3/1pP2p1q/1P2RP2/PBQ2N2/4RK2 w - - 0 31"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2b2k2/6rp/p2p3b/n1pPpp2/1pP5/1P2NP2/PBQ1RN1q/4RK2 w - - 0 30"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqr1k1/pp2bpp1/1np5/3p2P1/3Pn3/2NBP1N1/PPQ2PP1/2KR3R w - - 0 14"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqr1k1/pp2bpp1/2p5/3n2P1/3PNP2/2N1P3/PPQ3P1/2KR3R b - - 0 16"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqr1k1/pp2b1p1/2p5/5pPQ/3PNP2/2N5/PP4P1/2Kn3R b - - 0 19"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqr1k1/pp2b1p1/1np3P1/3p1p2/3Pn3/2NBP1N1/PPQ2PP1/2KR3R w - - 0 15"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqr1k1/pp4pR/1np3Pb/3p4/3Pp3/3BP1N1/PPQ2PP1/2K4R w - - 0 18"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2q2nk1/p5pp/bpr1p1n1/3pPpQN/P2P4/B6P/5PP1/R2B2K1 w - - 0 27"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2q2nk1/p7/bpr1pQnp/3pPp1B/P2P3P/B7/5PP1/R5K1 b - - 0 30"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2q2nkn/p7/bpr1pQ1p/3pPp1B/P2P3P/B7/5PP1/R5K1 w - - 0 31"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2q3kn/p1r4n/bp2p2Q/3pPp1B/P2P3P/B7/5PP1/4R1K1 w - - 0 33"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2b3qk/2r2n1n/1p2Q3/3pPp1B/3P3P/B7/5PP1/1R4K1 w - - 0 38"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6qk/1R3n1n/8/3pPp1B/3P3P/B7/5PP1/6K1 b - - 0 40"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/5R1n/4P3/3p1p1B/3P3P/q7/5PP1/6K1 b - - 0 42"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/4PR1n/8/3p1p1B/3P3P/7K/5qP1/8 b - - 0 45"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/5R2/4P3/3p2qB/3P2p1/8/5P1K/8 w - - 0 46"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r5k1/rnpb2qp/1p1p2p1/p2Ppp2/1PP5/P1Q1P2P/2BN1PP1/R4RK1 w - - 0 22"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3rqk1/1p1b2bn/p2p1pp1/3P2P1/P2BNPn1/6Np/1P1QB2P/R3R1K1 w - - 0 25"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2q4/1p6/n2Pb1kb/4pp2/1PP4p/2N4P/4N3/BR1QK3 w - - 0 28"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3q4/1p6/3P2kb/3Qpp2/1RP4p/7P/4NK2/r7 b - - 0 31"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1p1P2b1/4Q3/q3ppk1/1RP4p/7P/4NK2/r7 w - - 0 34"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1R6/3P2kb/3Q1pq1/2P4p/4p2P/4N2K/r7 b - - 0 34"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4Q3/1R4bk/3P1q2/5p2/2P1p2p/7P/4NK2/r7 w - - 0 35"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3Q1rk1/1R4b1/8/5p1Q/7p/7P/4p3/5KNq w - - 0 42"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r3/1p4kp/p1n1qpp1/P2p4/5Q2/2B1P1P1/1P3P1P/3R2K1 w - - 0 29"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r3/1p5Q/p5p1/P3Pk2/8/4P1PP/1PqBK3/8 b - - 0 39"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r3/1p5p/p1n3pk/P2q4/5Q2/2B1P1P1/1P3P1P/6K1 b - - 0 31"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1p6/p1n4Q/P2q2p1/6k1/2B1P3/1P3P2/6K1 b - - 0 37"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r3/1p4Bp/p1n3p1/P2Q3k/6q1/4P1P1/1P3P1P/6K1 b - - 0 34"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/1p5p/p3q1p1/P2pn1Q1/8/2B1P3/1P3P1P/3R2K1 w - - 0 32"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/1p5p/p3q1p1/P7/1B1RP3/8/1P3nQP/4K3 b - - 0 37"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4q3/1p5p/p5pk/P7/3Rr3/1QB5/1P3n1P/5K2 w - - 0 42"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/1p6/p1n1q1pp/P2p4/5Q2/2B1P2P/1P3PK1/3R4 b - - 0 34"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4R3/1p2nr1k/p4B2/6Pp/4p3/4P1K1/1P3P2/8 b - - 0 44"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r4/1p4kp/p1n1qpp1/P2p3P/5Q2/2B1P1P1/1P3P2/3R2K1 b - - 0 30"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6r1/1p3k1p/p1n2p2/P2p1p1P/8/2B1P1P1/1P3PK1/R7 w - - 0 34"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1p5p/p4p1k/P2R4/3P1pP1/1r3P2/1P3K2/8 w - - 0 47"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r4/1pQq1k1p/p1n2ppP/P2p4/8/2B1P1P1/1P3P2/3R2K1 w - - 0 33"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/p1q3pp/2r1pp2/2Pp4/Q2P1P2/1R6/P5PP/4R1K1 w - - 0 25"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/p1q3pp/2r5/2PpR3/Q2P4/1R4P1/P6P/6K1 w - - 0 28"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/p5p1/5rq1/2PpR2p/3P4/6P1/PR2Q1KP/8 w - - 0 32"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r2nk1/pp2r1pn/1q2bp2/3p3P/3P4/2NB1PQ1/PP2NK2/1R5R w - - 0 22"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4rnk1/pp2rbp1/1q3p2/3p2nP/3P4/1BN2PQ1/PP2NK2/3R3R w - - 0 25"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r2nk1/pp2r2n/1q2bp1P/3p2p1/3P4/2NB1PQ1/PP2NK2/1R5R w - - 0 23"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/r7/5ppk/p6p/8/R5P1/5P1P/6K1 w - - 0 45"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/r5k1/5pp1/p6p/R7/6P1/5P1P/6K1 w - - 0 46"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/r7/4kpp1/p6p/R7/5KP1/5P1P/8 w - - 0 48"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/r7/4kpp1/p6p/R5P1/5P2/7P/6K1 w - - 0 48"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3kbr1/pp1b1p1p/2p1pp2/3P4/2Q1Pq2/5N2/PP2NPPP/R3RK2 b q - 0 1"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2kr4/ppp2p1p/2b1ppr1/8/2PN4/6Pq/P1P1BP1P/R2Q1RK1 w - - 0 16"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qkb1r/1b3ppp/p3pn2/1p6/1n1P4/1BN2N2/PP2QPPP/R1BR2K1 w kq - 0 12"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2q1rk1/pppb1ppp/1n2pb2/8/3PN3/1B3N2/PPP1QPPP/R4RK1 b - - 0 11"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4rk1/ppp2ppp/4pq2/8/n1QP4/5N2/PPP2PPP/R4RK1 b - - 0 14"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r1rk1/ppq2p1p/1np1pp2/8/2PP4/1Q3N2/PP3PPP/3RR1K1 w - - 0 19"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r1r1k/pp2qp1p/1np1pp2/8/2PP2N1/4Q3/PP3PPP/3RR1K1 w - - 0 22"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r1q1rk1/pbp2ppp/1p2pn2/n7/2pPP3/P1P2NP1/5PBP/1RBQR1K1 w - - 0 13"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bq1rk1/1p2bppp/p1n1pn2/6B1/3P4/2NB1N2/PP3PPP/2RQ1RK1 b - - 0 11"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2q1rk1/1b3ppp/ppn2b2/3N4/4B3/5N2/PP3PPP/2RQ1RK1 b - - 0 15"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r2rk1/3b1ppp/ppn1pq2/8/3PB3/3Q1N2/PP3PPP/2R2RK1 b - - 0 16"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2rq1rk1/1b3p1p/ppn1p3/5pN1/3PB3/2R5/PP3PPP/3Q1RK1 b - - 0 17"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/1b3p2/ppr1pq1p/5pNQ/3P4/2R5/PP3PPP/5RK1 w - - 0 20"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2rr2k1/4qp1p/ppP1p3/5p2/8/2R5/PP3PPP/3Q1RK1 w - - 0 21"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/5p1p/ppP1p3/3r1p2/3q4/2R2Q2/PP3PPP/2R3K1 b - - 0 24"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/2r1kp1p/ppP1p3/3r1pQ1/3q4/2R4P/PP3PP1/2R3K1 b - - 0 27"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/2r1kp1Q/p1P1p3/2p2p2/3q4/7P/PP3PP1/2R3K1 w - - 0 31"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/r3kp1p/2Pqp3/2R5/1P6/2Q3PP/P6K/8 w - - 0 41"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnb1k2r/ppp2p1p/4pp2/q7/1b1P4/2N5/PPPQ1PPP/R3KBNR w KQkq - 0 8"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3k2r/pb1n1p1p/1pp1pp2/q7/1b1P4/2N2N2/PPPQBPPP/R4RK1 w kq - 0 12"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3k2r/ppqn1p1p/2pbpp2/5b2/3P4/2P2NP1/PP3PBP/R1BQ1RK1 w kq - 0 11"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r6r/1pqnkp1p/4ppbB/2P5/1P3P2/3p2P1/6BP/2RQ1RK1 w - - 0 23"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r1r1k/2q2ppp/pp1p1bn1/3B4/P2NP3/2P3Q1/1P4PP/3R1R1K w - - 0 28"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3qrrk1/5p1p/pp1p1pn1/3B1N2/P3P3/2P3Q1/1P4PP/5R1K b - - 0 32"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3q1r1k/4rp1p/pp1N1Rn1/3B4/P3P3/2P3Q1/1P4PP/7K b - - 0 34"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3qrk1/p2n1ppp/1pN1p3/8/3PR3/1PR3P1/P4P1P/3Q2K1 w - - 0 20"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4rk1/p4p1p/1pq1pQ2/8/3P1R2/1P4P1/P4P1P/6K1 b - - 0 26"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2r2k1/p3bppp/1p2p3/2p5/2P1P3/2B3P1/PP3P1P/R2R2K1 b - - 0 19"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/p4p2/1p2p3/2p2pkp/2P1P3/5KP1/PP3P1P/8 w - - 0 28"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5p2/pp6/2p1pk1p/2P5/P3KPPP/1P6/8 b - - 0 33"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5p2/4k3/1pp1p2p/6P1/P2K1P1P/1P6/8 b - - 0 36"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/pp2ppk1/2p1Pp1p/2P2K1P/6P1/PP3P2/8 w - - 0 31"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/4p1k1/1pp1pp1p/7P/PP1K1PP1/8/8 b - - 0 36"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/4p1k1/1pp1pp1p/7P/PP2K1P1/5P2/8 b - - 0 34"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/k7/4p3/2K4p/7P/5p2/5P2/8 w - - 0 44"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/4pk2/1pp4p/5K1P/PP6/5P2/8 w - - 0 37"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7r/pp2kp1p/3Rpp2/8/8/8/PPP2PPP/6K1 w - - 0 20"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/p3kp1p/4pp2/1p5r/1P1R1P2/2P4P/P5P1/5K2 b - - 0 25"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/p3kp1p/4pp2/1p4r1/1P1R4/2P2P1P/P2K2P1/8 w - - 0 30"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/p4p2/4pp1p/1p1k4/1P4P1/2PK1PP1/P7/8 w - - 0 34"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/p4p2/4pp1p/3k4/1Pp3P1/2K2PP1/P7/8 b - - 0 35"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/p4p2/8/3k1p1p/1Pp2P2/2K3P1/P7/8 w - - 0 38"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/p4p2/4pp1p/1p1k4/1P4P1/P1PK1PP1/8/8 b - - 0 34"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/p4p2/8/1p1k1p1p/1P3P2/P1PK2P1/8/8 w - - 0 37"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/p4p2/5p1p/3kp3/1Pp3P1/P1K2PP1/8/8 b - - 0 36"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/p4p2/4pp1p/1p1k4/PP4P1/2PK1PP1/8/8 b - - 0 34"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/p4p2/4p2p/4kp2/pPP3P1/2K2PP1/8/8 w - - 0 37"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5p2/p6p/Pp1k1p2/1P3P2/2PK2P1/8/8 b - - 0 37"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5p2/p1k5/P4p1p/1PK2P2/6P1/8/8 w - - 0 43"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/p4p1p/2k1pp2/1p4r1/1P1R2P1/2PK1P1P/P7/8 b - - 0 33"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/p4p1p/3kpp2/R7/1P4P1/4KP2/P6r/8 w - - 0 40"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/R4p2/3k4/1P3p1p/P4r2/2K2P2/8/8 w - - 0 47"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5R2/KP1k4/8/P6p/5p2/8/5r2 b - - 0 52"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rn1q1rk1/pb3ppp/1p2pn2/4N1B1/1bBP4/2N5/PP3PPP/R2Q1RK1 b - - 0 11"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4Nk1/pb3ppp/1p2p3/8/1bBn3q/2N5/PP3PPP/R2Q1RK1 w - - 0 15"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/pb4pp/1p2p3/8/1bBn2q1/3Q2N1/PP3PPP/R4RK1 b - - 0 18"]
+
+{Black to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4rk1/pb1q1p1p/1p2pp2/8/1bBP4/2N5/PP3PPP/R2Q1RK1 w - - 0 14"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r2r1k/p2q1p1p/1p2pp2/3b4/2BQ4/2P5/P4PPP/R4RK1 w - - 0 18"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2rq1rk1/p6p/1p2p2Q/3b1p2/8/2PB4/P4PPP/R4RK1 w - - 0 21"]
+
+{White to move} *
+
+[Event "Chess Instructor"]
+[Site "ChessCafe"]
+[Date "????.??.??"]
+[Round "?"]
+[White "White"]
+[Black "Black"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/p5kp/1pq2r2/2r2p2/2P5/2Q5/P4P1P/2RR2K1 b - - 0 28"]
+
+{Black to move} *
+

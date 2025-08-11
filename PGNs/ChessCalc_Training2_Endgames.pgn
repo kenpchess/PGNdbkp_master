@@ -1,0 +1,6272 @@
+[Event "Chapter 1"]
+[Site "Game 1"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 1"]
+[Black "Game 1"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3k4/P2P3p/3R2p1/6p1/8/6PP/r7/5K2 w - - 0 59"]
+
+59.Rf6 Kxd7 60.Rf8  (60.Rf8 Rxa7 61.Rf7+ )
+ * 
+
+
+[Event "Chapter 1"]
+[Site "Game 2"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 1"]
+[Black "Game 2"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/4np2/4pk1p/RNr4P/P3KP2/1P6/8 w - - 0 70"]
+
+70.Nd5  (70.Nd5 Rxa4 71.Ne7# )
+ * 
+
+
+[Event "Chapter 1"]
+[Site "Game 3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 1"]
+[Black "Game 3"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/1RR5/1p1r1p2/8/1n4r1/6P1/4PP1P/6K1 w - - 0 35"]
+
+35.Rc8+ Rg8 36.Rc4
+ * 
+
+
+[Event "Chapter 1"]
+[Site "Game 4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 1"]
+[Black "Game 4"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3rr3/2pn1kpp/pb2p3/4B3/2P5/5PN1/P3K1PP/1R1R4 w - - 0 25"]
+
+25.Bxc7 Bxc7 26.Rb7 Ne5  (26...Bxg3 27.Rbxd7+ Rxd7 28.Rxd7+ Kf6 29.hxg3 )  27.Rxd8 Rxd8 28.Rxc7+ Kg6 29.Ne4
+ * 
+
+
+[Event "Chapter 1"]
+[Site "Game 5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 1"]
+[Black "Game 5"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/p2R2b1/1p4pk/3B1pN1/1P1n1PPp/7P/P4r2/7K w - - 0 37"]
+
+37.Bg8 fxg4 38.hxg4 Rxf4 39.Nf7+ Rxf7 40.Rxf7
+ * 
+
+
+[Event "Chapter 1"]
+[Site "Game 6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 1"]
+[Black "Game 6"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5k2/3R2p1/1ppNPpp1/r2n4/6P1/P6P/5P2/6K1 w - - 0 39"]
+
+39.e7+  (39.e7+ Nxe7 40.Rd8# )
+ * 
+
+
+[Event "Chapter 1"]
+[Site "Game 7"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 1"]
+[Black "Game 7"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7r/3n1kp1/p1p5/p2p1bPp/3B1N2/P4P2/1PP4P/2K1R3 w - - 0 26"]
+
+26.g6+ Bxg6 27.Re7+ Kxe7 28.Nxg6+
+ * 
+
+
+[Event "Chapter 1"]
+[Site "Game 8"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 1"]
+[Black "Game 8"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/p2Q2p1/6k1/1Pp4p/P4q2/6N1/2K2n1P/8 w - - 0 41"]
+
+41.Qxg7+ Kxg7 42.Nxh5+ Kf7 43.Nxf4
+ * 
+
+
+[Event "Chapter 1"]
+[Site "Game 9"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 1"]
+[Black "Game 9"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/r1k2ppp/PR2p1b1/R1r5/8/4KP2/6PP/5B2 w - - 0 45"]
+
+45.Rb7+  (45.Rb7+ Rxb7 46.Rxc5+ Kb6 47.axb7 )
+ * 
+
+
+[Event "Chapter 1"]
+[Site "Game 10"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 1"]
+[Black "Game 10"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/r5b1/4R2p/7k/p5p1/4P3/2B2PKP/8 w - - 0 62"]
+
+62.Kg3 Ra5 63.Bg6+
+ * 
+
+
+[Event "Chapter 1"]
+[Site "Game 11"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 1"]
+[Black "Game 11"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r1b1k/1p3R2/7p/2p4N/p4P2/2K3R1/PP6/3r4 w - - 0 42"]
+
+42.Rh7+  (42.Rh7+ Kxh7 43.Nf6+ Kh8 44.Rg8# )
+ * 
+
+
+[Event "Chapter 1"]
+[Site "Game 12"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 1"]
+[Black "Game 12"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5k2/8/6K1/8/3R3p/6bP/8/8 w - - 0 81"]
+
+81.Re4
+ * 
+
+
+[Event "Chapter 1"]
+[Site "Game 13"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 1"]
+[Black "Game 13"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/7p/R1nk2pP/8/3PpPK1/1r6/2N5/8 w - - 0 71"]
+
+71.d5 Kxd5 72.Rxc6 Kxc6 73.Nd4+ Kd5 74.Nxb3 e3 75.Nc1
+ * 
+
+
+[Event "Chapter 1"]
+[Site "Game 14"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 1"]
+[Black "Game 14"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5k2/5p2/P2p1b1p/1Q1P3q/4N3/5PK1/8 w - - 0 55"]
+
+55.Qe7+ Kg6  (55...Kxe7 56.Nxf5+ )  56.Qg7+  (56.Qg7+ Kxg7 57.Nxf5+ )
+ * 
+
+
+[Event "Chapter 1"]
+[Site "Game 15"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 1"]
+[Black "Game 15"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1P3p2/6p1/7p/1r1kp2P/2RbN1P1/5P1K/8 w - - 0 62"]
+
+62.Rc4+  (62.Rc4+ Bxc4 63.Nc2+ )
+ * 
+
+
+[Event "Chapter 1"]
+[Site "Game 16"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 1"]
+[Black "Game 16"]
+[Result "*"]
+[SetUp "1"]
+[FEN "R7/2r2kp1/2n1p2p/3pP2P/1p4P1/4KN2/1PP5/8 w - - 0 33"]
+
+33.g5 hxg5  (33...b3 34.c3 )  34.Nxg5+ Ke7 35.Rg8 Nxe5 36.Rxg7+ Kd6 37.Rxc7 Kxc7 38.Nxe6+ Kd6 39.Nf4
+ * 
+
+
+[Event "Chapter 1"]
+[Site "Game 17"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 1"]
+[Black "Game 17"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5p1p/B3b1p1/2Ppk3/8/5P2/3K2PP/8 w - - 0 35"]
+
+35.f4+ Kxf4 36.c6
+ * 
+
+
+[Event "Chapter 1"]
+[Site "Game 18"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 1"]
+[Black "Game 18"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/5K2/8/5pk1/8/6Bn b - - 0 83"]
+
+83...Nf2 84.Ke5 Kg2 85.Kf4 Nh3+
+ * 
+
+
+[Event "Chapter 1"]
+[Site "Game 19"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 1"]
+[Black "Game 19"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6k1/P5p1/3Nnp1p/3qP3/8/4Q1KP/8 w - - 0 77"]
+
+77.a7 Qxa7 78.Qb2 fxe4 79.Qxe5+ Kh7 80.Nf6+ Kh6 81.Nxe4
+ * 
+
+
+[Event "Chapter 1"]
+[Site "Game 20"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 1"]
+[Black "Game 20"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/r5p1/2k1N2p/p2n1R1P/P7/KP6/8/8 w - - 0 66"]
+
+66.Nd4+ Kc5  (66...Kd6 67.Nb5+ )  67.Nb5 Rd7 68.Nc3 Kd4 69.Rxd5+ Rxd5 70.Nxd5 Kxd5 71.b4
+ * 
+
+
+[Event "Chapter 1"]
+[Site "Game 21"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 1"]
+[Black "Game 21"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5k1p/4p3/6P1/1p1K4/1B6/7P/8 b - - 0 54"]
+
+54...h6 55.Ke5  (55.h4 hxg5 56.hxg5 Kg6 )   (55.gxh6 Kg8 )  55...hxg5 56.Bxe6+ Kg7
+ * 
+
+
+[Event "Chapter 1"]
+[Site "Game 22"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 1"]
+[Black "Game 22"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/3k4/1p3B2/p1pPPp2/P4r2/1P6/2K5/8 w - - 0 62"]
+
+62.e6+ Kd6  (62...Ke8 63.d6 )  63.Be5+ Kxe5 64.e7
+ * 
+
+
+[Event "Chapter 1"]
+[Site "Game 23"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 1"]
+[Black "Game 23"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/1q5k/4N3/2B2R2/p5K1/8/8 w - - 0 101"]
+
+101.Rh4+  (101.Nf7+ Kg7 )  101...Kg7  (101...Kg5 102.Nf7+ Kf5 103.Bd3+ Ke6 104.Rh6+ )  102.Rg4+ Kh7  (102...Kf8 103.Nd7+ )  103.Bd3+ Kh6 104.Nf7+ Kh5 105.Rg5#
+ * 
+
+
+[Event "Chapter 1"]
+[Site "Game 24"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 1"]
+[Black "Game 24"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5k2/1R6/6P1/3Nb3/2r5/5K2/8/8 w - - 0 79"]
+
+79.Rf7+ Ke8  (79...Kg8 80.Ne7+ Kh8 81.Rh7# )  80.Re7+
+ * 
+
+
+[Event "Chapter 1"]
+[Site "Game 25"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 1"]
+[Black "Game 25"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/ppk2p2/7R/5P1P/1KP1p3/5r2/PP6/8 b - - 0 33"]
+
+33...a5+ 34.Kc5 e3 35.Rh8 Kd7 36.h6 e2
+ * 
+
+
+[Event "Chapter 1"]
+[Site "Game 26"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 1"]
+[Black "Game 26"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5k2/1K1R2p1/6P1/r6P/8/8/8/8 w - - 0 91"]
+
+91.Rd8+ Ke7 92.h6  (92.h6 Kxd8  (92...gxh6 93.g7 )  93.hxg7 )
+ * 
+
+
+[Event "Chapter 1"]
+[Site "Game 27"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 1"]
+[Black "Game 27"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/4N3/1R5p/6p1/2P1p1k1/4K3/b5PP/6r1 w - - 0 45"]
+
+45.Kf2 Rc1 46.h3+ Kf4  (46...Kh5 47.g4+ Kh4 48.Rxh6# )  47.Ng6+  (47.Ng6+ Kf5 48.g4# )
+ * 
+
+
+[Event "Chapter 1"]
+[Site "Game 28"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 1"]
+[Black "Game 28"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/4k3/1nRb1p2/2p1p1p1/1rP1P1P1/2K1BP2/1N6/8 w - - 0 37"]
+
+37.Rxd6 Kxd6 38.Bxc5+ Kxc5 39.Nd3+ Kd6 40.Kxb4
+ * 
+
+
+[Event "Chapter 1"]
+[Site "Game 29"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 1"]
+[Black "Game 29"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1r2b1p1/4P2k/1p6/1Pp1KN2/8/8/6R1 w - - 0 49"]
+
+49.Ng6
+ * 
+
+
+[Event "Chapter 1"]
+[Site "Game 30"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 1"]
+[Black "Game 30"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/2nNR1p1/p2k2rp/1p6/1Pr5/P4P2/4RKP1/8 w - - 0 41"]
+
+41.Nb8  (41.Nb8 Kd5 42.Rd7+ Rd6 43.Rd2+ )
+ * 
+
+
+[Event "Chapter 1"]
+[Site "Game 31"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 1"]
+[Black "Game 31"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/p7/P3pkbp/4R3/4BP1K/2r4P/8 b - - 0 55"]
+
+55...Rc3  (55...Rc3 56.Bxg5 Rxf3+ 57.Kg2 Kxe4 )
+ * 
+
+
+[Event "Chapter 1"]
+[Site "Game 32"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 1"]
+[Black "Game 32"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6k1/2pR2p1/2B4p/1n1P3P/1r4P1/3K4/8 w - - 0 77"]
+
+77.Rd7+ Kf6 78.Rb7 Rb2+ 79.Kc3 Rc2+ 80.Kb3
+ * 
+
+
+[Event "Chapter 1"]
+[Site "Game 33"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 1"]
+[Black "Game 33"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5k2/1R6/6p1/7p/4pK1P/6P1/1p3P2/1r6 b - - 0 42"]
+
+42...e3 43.Kf3  (43.fxe3 Rf1+ )   (43.Kxe3 Re1+ )  43...exf2 44.Kxf2 Rh1  (44...Rh1 45.Rxb2 Rh2+ )
+ * 
+
+
+[Event "Chapter 1"]
+[Site "Game 34"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 1"]
+[Black "Game 34"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/3Np1kp/3PP3/1R3P2/7b/3K4/1p5r/8 w - - 0 48"]
+
+48.f6+ Bxf6  (48...exf6 49.e7 Kf7 50.Rb8 )  49.Nxf6 Kxf6 50.d7 Rh1  (50...Rh3+ 51.Kc2 Rh2+ 52.Kb1 Rd2 53.Rxb2 Rd6 54.Rb8 )  51.Rxb2
+ * 
+
+
+[Event "Chapter 1"]
+[Site "Game 35"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 1"]
+[Black "Game 35"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/5Q1P/5b2/4p3/P3Bp2/KP3P2/3q4/8 b - - 0 50"]
+
+50...Be7+ 51.Qxe7 Qb2+ 52.Kb4 Qa3+ 53.Kxa3
+ * 
+
+
+[Event "Chapter 1"]
+[Site "Game 36"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 1"]
+[Black "Game 36"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/1p3ppp/8/P1n2P2/6P1/2B2B1P/KPr5/8 w - - 0 33"]
+
+33.Bxb7  (33.Bxb7 Nxb7 34.a6 )
+ * 
+
+
+[Event "Chapter 1"]
+[Site "Game 37"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 1"]
+[Black "Game 37"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7r/p5p1/1p3k2/2p2b2/2P2K1P/5B2/PP6/7R b - - 0 27"]
+
+27...Rxh4+ 28.Rxh4 g5+ 29.Kg3 gxh4+ 30.Kxh4 Ke5 31.Kg5 Bd3 32.Bd5 Kd4 33.b3 Bb1
+ * 
+
+
+[Event "Chapter 1"]
+[Site "Game 38"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 1"]
+[Black "Game 38"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2b2k2/5p2/pprP3p/8/P4p2/3B2P1/2P4P/3R2K1 w - - 0 32"]
+
+32.Bxa6  (32.Bxa6 Bxa6 33.d7 )
+ * 
+
+
+[Event "Chapter 1"]
+[Site "Game 39"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 1"]
+[Black "Game 39"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4k3/p7/P1P2B2/7p/8/6p1/5bP1/7K w - - 0 60"]
+
+60.Bh4
+ * 
+
+
+[Event "Chapter 1"]
+[Site "Game 40"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 1"]
+[Black "Game 40"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5kp1/1rRb2N1/3n1BKP/6P1/8/8/8 w - - 0 68"]
+
+68.Be4 Rb5  (68...Rxc6 69.Bxd5+ )  69.Rxd6 Nf6+ 70.Kf4 Rb4 71.Kf5  (71.g5 Nxe4  (71...Rxe4+ 72.Kf5 )  72.Rd7+ )   (71.Ne5+ Ke7 72.Nc6+ )  71...Nxe4  (71...Rxe4 72.Rxf6+ )  72.Rd7+ Ke8  (72...Kg8 73.Rd8+ Kf7 74.Rf8# )  73.Re7+
+ * 
+
+
+[Event "Chapter 1"]
+[Site "Game 41"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 1"]
+[Black "Game 41"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/r1p1r1pp/1pR2p2/3P3P/Pp6/3b2P1/P4PB1/2R3K1 w - - 0 27"]
+
+27.d6 cxd6 28.Rc8+  (28.Rc8+ Kf7 29.Bd5+ )
+ * 
+
+
+[Event "Chapter 1"]
+[Site "Game 42"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 1"]
+[Black "Game 42"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r3/p4kpp/2rB4/2P3Pn/4pp2/P7/5PP1/3R1RK1 w - - 0 27"]
+
+27.g4 e3  (27...fxg3 28.fxg3+ Kg6 29.g4 )  28.Rd3 e2 29.Re1
+ * 
+
+
+[Event "Chapter 1"]
+[Site "Game 43"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 1"]
+[Black "Game 43"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/3kp3/1p1p1p2/3Pn1p1/P1bNPnP1/2B2P2/2BK4 b - - 0 43"]
+
+43...Bxd4  (43...Bxd4 44.exd4 Nc3# )
+ * 
+
+
+[Event "Chapter 1"]
+[Site "Game 44"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 1"]
+[Black "Game 44"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6r1/8/pp1kPBN1/3P1K2/P7/4b3/8/8 w - - 0 48"]
+
+48.Be5+ Kc5  (48...Kxd5 49.Ne7+ )  49.d6
+ * 
+
+
+[Event "Chapter 1"]
+[Site "Game 45"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 1"]
+[Black "Game 45"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/p1p1kpRp/1p6/4P3/4bP2/P3B1P1/2r4P/4K3 b - - 0 32"]
+
+32...Kf8 33.Rg5 h6  (33...h6 34.Rh5 Bf3 35.Rxh6 Re2+ )
+ * 
+
+
+[Event "Chapter 1"]
+[Site "Game 46"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 1"]
+[Black "Game 46"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/4p1k1/1RP3p1/4P2p/5KpP/2R2b2/r7 b - - 0 46"]
+
+46...g4+  (46...g4+ 47.hxg4  (47.Kxg4 g2 )  47...h3 )
+ * 
+
+
+[Event "Chapter 1"]
+[Site "Game 47"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 1"]
+[Black "Game 47"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1p3p1p/2rpb3/6p1/1P2Pk2/p3RP1P/P2K2P1/5B2 b - - 0 43"]
+
+43...Rc2+  (43...Rc2+ 44.Kxc2 Kxe3 )
+ * 
+
+
+[Event "Chapter 1"]
+[Site "Game 48"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 1"]
+[Black "Game 48"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5n1p/B4k2/5p2/1P3N1P/5KP1/8/4b3 w - - 0 61"]
+
+61.Ke2 Bxb4  (61...Bxg3 62.Nh5+ )  62.Nd5+ Ke5 63.Nxb4
+ * 
+
+
+[Event "Chapter 2 (1)"]
+[Site "Game 1"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 2 (1)"]
+[Black "Game 1"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/4k3/8/8/r5P1/5R1K/8/8 b - - 0 78"]
+
+78...Ra8  (78...Ke6 79.Kh4 Ra8 80.g5 Rh8+ 81.Kg4 Ke7 82.g6 Rf8 83.Rf5 )  79.g5  (79.Kh4 Rh8+ 80.Kg5 Rg8+ )  79...Rf8 80.Rxf8 Kxf8
+ * 
+
+
+[Event "Chapter 2 (1)"]
+[Site "Game 2"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 2 (1)"]
+[Black "Game 2"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5k2/3R4/5K2/5P2/8/8/8/5r2 b - - 0 74"]
+
+74...Kg8  (74...Ke8 75.Ra7 Rf2 76.Ra8+ Kd7 77.Rf8 Rh2 78.Kg7 Rg2+ 79.Kf7 Rh2 80.f6 )  75.Rd8+ Kh7 76.Rf8 Ra1 77.Re8 Rf1  (77...Ra2 78.Kf7 Ra5 79.f6 Ra7+ 80.Re7 Ra8 81.Rd7 Rb8 82.Ke7 Kg6 83.f7 Kg7 )  78.Re4 Kg8 79.Rd4 Rf2 80.Rd1 Rf3 81.Rd8+ Kh7
+ * 
+
+
+[Event "Chapter 2 (1)"]
+[Site "Game 3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 2 (1)"]
+[Black "Game 3"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2K5/8/1k6/1p6/pB6/P7/8/8 b - - 0 80"]
+
+80...Kc6  (80...Ka6 81.Kc7 Ka7 82.Bc5+ Ka6  (82...Ka8 83.Bd4 )  83.Kc6 Ka5 84.Be3 Ka6  (84...b4 85.Bb6+ )  85.Bb6 )  81.Kd8  (81.Ba5 b4 )  81...Kd5
+ * 
+
+
+[Event "Chapter 2 (1)"]
+[Site "Game 4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 2 (1)"]
+[Black "Game 4"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1p3pp1/p1krpn1p/P6P/2P2PP1/2B5/1PK5/4R3 w - - 0 36"]
+
+36.Bxf6 gxf6 37.Rd1
+ * 
+
+
+[Event "Chapter 2 (1)"]
+[Site "Game 5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 2 (1)"]
+[Black "Game 5"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5P2/4K1kP/4R3/8/8/8/5r2 w - - 0 73"]
+
+73.Rg5+ Kxg5 74.h7 Re1+ 75.Kd7 Rd1+ 76.Ke7 Re1+ 77.Kf8 Rh1 78.Kg7
+ * 
+
+
+[Event "Chapter 2 (1)"]
+[Site "Game 6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 2 (1)"]
+[Black "Game 6"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/1p1k2p1/p2b1p2/B2K1P1P/P7/1P6/8 b - - 0 63"]
+
+63...Bf3  (63...Bf7 64.b4 axb4 65.axb4 Ke7  (65...Ke6 66.Bb3+ Kf6 67.Bxf7 Kxf7 68.Kd5 )   (65...Bd5 66.Be8 )  66.Ke5 Bc4 67.Bd1 Bf7 68.Be2 Be8 69.Kd5 Bd7  (69...Bf7+ 70.Kc6 )  70.h5 gxh5 71.Bxh5 Kf6  (71...Bb5 72.Ke5 Bd3 73.Bg6 )  72.Kd6 )  64.Bb3 Be2 65.Bf7 Bh5 66.Kc4 Be2+ 67.Kc3 Bh5
+ * 
+
+
+[Event "Chapter 2 (1)"]
+[Site "Game 7"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 2 (1)"]
+[Black "Game 7"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5p2/2K1nNpk/2P1Q3/8/P2q4/8/8 w - - 0 77"]
+
+77.Qe3+ Qxe3 78.Ng4+ Kg5 79.Nxe3 Kf4  (79...f5 80.a4 f4 81.Nf1 )  80.a4  (80.Nc2 )  80...Kxe3 81.a5 g5 82.a6 g4 83.a7 g3 84.a8=Q g2 85.Qg8 Kf3  (85...Kf2 86.Qxf7+ )  86.Kd6 Nxc5 87.Kxc5 f5 88.Qg5
+ * 
+
+
+[Event "Chapter 2 (1)"]
+[Site "Game 8"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 2 (1)"]
+[Black "Game 8"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/1p2r1k1/pP6/P2B4/3b4/1K2p3/4R3 b - - 0 59"]
+
+59...Kf5  (59...Bf5 60.Bxb6 Rxb6 61.Rxe2 Rd6  (61...Kf6 62.Re8 )  62.Kc3 Rd3+ 63.Kc4 Ra3 64.Kc5 Rxa4 65.b6 Rb4 66.Ra2 )  60.Kc3 Ke4
+ * 
+
+
+[Event "Chapter 2 (1)"]
+[Site "Game 9"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 2 (1)"]
+[Black "Game 9"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6R1/8/6p1/P2k4/3p4/7r/3K4 b - - 0 50"]
+
+50...g4  (50...Rg2 51.a5 )  51.Rd7+  (51.Rxg4+ Kc3 52.Rg1 Ra2 )  51...Kc3 52.Rc7+ Kb4 53.Rg7 g3  (53...g3 54.Rxg3 Kc3 )
+ * 
+
+
+[Event "Chapter 2 (1)"]
+[Site "Game 10"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 2 (1)"]
+[Black "Game 10"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/6pk/5B1p/5K1b/8/8/8 b - - 0 71"]
+
+71...Bg3+ 72.Ke4 gxf5+ 73.Kxf5 Bb8 74.Ke4 h4 75.Kf3 h3 76.Kf2 Bh2  (76...Bh2 77.Kf3 Kg5 )
+ * 
+
+
+[Event "Chapter 2 (1)"]
+[Site "Game 11"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 2 (1)"]
+[Black "Game 11"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/4RK2/r7/4P2k/8/8/8/8 b - - 0 67"]
+
+67...Kg5  (67...Kg4 68.Re6 Ra7+ 69.Kf6 )  68.e6 Kf5 69.Re8 Rb6 70.e7 Rf6+ 71.Kg7 Rg6+ 72.Kh7 Kf6 73.Ra8 Rg7+
+ * 
+
+
+[Event "Chapter 2 (1)"]
+[Site "Game 12"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 2 (1)"]
+[Black "Game 12"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/p2k1p2/1p2p2R/8/2rP1P2/8/P2KP2P/8 w - - 0 26"]
+
+26.Rh3 Rxd4+  (26...Ra4 27.a3 Ra5 )  27.Rd3 Rxd3+ 28.Kxd3 f6  (28...Ke7 29.Kc4 a6 30.Kd4 Kf6  (30...f6 31.e4 Kf7 32.f5 )  31.Ke4 Ke7  (31...Kg6 32.Ke5 )   (31...b5 32.e3 a5 33.Kd4 Kf5 34.Kc5 Ke4 35.h4 )  32.f5 Kf6 33.fxe6 Kxe6 34.h4 f6 35.e3 f5+ 36.Kf4 b5 37.Kg5 b4 38.h5 Kf7 39.Kxf5 a5 40.Ke4 )  29.Kc4 a6 30.f5 Kd6  (30...exf5 31.Kd5 )  31.fxe6 Kxe6 32.Kd4 Kf5 33.Kd5 Kf4 34.Ke6 f5 35.e3+ Kg4 36.h3+ Kg5 37.h4+ Kg6 38.h5+ Kg5 39.h6 Kg6 40.h7 Kxh7 41.Kxf5 Kg7 42.Ke6
+ * 
+
+
+[Event "Chapter 2 (1)"]
+[Site "Game 13"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 2 (1)"]
+[Black "Game 13"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/7p/7P/3b4/8/K3k3/8 w - - 0 121"]
+
+121.Kb3  (121.Kb1 Kf3 122.Kc2 Kg4 123.Kd3 Kxh5  (123...Kxh5 124.Ke2 Kg4 125.Kf1 Kf3 )  )  121...Kf3 122.Kc4 Ba7 123.Kd3
+ * 
+
+
+[Event "Chapter 2 (1)"]
+[Site "Game 14"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 2 (1)"]
+[Black "Game 14"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r7/4K1k1/3RP3/8/8/8/8/8 b - - 0 73"]
+
+73...Kg6  (73...Ra7+ 74.Ke8 Ra8+  (74...Kf6 75.e7+ )  75.Rd8 Ra6 76.e7 Ra1 77.Rd2 Ra8+ 78.Kd7 Ra7+ 79.Ke6 )   (73...Rb8 74.Rd8 Rb7+ 75.Kd6 Rb6+ 76.Kd7 Rb7+ 77.Kc6 Ra7 78.Rd7+ )  74.Rd8 Ra7+ 75.Rd7 Ra8 76.Rc7  (76.Rd1 Ra7+ 77.Ke8 Kf6 )   (76.Rd6 Kg7 )  76...Kg7 77.Kd6+  (77.Kd7 Kf6 78.e7 Kf7 )  77...Kf6 78.e7  (78.Rf7+ Kg6 )  78...Kf7
+ * 
+
+
+[Event "Chapter 2 (1)"]
+[Site "Game 15"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 2 (1)"]
+[Black "Game 15"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r6/8/8/8/8/k7/8/K1N5 w - - 0 180"]
+
+180.Ne2  (180.Na2 Kb3 181.Kb1 Rb5 182.Nc1+  (182.Ka1 Kc2 )  182...Kc3+ 183.Ka1 Kc2  (183...Kc2 184.Na2 Rb1# )  )   (180.Nd3 Kb3 181.Nc1+  (181.Ne1 Rd8 )  181...Kc2 )
+ * 
+
+
+[Event "Chapter 2 (1)"]
+[Site "Game 16"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 2 (1)"]
+[Black "Game 16"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/3Q4/8/6K1/6P1/8/8/2q5 w - - 0 83"]
+
+83.Kg6 Qb1+ 84.Qf5  (84.Qf5 Qb6+ 85.Qf6+ )
+ * 
+
+
+[Event "Chapter 2 (1)"]
+[Site "Game 17"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 2 (1)"]
+[Black "Game 17"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6R1/5p2/5Pkp/4P1r1/5K2/8/8 b - - 0 74"]
+
+74...Kh6  (74...Kh4 75.Rg6 )  75.Rxg4 hxg4+ 76.Kxg4 Kg7 77.Kg3 Kg8 78.Kg2 Kg7 79.Kf1 Kf7 80.Ke2 Ke7 81.Ke3 Kd7 82.Kd3 Kc7  (82...Kd6 83.Kd4 Ke7  (83...Kc6 84.e5 )  84.Kc5 )   (82...Kc6 83.Kc4 )  83.Kc3 Kd7 84.Kb3 Kd6 85.Kc2 Kc7
+ * 
+
+
+[Event "Chapter 2 (1)"]
+[Site "Game 18"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 2 (1)"]
+[Black "Game 18"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3k4/R7/4K3/4B3/8/8/8/3r4 b - - 0 91"]
+
+91...Rc1  (91...Ke8 )   (91...Kc8 92.Rc7+ Kd8 93.Rc4 Ke8  (93...Re1 94.Rg4 Kc8 95.Rb4 )  )
+ * 
+
+
+[Event "Chapter 2 (1)"]
+[Site "Game 19"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 2 (1)"]
+[Black "Game 19"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5p2/6P1/8/r4k1N/7K/8/8 b - - 0 82"]
+
+82...Kg5  (82...Kg5 83.g7 Rxh4+ 84.Kg3 Rg4+ 85.Kf3 Kf5 )
+ * 
+
+
+[Event "Chapter 2 (1)"]
+[Site "Game 20"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 2 (1)"]
+[Black "Game 20"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/R7/7K/7P/8/8/2b5/8 b - - 0 59"]
+
+59...Kg8  (59...Bb3 60.Rc7  (60.Rh7+ )  60...Ba2  (60...Kg8 61.Kg6 )  61.Rc8+ Bg8 62.Kg5 Kg7 63.h6+ Kh8 64.Rd8 Kh7 65.Rd7+ Kh8 66.Kg6 )  60.Ra8+  (60.Rg7+ Kf8 )  60...Kf7
+ * 
+
+
+[Event "Chapter 2 (1)"]
+[Site "Game 21"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 2 (1)"]
+[Black "Game 21"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1p1kb1p1/1p2p1K1/3p1p2/3P4/P2BP1P1/1P3P2/8 b - - 0 35"]
+
+35...f4  (35...Bf6 36.f4 Ke7 37.Bb5 Kd6 38.Kf7 Bd8 39.Kxg7 Be7 40.Kf7 Bd8 41.b4 Be7 42.Ke8 Bf6 43.Bd7 Be7 44.Bc8 Bf6 45.Kf7 )   (35...Bd6 36.f4 Ke7 37.Kxg7 Bc7 38.Kg6 Bd6 39.Bxf5 exf5 40.Kxf5 b5 41.b4 Kf7 42.g4 Bc7 43.g5 Bd6 44.g6+ Ke7 45.Kg5 )  36.g4  (36.gxf4 Bh4 )   (36.exf4 Bf6 )  36...fxe3 37.fxe3 Bf6 38.g5 Bd8
+ * 
+
+
+[Event "Chapter 2 (1)"]
+[Site "Game 22"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 2 (1)"]
+[Black "Game 22"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2R5/5p2/4p1k1/4P3/6K1/8/8/7r w - - 0 72"]
+
+72.Kf4  (72.Rg8+ Kh7 73.Ra8 Rf1 74.Ra2 Kg6 75.Rg2 Rf5 76.Re2 Kg7 77.Kg3 Kf8 78.Re4 Ke7 79.Kg4 Kd7 80.Rd4+ Kc6 81.Rd6+ Kc7 82.Rd1 Rxe5 83.Rf1 f5+ 84.Kg5 Kd6 )
+ * 
+
+
+[Event "Chapter 2 (1)"]
+[Site "Game 23"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 2 (1)"]
+[Black "Game 23"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/3B4/5K2/r6k/8/6R1/8 b - - 0 96"]
+
+96...Ra5+  (96...Kh5 97.Rg8 Kh6  (97...Ra5+ 98.Be5 Ra6 )  98.Be5 Ra7 99.Rg1  (99.Rg1 Kh7 100.Rh1+ Kg8 101.Rh8+ Kf7 102.Rh7+ )  )  97.Be5 Ra3
+ * 
+
+
+[Event "Chapter 2 (1)"]
+[Site "Game 24"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 2 (1)"]
+[Black "Game 24"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6p1/5k2/1R6/P6p/r6P/6P1/6K1 w - - 0 42"]
+
+42.Rb4  (42.Ra5 Ra1+ 43.Kh2  (43.Kf2 Ra2+ 44.Kf3 Ra3+ )  43...Kg6 44.Ra8 Kh7 45.a5 Kg6 46.a6 Kh7 47.g4 hxg3+ 48.Kxg3 Kg6 49.Kf4 Ra3 50.a7 Ra1 )  42...g5 43.Rg4 Re3 44.Kf2 Re5 45.Rb4 Kg6 46.Kf3 Kh5 47.Re4  (47.Rb2 )  47...Rc5 48.Ke3 Rc2 49.Rg4 Rc3+ 50.Kd2 Rc5  (50...Ra3 51.Kc2 Kg6 52.Kb2 Re3 53.a5 Re5 54.Ra4 Re2+ 55.Kc3 Rxg2 56.a6 )  51.Kd3 Rc1 52.Kd2 Rc5 53.Rb4 Rf5  (53...Kg6 54.Rb2 )  54.Kc3 Rf2 55.Rb2 Rf1 56.Ra2
+ * 
+
+
+[Event "Chapter 2 (1)"]
+[Site "Game 25"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 2 (1)"]
+[Black "Game 25"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/7R/8/8/4K1kp/8/8 b - - 0 87"]
+
+87...Kg2  (87...h2 88.Rg6+ Kh3 89.Kf2 h1=N+ 90.Kf3 Kh2 91.Rg7 )  88.Rg6+ Kf1
+ * 
+
+
+[Event "Chapter 2 (1)"]
+[Site "Game 26"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 2 (1)"]
+[Black "Game 26"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r4/5p2/1p2pkp1/pR4p1/P2P1n2/1PK2P1P/6P1/5B2 b - - 0 62"]
+
+62...Nd5+ 63.Kd2 Rd6 64.Kd3  (64.Bc4 Nc7 )  64...Ke7
+ * 
+
+
+[Event "Chapter 2 (1)"]
+[Site "Game 27"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 2 (1)"]
+[Black "Game 27"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4B3/6K1/5P2/3bk3/8/8/8/8 b - - 0 104"]
+
+104...Kf4  (104...Bc4 105.Bf7 Be2 106.Bb3 Bh5 107.Bc2 )  105.Bf7 Bf3 106.Bb3 Bh5 107.Bc2 Kg5
+ * 
+
+
+[Event "Chapter 2 (1)"]
+[Site "Game 28"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 2 (1)"]
+[Black "Game 28"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/4K1k1/3RP3/8/8/8/8/r7 b - - 0 57"]
+
+57...Ra8  (57...Ra7+ 58.Ke8 Ra8+ 59.Rd8 Ra6 60.e7 Ra1 61.Kd7 )  58.Rd7  (58.Rd8 Ra7+ 59.Rd7  (59.Ke8 Kf6 )  59...Ra8 )  58...Kg6
+ * 
+
+
+[Event "Chapter 2 (1)"]
+[Site "Game 29"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 2 (1)"]
+[Black "Game 29"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/3n1pp1/4pn1p/1Pp5/p1N1P3/5PP1/1N4KP/8 b - - 0 46"]
+
+46...Nb6 47.Kf2 Nfd7 48.Ke3 Kf8 49.f4 f5 50.exf5 exf5 51.Kd3 Ke7 52.Na3 Nf6 53.Nbc4 Nxc4 54.Nxc4 Ne4 55.Ne5 Kd8 56.g4 fxg4 57.Nxg4 Nd6 58.b6 Kc8 59.Ne3 Kb7 60.Nd5 Kc6
+ * 
+
+
+[Event "Chapter 2 (1)"]
+[Site "Game 30"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 2 (1)"]
+[Black "Game 30"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6p1/3k3p/2p1p2P/2P3P1/6K1/8/8 b - - 0 53"]
+
+53...e4  (53...Ke6 54.Kf3 Kf6 55.Ke4 Kg5 56.Kxe5 Kxg4 57.Kd5 Kxh5 58.Kxc5 g5 )  54.Kf4 e3 55.Kf3  (55.Kxe3 Ke5 )  55...Ke6 56.Ke2 Kf6 57.Kf3 Kg5 58.Kxe3 Kxg4 59.Ke4 Kxh5 60.Kd5 g5 61.Kxc5 g4 62.Kd4 g3  (62...Kg6 63.c5 Kf6 )  63.Ke3 Kg4  (63...Kg4 64.c5 Kh3 )
+ * 
+
+
+[Event "Chapter 2 (1)"]
+[Site "Game 31"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 2 (1)"]
+[Black "Game 31"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4k3/5p2/1p3K2/1P6/2P5/8/8/8 b - - 0 86"]
+
+86...Kd8  (86...Kd7 87.Kxf7 Kd6 88.Ke8 Kc7  (88...Kc5 89.Kd7 Kxc4 90.Kc6 )  89.Ke7 )  87.Kxf7 Kd7 88.Kf8  (88.Kf6 Kd6 89.Kf5 Kc5 )  88...Kd8  (88...Kd6 89.Ke8 Kc5 90.Kd7 Kxc4 91.Kc6 )
+ * 
+
+
+[Event "Chapter 2 (1)"]
+[Site "Game 32"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 2 (1)"]
+[Black "Game 32"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/7p/8/R4p1p/2P1k1r1/1P4PK/8 b - - 0 60"]
+
+60...h3 61.gxh3 Rg6 62.c4  (62.Ra8 f3 63.Re8+ Kf2 64.c4 Rg2+ 65.Kh1 Rg1+ 66.Kh2 Re1 67.Rf8 Ke2 68.Re8+ Kf1 69.Rf8 f2 70.c5 Ke2 )  62...f3 63.Ra3+ Ke2 64.b4 f2 65.Ra2+ Kf3 66.Ra3+ Kf4 67.Ra8 Rg1
+ * 
+
+
+[Event "Chapter 2 (1)"]
+[Site "Game 33"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 2 (1)"]
+[Black "Game 33"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5N2/p1p5/2P2R2/1P4p1/P5k1/3r4/6K1 b - - 0 42"]
+
+42...Rd1+ 43.Rf1 Rd2  (43...Rd2 44.Rc1 Rg2+ 45.Kf1 Rf2+ 46.Ke1 Rxf7 )
+ * 
+
+
+[Event "Chapter 2 (1)"]
+[Site "Game 34"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 2 (1)"]
+[Black "Game 34"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/2p4r/1pR3p1/1P6/1kP2P2/5K2 b - - 0 56"]
+
+56...Re5 57.Kg2  (57.Rxg4 Kxc2 )  57...Re2 58.Rxc5 Rxc2 59.Rg5 Kxb3 60.Rxg4 Ka3 61.Rg8 b3 62.Ra8+ Kb2 63.Kg3 Rc3+ 64.Kg4 Kc2 65.Rb8 b2 66.Rxb2+ Kxb2 67.f4 Rc4 68.Kf5  (68.Kg5 Kc3 69.f5 Kd4 70.f6 Ke5 )  68...Kc3 69.Ke5 Rc5+ 70.Ke4 Rc8 71.f5 Kc4 72.Ke5 Kc5 73.Ke6 Rc6+ 74.Ke7 Kd5  (74...Kd5 75.f6 Rc7+ 76.Ke8 Ke6 )
+ * 
+
+
+[Event "Chapter 2 (1)"]
+[Site "Game 35"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 2 (1)"]
+[Black "Game 35"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4q2k/3b1pp1/3P3p/3B3P/4Qp2/6P1/6K1/8 w - - 0 41"]
+
+41.Qxe8+ Bxe8 42.Bxf7 Bc6+ 43.Kf2 fxg3+ 44.Kxg3 Bd7 45.Bg6  (45.Bg6 Kg8 46.Kf4 Kf8 47.Ke5 Kg8 48.Kd5 Kf8 49.Kc5 Kg8 50.Kb6 Kf8 51.Kc7 Bg4 52.d7 Bxd7 53.Kxd7 Kg8 54.Ke8 Kh8 55.Ke7 Kg8 56.Bf7+ Kh8 57.Kf8 Kh7 58.Bg6+ Kh8 59.Be4 g5 60.hxg6 h5 61.g7# )
+ * 
+
+
+[Event "Chapter 2 (1)"]
+[Site "Game 36"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 2 (1)"]
+[Black "Game 36"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/r5p1/2k4p/5K1P/3R2P1/8/8/8 b - - 0 65"]
+
+65...Ra6  (65...Ra5+ 66.Kg6 Rg5+ 67.Kf7 Kc7 68.Kg8 Kc6  (68...g6 69.hxg6 Rxg6+ 70.Kh7 Rb6 71.Rf4 Kd8 72.Rf8+ Ke7 73.Rg8 Kf7 74.Rg7+ Kf8 75.Rg6 Rb7+ 76.Kxh6 Rb2 77.Ra6 Kf7 )  69.Kh7 Kc7 70.Ra4 Kb6  (70...Kd8 71.Kg8 g6 72.hxg6 Rxg6+ 73.Kh7 Rf6 74.Ra7 Ke8 75.Rg7 Kf8 76.Rg6 Rf4 77.Kxh6 Rf1 )  71.Rc4 Kb5  (71...Kb7 72.Re4 Kc8 73.Re7 )  72.Rc7 Rxg4 73.Rxg7 Rh4 74.Kxh6 Kc6 75.Kg5 Rd4 76.h6 )  66.Rd8  (66.Kg6 Kc5+ )   (66.Re4 Kd7 )  66...Ra5+
+ * 
+
+
+[Event "Chapter 2 (2)"]
+[Site "Game 1"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 2 (2)"]
+[Black "Game 1"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3K1k2/5p2/6p1/7p/5P1P/6P1/8/8 b - - 0 62"]
+
+62...f5  (62...Kg8 63.Ke8 Kg7 64.Ke7 Kg8  (64...f5 65.Ke6 )  65.Kf6 Kf8 66.f5 gxf5 67.Kxf5 Ke7 68.Kg5 Ke6 69.Kxh5 Kf5 70.Kh6 Kg4 71.h5 Kxg3 72.Kg7 f5 73.h6 f4 74.h7 f3 75.h8=Q Kg2  (75...f2 76.Qh1 )  76.Qa8 )  63.Kd7 Kf7 64.Kd6 Kf6 65.Kd5 Kf7  (65...Ke7 66.Ke5 Kf7 67.Kd6 Kf6 )  66.Ke5 Ke7
+ * 
+
+
+[Event "Chapter 2 (2)"]
+[Site "Game 2"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 2 (2)"]
+[Black "Game 2"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/1p3pp1/8/1r1p3p/1PrB2PP/P3PP2/2R5/2K5 b - - 0 39"]
+
+39...g5  (39...Rxc2+ 40.Kxc2 g5 41.Kd3 gxh4 42.Ke2 )  40.Bf6  (40.hxg5 h4 )  40...gxh4 41.Bxh4 hxg4 42.fxg4 f5
+ * 
+
+
+[Event "Chapter 2 (2)"]
+[Site "Game 3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 2 (2)"]
+[Black "Game 3"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/7p/4p3/1k2P1p1/p2K4/P6P/6P1/8 w - - 0 61"]
+
+61.g4  (61.g3 h5 62.h4  (62.g4 h4 63.Kd3 Kc5 64.Kc3 Kd5 65.Kb4 Kxe5 66.Kxa4 Kf4 67.Kb3 Kg3 68.a4  (68.Kc3 Kxh3 )  68...e5 69.Kc3 e4 70.Kd4 Kf4 71.a5 e3 72.Kd3 Kf3 73.a6 e2 74.a7 e1=Q 75.a8=Q+ Kg3 )  62...g4 63.Kd3 Kc5 64.Kc3 Kd5 65.Kb4 Kxe5 66.Kxa4 Kd4  (66...Ke4 67.Kb3 Kf3 68.a4 Kxg3 69.a5 Kxh4 70.a6 g3 71.a7 g2 72.a8=Q g1=Q )  67.Kb3 e5 68.a4 e4 69.a5 e3  (69...Kd3 70.a6 e3 71.a7 e2 72.a8=Q e1=Q )  70.a6  (70.Kc2 )  70...e2 71.a7 e1=Q 72.a8=Q Qb1+ )  61...h6 62.Kd3 Kc5 63.Kc3 Kd5 64.Kb4 Kxe5 65.Kxa4 Kf4 66.Kb3 Kg3  (66...e5 67.Kc2 )  67.Kc2  (67.a4 e5 68.a5 e4 69.a6 e3 70.a7 e2 71.a8=Q e1=Q )  67...e5 68.Kd3 Kf3 69.Kd2 Kf2
+ * 
+
+
+[Event "Chapter 2 (2)"]
+[Site "Game 4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 2 (2)"]
+[Black "Game 4"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/6K1/4kpB1/4p3/8/8 w - - 0 61"]
+
+61.Kh4  (61.Bf5+ Kf3 )  61...f3  (61...Kd3 62.Kg5 )  62.Kg3
+ * 
+
+
+[Event "Chapter 2 (2)"]
+[Site "Game 5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 2 (2)"]
+[Black "Game 5"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1k6/p7/1p1r1pR1/1P6/3K4/3N4/8/8 w - - 0 40"]
+
+40.Kc3  (40.Kc4 a6 41.Rg8+  (41.bxa6 b5+ )  41...Kb7 42.Rg7+ Kb8 43.Nb4 axb5+ 44.Kxb5 Kc8 45.Nc6 Rd7 )   (40.Ke3 Rd5 )   (40.Ke4 f5+ )  40...Rd5 41.Kc4
+ * 
+
+
+[Event "Chapter 2 (2)"]
+[Site "Game 6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 2 (2)"]
+[Black "Game 6"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2k2R2/1p6/7r/PP1K4/8/8/8/8 b - - 0 65"]
+
+65...Kd7  (65...Kc7 66.b6+ Kd7 67.a6 )
+ * 
+
+
+[Event "Chapter 2 (2)"]
+[Site "Game 7"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 2 (2)"]
+[Black "Game 7"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/2p5/pp1k3p/P2P1p2/1P1K1P1P/8/8 b - - 0 37"]
+
+37...bxa4  (37...h4 38.b4  (38.Kc3 bxa4 39.bxa4 c5 40.dxc5 Kxc5 )  38...axb4 39.a5 Kd6 40.Kc2 Kc7 41.Kb3 Kb7 42.Kxb4 Ka6 43.Kc5 Kxa5  (43...Kb7 44.d5 cxd5 45.Kxb5 )  44.Kxc6 b4 45.d5 b3 46.d6 b2 47.d7 b1=Q 48.d8=Q+ Ka4 49.Qa8+ Kb3 50.Qb7+ Kc2 51.Qxb1+ Kxb1 52.Kd5 )  38.bxa4 h4 39.Kc3 c5 40.dxc5 Kxc5
+ * 
+
+
+[Event "Chapter 2 (2)"]
+[Site "Game 8"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 2 (2)"]
+[Black "Game 8"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/5p2/P6p/1R4p1/2b1B3/2p4P/P4PP1/6K1 w - - 0 36"]
+
+36.a4  (36.Ra5 Bxa6 37.Rxa6 c2 38.Bxc2 Rxc2 )  36...Rc7  (36...Bxb5 37.axb5 c2 38.Bxc2 Rxc2 39.a7 Ra2 40.b6 )  37.Rb7
+ * 
+
+
+[Event "Chapter 2 (2)"]
+[Site "Game 9"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 2 (2)"]
+[Black "Game 9"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/p5p1/1pk5/3pPp1p/P2P1P2/4K2P/6P1/8 w - - 0 39"]
+
+39.a5 b5  (39...bxa5 40.h4  (40.Kd3 h4 41.Kc3 Kb6 42.Kb3 Kb5 43.Ka3 a4 44.e6 Kc6 45.Kxa4 Kd6 46.Kb5 Kxe6 47.Ka6 g5 48.Kxa7 gxf4 49.Kb6 Kf6 50.Kc6 Kg5 51.Kxd5 f3 52.gxf3 Kf4 53.Ke6 )  40...Kb5 41.Kd3 Kc6 42.Kc3 Kb5 43.Kb3 Kc6 44.Ka4 Kb6 45.e6 Kc6 46.Kxa5 Kd6 47.Ka6 Kxe6 48.Kxa7 Kd6 49.Kb6 )  40.a6 h4  (40...Kb6 41.Kd3 Kxa6 42.e6 )  41.Kd3 Kd7 42.Kc3 Kc7 43.Kb4 Kb6 44.e6 Kc6 45.e7 Kd7 46.Kxb5 Kxe7 47.Kc6 Ke6 48.Kc5
+ * 
+
+
+[Event "Chapter 2 (2)"]
+[Site "Game 10"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 2 (2)"]
+[Black "Game 10"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/1R6/5K2/5N2/8/8/8/6r1 b - - 0 80"]
+
+80...Rf1  (80...Rg2 81.Rb3  (81.Nh4 Rf2+ 82.Kg6 Kg8 )  81...Rh2  (81...Kg8 82.Ne7+ )  82.Kg6 Rg2+ 83.Ng3 )   (80...Ra1 81.Rb3 Ra6+ 82.Kf7 Ra7+ 83.Ne7 )  81.Rb2 Kg8
+ * 
+
+
+[Event "Chapter 2 (2)"]
+[Site "Game 11"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 2 (2)"]
+[Black "Game 11"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4R3/8/p7/8/1P3k1p/P7/2r1p1P1/6K1 b - - 0 43"]
+
+43...h3 44.gxh3 Kf3 45.Rf8+ Ke3 46.Re8+ Kd2 47.Rd8+  (47.Kf2 Kd1 )  47...Ke1 48.a4  (48.Kg2 Rd2 49.Re8 Kd1 50.Kf3 e1=Q 51.Rxe1+ Kxe1 52.h4 Rd3+ )  48...Rd2 49.Re8 Kd1
+ * 
+
+
+[Event "Chapter 2 (2)"]
+[Site "Game 12"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 2 (2)"]
+[Black "Game 12"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1R6/2K2kp1/8/1P2rP2/8/8/8 w - - 0 52"]
+
+52.Rb8 Kg7  (52...Ke7 53.b5 Rc4+ 54.Kb7 Rxf4 55.b6 Ke6 56.Rg8 Kf7 57.Ra8 Ke6 58.Ra5 )  53.b5 Rxf4 54.b6 Rc4+  (54...Rf6+ 55.Kb5 Rf5+ 56.Ka6 )  55.Kb7 g5 56.Rc8 Rb4 57.Rc5 Kg6  (57...g4 58.Kc7 )  58.Kc6 Rf4  (58...Kh5 59.Rb5 Rc4+ 60.Kd7 Rd4+ 61.Ke7 Re4+ 62.Kf7 Rf4+ 63.Kg7 Rd4 64.b7 Rd8 65.b8=Q Rxb8 66.Rxb8 g4 67.Kf6 g3 68.Kf5 )  59.b7 Rf8 60.Kb6 Kh5 61.Rc8 Rf1 62.b8=Q Rb1+ 63.Kc5
+ * 
+
+
+[Event "Chapter 2 (2)"]
+[Site "Game 13"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 2 (2)"]
+[Black "Game 13"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1p3K1k/p2B4/2P1P3/1P2b3/8/8/8 b - - 0 59"]
+
+59...Bg6+  (59...Bd5+ 60.e6 Bc4 61.Be7 Bd5 62.Bf8 Bc4 63.c6 bxc6 64.Bc5 Bd5 65.Ke7 Kg6 66.Kd7 Kf5 67.e7 Bf7 68.e8=Q Bxe8+ 69.Kxe8 Ke6 70.Kd8 Kd5 71.Kc7 )  60.Kf6 Be4  (60...Bh5 61.e6 Kg8 62.Ke7 Bf3 )  61.e6 Kg8 62.Ke7 Bc6 63.Kd8 Kg7 64.e7 Kf7
+ * 
+
+
+[Event "Chapter 2 (2)"]
+[Site "Game 14"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 2 (2)"]
+[Black "Game 14"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1R6/4k3/5p1p/5P2/1p1N2r1/3K4/8 b - - 0 52"]
+
+52...Kd5  (52...h4 53.Rxb3 h3 54.Nc5+ )  53.Rxb3 Ke4 54.Rb4+ Kf3 55.Ne1+  (55.Ne5+ Kf2 )  55...Kg4 56.Ke2 h4 57.Nd3 Rg2+  (57...h3 58.Nf2+ Kh4 59.Rb8 )  58.Kf1  (58.Nf2+ Kg3 59.Rb3+ Kxf4 )   (58.Ke3 Rg3+ 59.Ke2 )  58...Rd2 59.Nf2+ Kg3 60.Rb3+ Kxf4 61.Kg2 Ra2 62.Rb4+
+ * 
+
+
+[Event "Chapter 2 (2)"]
+[Site "Game 15"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 2 (2)"]
+[Black "Game 15"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/p7/1p1p1p1p/3P2pP/P5P1/1P3K2/5P2/8 b - - 0 32"]
+
+32...f5  (32...a5 33.Ke4 Kg7 34.Kf5 Kf7 35.f3 )  33.gxf5 Kg7 34.b4 Kf6
+ * 
+
+
+[Event "Chapter 2 (2)"]
+[Site "Game 16"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 2 (2)"]
+[Black "Game 16"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/n5k1/1KB3p1/p5P1/8/P7/8 b - - 0 50"]
+
+50...Nxc5 51.Kxc5 Kf6 52.Kd5 a3 53.Kd6 Kf7 54.Ke5 Ke7 55.Kf5 Kf7 56.Kxg5 Kg7 57.Kf5 Kf7 58.g5  (58.Ke5 Kg6 59.Kd4 Kg5 60.Kc4 Kxg4 61.Kb4 Kf5 62.Kxa3 Ke6 63.Kb4 Kd7 64.Kb5 Kc7 65.Ka6 Kb8 )  58...Kg7 59.g6 Kg8 60.Kf6 Kf8 61.g7+ Kg8 62.Kg6
+ * 
+
+
+[Event "Chapter 2 (2)"]
+[Site "Game 17"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 2 (2)"]
+[Black "Game 17"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/1pk5/p7/Pr6/3R4/2K5 w - - 0 62"]
+
+62.Ra2  (62.Rc2+ Kb6 63.Ra2 Rh3 )  62...Kb6  (62...Rh3 63.Rc2+ )  63.Kc2  (63.Ra1 )  63...Rh3 64.Ra1
+ * 
+
+
+[Event "Chapter 2 (2)"]
+[Site "Game 18"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 2 (2)"]
+[Black "Game 18"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/5R2/4PK2/8/8/8/8/7r b - - 0 67"]
+
+67...Rf1+  (67...Re1 68.Rg7+ Kf8  (68...Kh8 69.Rg5 )  69.e7+ Ke8 70.Rg8+ Kd7 71.Rd8+ )  68.Ke7 Ra1 69.Rf8+  (69.Rf2 Ra7+ 70.Kf6 Kf8 71.Rb2 Rf7+ )  69...Kg7 70.Rd8  (70.Rc8 Ra7+ 71.Kd6 Ra6+ 72.Rc6 Ra8 73.Kd7 Ra7+ 74.Rc7 Ra8 )  70...Ra7+ 71.Rd7 Ra8
+ * 
+
+
+[Event "Chapter 2 (2)"]
+[Site "Game 19"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 2 (2)"]
+[Black "Game 19"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/p5p1/1p2p1kp/4Pp2/1P5P/P3PKP1/8/8 w - - 0 54"]
+
+54.b5  (54.e4 fxe4+ 55.Kxe4 Kh5 56.Kf3 b5 57.Kf4 g6 58.Kf3 g5 59.hxg5 hxg5 60.Kf2 Kg4 61.Kg2 Kf5 )  54...Kh5 55.Kf4 g6 56.Kf3 g5 57.hxg5 hxg5  (57...Kxg5 58.Kf2 Kg4 59.Kg2 h5 60.Kf2 )  58.a4
+ * 
+
+
+[Event "Chapter 2 (2)"]
+[Site "Game 20"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 2 (2)"]
+[Black "Game 20"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/4k3/R3b2K/8/6r1/8 w - - 0 85"]
+
+85.Kh3  (85.Ra1 Kf4 86.Kh3 Rg7 87.Rf1+ Bf3 88.Kh2 Rh7+ 89.Kg1 Kg3 )  85...Rg8  (85...Rb2 86.Kg3 )  86.Ra7  (86.Ra6 Kf4 87.Rf6+ )  86...Kf4 87.Rf7+ Bf5+ 88.Kh2
+ * 
+
+
+[Event "Chapter 2 (2)"]
+[Site "Game 21"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 2 (2)"]
+[Black "Game 21"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1k6/3K4/3N4/8/1R6/8/3r4 b - - 0 61"]
+
+61...Kc8  (61...Ka6 62.Kc6  (62.Kc5 Rc1+ 63.Kd6 Rh1 64.Kc6 Rh6+ 65.Kc5 Rh5 )  62...Rc1+  (62...Ra1 63.Nb4+ Ka5 64.Nd3 Ra2 65.Nc5 Rb2 66.Nb7+ )  63.Nc3 Ka7  (63...Ka5 64.Kb7 )  64.Kc7 Ra1 65.Rb7+ Ka6  (65...Ka8 66.Rb8+ Ka7 67.Nb5+ Ka6 68.Ra8+ )  66.Rb6+ Ka5 67.Kb7 )
+ * 
+
+
+[Event "Chapter 2 (2)"]
+[Site "Game 22"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 2 (2)"]
+[Black "Game 22"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/1B5p/1b2pk2/7P/P5p1/8/6K1 w - - 0 50"]
+
+50.h5 Kf4  (50...Kg4 51.Be3 )  51.Bc5 Kg4  (51...Bc6 52.Bd6 Bf3 53.a4 Bxh5 54.Bf8 Kg5 55.Kg2 )  52.Be3 Kxh5 53.Kg2 Kg4 54.Bxh6 Bc6+ 55.Kf1 Kf3 56.Bd2 e4 57.Be1 Ba4 58.Kg1 Bb5 59.Bb4 e3 60.Bd6 Bc6 61.Bc7 g2 62.Ba5 Ke2 63.Bb4 Kd1 64.a4 e2 65.Kf2 Bxa4 66.Kxg2 e1=Q 67.Bxe1 Kxe1
+ * 
+
+
+[Event "Chapter 2 (2)"]
+[Site "Game 23"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 2 (2)"]
+[Black "Game 23"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/7Q/4p1r1/1P2p3/4rpk1/1KP3P1/8 b - - 0 50"]
+
+50...fxg2 51.Qxg5+ Kf2 52.Qf6+ Rf3 53.Qh4+  (53.Qb6+ e3 )  53...Rg3 54.Qf6+ Ke2
+ * 
+
+
+[Event "Chapter 2 (2)"]
+[Site "Game 24"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 2 (2)"]
+[Black "Game 24"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5p2/3Pb3/P1R5/4k3/2B3K1/8/3r4 w - - 0 63"]
+
+63.Re5+ Kd3 64.Re1  (64.Bb4 Kc4 )  64...Rxe1 65.Bxe1
+ * 
+
+
+[Event "Chapter 2 (2)"]
+[Site "Game 25"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 2 (2)"]
+[Black "Game 25"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/3r4/7P/2k3K1/2p5/2R5 b - - 0 47"]
+
+47...Rd4  (47...Rd1 48.Rxc2+ Kxc2 49.Kf4 Rd5 50.Kg4 Kd3  (50...Rd4+ 51.Kg5 Kd3 52.h5 Ke4 53.h6 )  51.h5 Ke4 52.h6 )  48.h5 Kd2 49.Ra1 c1=Q 50.Rxc1 Kxc1 51.h6 Rd6
+ * 
+
+
+[Event "Chapter 2 (2)"]
+[Site "Game 26"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 2 (2)"]
+[Black "Game 26"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3R4/5pk1/3P2p1/3r2Pp/5P1P/4K3/8/8 b - - 0 53"]
+
+53...f5  (53...Rd1 54.Ke4 )  54.gxf6+ Kxf6 55.Ke4 Rd1
+ * 
+
+
+[Event "Chapter 2 (2)"]
+[Site "Game 27"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 2 (2)"]
+[Black "Game 27"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/7N/2p1p3/4k3/2p5/4K3/5P2/8 b - - 0 53"]
+
+53...Kf5  (53...c3 54.Ng5 c2 55.Nf3+ Kd5  (55...Kf5 56.Nd4+ )  56.Kd2 Ke4 57.Ne1 )  54.Nf8 c3 55.Kd3 Kf4 56.Nxe6+ Kf3
+ * 
+
+
+[Event "Chapter 2 (2)"]
+[Site "Game 28"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 2 (2)"]
+[Black "Game 28"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/6RP/8/7r/5K1k/8/8 b - - 0 86"]
+
+86...Kh2  (86...Ra4 87.h7  (87.Rg1 Kh2 88.Rg4 )  87...Rh4 88.Rg7 Rh6  (88...Kh2 )  89.Kf4 Kh4 90.Kf5 Rh5+ 91.Kg6 Kg4 92.Kf7+ )
+ * 
+
+
+[Event "Chapter 2 (2)"]
+[Site "Game 29"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 2 (2)"]
+[Black "Game 29"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/pN2kp2/2p4p/3n4/1P5P/P4KP1/8/8 b - - 0 36"]
+
+36...f5  (36...Nc3 37.Na5 Kd6 38.Kg4 )  37.Na5 Kd6 38.g4 fxg4+ 39.Kxg4 Ne3+ 40.Kh5 Nf5
+ * 
+
+
+[Event "Chapter 2 (2)"]
+[Site "Game 30"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 2 (2)"]
+[Black "Game 30"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5n1P/1p6/p1k5/P1P5/3K4/8/8 w - - 0 55"]
+
+55.Ke3  (55.Kc3 Nh8 56.Kd3 Kb4 57.Kd4 Kxa4 58.Ke5 Kb3 59.Kf6 a4 60.Kg7 a3 )   (55.Ke4 Ng5+ )  55...Kxc4 56.Kf4 b5 57.axb5 Kxb5 58.Kf5 a4 59.Kf6 Nh8 60.Kg7 a3 61.Kxh8 a2 62.Kg8 a1=Q 63.h8=Q Qxh8+
+ * 
+
+
+[Event "Chapter 2 (2)"]
+[Site "Game 31"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 2 (2)"]
+[Black "Game 31"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6p1/8/2Bn2Pk/1PR4P/8/1r6/6K1 b - - 0 53"]
+
+53...g6 54.Kf1 Nxb4 55.Rxb4 Rf2+ 56.Ke1 Re2+ 57.Kd1 Rd2+ 58.Kc1 Rc2+ 59.Kxc2
+ * 
+
+
+[Event "Chapter 2 (2)"]
+[Site "Game 32"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 2 (2)"]
+[Black "Game 32"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/2p5/np1p4/3P4/1PPN2k1/2K5/8/8 w - - 0 48"]
+
+48.Nc6 Kf4 49.Kb3 Ke4 50.Ka4 Kd3 51.Kb5 Kc3 52.Kxa6 Kxc4 53.Kb7 Kxd5 54.Kxc7 b5 55.Na5
+ * 
+
+
+[Event "Chapter 2 (2)"]
+[Site "Game 33"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 2 (2)"]
+[Black "Game 33"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/5k1p/3K1pp1/5P2/6PP/8/8 b - - 0 58"]
+
+58...g4 59.h4 Kg6 60.Ke6 Kh5 61.Kxf5
+ * 
+
+
+[Event "Chapter 2 (2)"]
+[Site "Game 34"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 2 (2)"]
+[Black "Game 34"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/P2B4/6p1/2K4k/7p/5b2/8 b - - 0 58"]
+
+58...Kg4  (58...g4 59.Be7+ Kh5 60.Bd6 Kg5 61.Bg3 Kf5 62.Kd3 )  59.Kb5  (59.Kd3 Kf3 )  59...Ba7  (59...Kf3 60.Bc5 )  60.Kc4  (60.Kc6 Kf3 61.Kb7 Be3 )  60...Kf3 61.Bc5 h2
+ * 
+
+
+[Event "Chapter 2 (2)"]
+[Site "Game 35"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 2 (2)"]
+[Black "Game 35"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3qb3/p5k1/8/pBPp2p1/Q2Pp3/1P2P1P1/2K5/8 b - - 0 40"]
+
+40...Qf6 41.Bxe8  (41.Qxa5 Qf2+ 42.Kb1 Bxb5 43.Qxb5 Qe1+  (43...Qxe3 )  44.Kb2 Qd2+ 45.Ka3 Qc1+ 46.Ka4 Qa1+ 47.Kb4 Qe1+ )  41...Qf2+
+ * 
+
+
+[Event "Chapter 2 (2)"]
+[Site "Game 36"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 2 (2)"]
+[Black "Game 36"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/pp2Rrpp/2pP4/8/7P/6K1/P1P3P1/3R4 w - - 0 29"]
+
+29.Rc7  (29.Rxf7 Kxf7 30.Rf1+ Kg8 31.Rxf8+ Kxf8 32.Kf4 Ke8 33.Ke5 Kd7 34.g4  (34.c4 )  34...b5 35.g5 a5 36.h5 a4 37.h6 gxh6 38.gxh6 b4 39.Kf6 Kxd6 40.Kg7 Ke7 41.Kxh7 Kf7 42.Kh8 a3 43.Kh7 c5 44.Kh8 c4 45.h7 Kf8 46.c3 b3 )
+ * 
+
+
+[Event "Chapter 3"]
+[Site "Game 1"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 3"]
+[Black "Game 1"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1R6/1P6/4p3/3bk3/8/4b1K1/8/8 b - - 0 67"]
+
+67...Bg5 68.Kf2  (68.Rg8 Bf4+ )  68...Be7  (68...Be7 69.Re8 Bc5+ )
+ * 
+
+
+[Event "Chapter 3"]
+[Site "Game 2"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 3"]
+[Black "Game 2"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/1p2k1n1/p1p2pBp/P1P5/1P4P1/3K4/8 b - - 0 46"]
+
+46...f4 47.gxf4 h4  (47...Kf5 48.Ke3 h4 )  48.Ke3 h3 49.Kf3 Kf5 50.Kg3  (50.Bh6 h2 51.Kg2 Nxf4+ 52.Kxh2 Ke4 53.Bg5 Ne6 )  50...Nxf4 51.Bd8 Ne2+ 52.Kxh3 Nd4 53.Bxb6  (53.Kg2 Ke4 54.Kf1 Kd3 )  53...Nxb3 54.Bd8 Ke4 55.Kg4 Kd3 56.Kf4 Kxc4 57.Ke4 Kc3  (57...Kb4 58.Kd5 c4 59.Be7+ Kc3 )  58.Bf6+ Kc2 59.Be5  (59.Kd5 Kd3 )  59...c4 60.Ke3 c3 61.Bf6 Nc5 62.Ke2  (62.Bd8 Kd1 63.Bxa5 c2 64.Bd2 Nb3 )   (62.Kd4 Nxa4 63.Kc4 Nb6+ 64.Kb5 a4 65.Kb4 Nd5+ )  62...Kb3
+ * 
+
+
+[Event "Chapter 3"]
+[Site "Game 3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 3"]
+[Black "Game 3"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/2B5/p7/1p6/rP3p2/1K1k4/8/4R3 w - - 0 48"]
+
+48.Bb6  (48.Rf1 Ke3 49.Rxf4  (49.Bxf4+ Ke2 50.Rh1 a5 )  49...a5 50.bxa5 Rxa5 )  48...f3  (48...Kd2 49.Rf1 )  49.Re3+
+ * 
+
+
+[Event "Chapter 3"]
+[Site "Game 4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 3"]
+[Black "Game 4"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6pk/pRP4p/1p6/8/2r4P/6K1/8 b - - 0 45"]
+
+45...Kg6  (45...Ra3 46.Rb8  (46.h4 )  )   (45...b4 46.Rxa6 b3 47.Rb6 )   (45...a5 46.Rxb5 Rxc6 47.Rxa5 )  46.Rxa6 Kh5 47.Rb6  (47.Ra7 Rxc6 48.Rxg7 Rg6+ )  47...Kh4 48.Rxb5 Rc2+ 49.Kg1  (49.Kf3 Rxc6 )  49...Kxh3  (49...Rxc6 50.Rb3 )  50.Rb7  (50.Rb3+ Kh4 51.Rb4+ Kh5 52.Rb6 g5 53.Kf1 g4 )  50...g5 51.c7 g4 52.Rb6 h5
+ * 
+
+
+[Event "Chapter 3"]
+[Site "Game 5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 3"]
+[Black "Game 5"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r6/8/8/Pk6/1P3R2/5K2/8/8 w - - 0 60"]
+
+60.Rf6  (60.Ke3 Rh8 61.Rd4 Rg8 62.Ke4 Re8+ 63.Kf5 Re1 64.Re4 Rh1 65.Ke6 Rh6+ 66.Kd7  (66.Kd5 Rh5+ 67.Re5 Rh6 )  66...Rh7+ 67.Re7 Rh6 )  60...Rb7  (60...Kxb4 61.Rb6+ )   (60...Rh8 61.Rb6+ Kc4 62.a6 )  61.Kf4  (61.Kf4 Rb8 62.Ke5 Re8+ 63.Re6 Rb8 64.Kd5 Rd8+ 65.Rd6 Rb8 66.Ke6 Rb7 67.Kf6 Rb8 68.Ke7 Rb7+ 69.Kd8 )
+ * 
+
+
+[Event "Chapter 3"]
+[Site "Game 6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 3"]
+[Black "Game 6"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5p2/6k1/5p2/7P/4K1P1/8/8 w - - 0 66"]
+
+66.Kf3  (66.Kd4 Kh5 67.Ke5 Kg4  (67...Kg6 )  68.h5 Kxh5  (68...f4 69.gxf4 Kxh5 70.Kf6 Kg4 )  69.Kxf5 Kh6  (69...f6 )  70.Kf6 Kh5 71.Kxf7 Kg4 )   (66.Kf4 f6 )  66...Kh5  (66...Kf6 67.Kf4 Ke6 68.Kg5 )  67.Kf4 Kg6 68.Ke5 f6+ 69.Kf4
+ * 
+
+
+[Event "Chapter 3"]
+[Site "Game 7"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 3"]
+[Black "Game 7"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r2/8/3R4/6k1/4p1N1/3nP1K1/5P2/8 w - - 0 51"]
+
+51.Rd5+  (51.f4+ Nxf4 )  51...Rf5  (51...Kg6 52.f4 )  52.f4+ Kg6 53.Rd4 Nc5 54.Ne5+ Kg7 55.Rc4
+ * 
+
+
+[Event "Chapter 3"]
+[Site "Game 8"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 3"]
+[Black "Game 8"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/3q4/4R2P/5B1K/6P1/8/8/8 w - - 0 213"]
+
+213.Re5  (213.g5 Qd1+ 214.Kg6 Qd7 215.Re4 Qf7+ )  213...Qc6  (213...Qf7+ 214.Bg6 )  214.Be4
+ * 
+
+
+[Event "Chapter 3"]
+[Site "Game 9"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 3"]
+[Black "Game 9"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4B3/8/3k3p/1K4p1/PP4P1/7P/8/4b3 w - - 0 66"]
+
+66.Kb6  (66.a5 Kc7 67.Ka4 Bd2 68.b5 Kd6 69.b6 Kc5 )  66...Bxb4 67.a5 Bc5+ 68.Kb7 Ke7 69.Bh5
+ * 
+
+
+[Event "Chapter 3"]
+[Site "Game 10"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 3"]
+[Black "Game 10"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5k2/4R3/5P2/4P1p1/5b2/7r/5K2/8 b - - 0 67"]
+
+67...Rc3  (67...g4 68.e6 Rf3+ 69.Kg2 Bh6 70.Rf7+ Kg8 71.Rd7 Rxf6 72.Rd8+ Kg7 73.e7 )  68.e6  (68.Kg2 Rc5 )   (68.Rg7 Re3 )  68...Rc7 69.Rxc7 Bxc7 70.Kf3 Be5 71.f7 Bd6 72.Kg4 Be7 73.Kf5 Kg7
+ * 
+
+
+[Event "Chapter 3"]
+[Site "Game 11"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 3"]
+[Black "Game 11"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/2R5/4pK2/5p2/3P1P2/4r3/8/8 w - - 0 52"]
+
+52.Rc8+  (52.Rg7+ Kf8 53.Rh7 Kg8 54.Rh1  (54.Rg7+ )  54...Re4 55.Rd1 Kh7  (55...Rxf4 56.Kxe6 Kf8 )  56.Kf7 )   (52.Re7 Re4 )  52...Kh7 53.Kf7
+ * 
+
+
+[Event "Chapter 3"]
+[Site "Game 12"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 3"]
+[Black "Game 12"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/1R6/3n1B2/1P6/1r4PK/8/8/8 w - - 0 65"]
+
+65.Rb6  (65.Rg7+ Kf8 66.Rd7 Nxb5 67.Rb7  (67.Be7+ Ke8 )   (67.Kh5 Re4 68.g5 Re6 69.Kg6 Nd6 )  67...Rb3 68.Rb6 Rf3 69.Kg5 Nc7 )   (65.Rd7 Ne8 )  65...Nxb5 66.Kh5 Kf7 67.g5
+ * 
+
+
+[Event "Chapter 3"]
+[Site "Game 13"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 3"]
+[Black "Game 13"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5p2/1pB1pP1k/1p2P3/5K2/P1P5/8/5b2 w - - 0 102"]
+
+102.Bb7 Bc4 103.Ba6
+ * 
+
+
+[Event "Chapter 3"]
+[Site "Game 14"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 3"]
+[Black "Game 14"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/4Kp1p/5p1n/8/2k3P1/5P2/8/8 b - - 0 48"]
+
+48...f5  (48...Kd4 49.Kxf6 Ke3 50.g5 Nf5 51.Kxf7 Kxf3 52.Kg8 Kf4 53.Kxh7 Kxg5 )  49.g5 Ng4 50.Kxf7 f4
+ * 
+
+
+[Event "Chapter 3"]
+[Site "Game 15"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 3"]
+[Black "Game 15"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/2Pbk3/1P6/4K1p1/7p/8/6B1 b - - 0 46"]
+
+46...Be5  (46...h2 47.Bxh2 Bxh2 48.b6 Kd6 49.c7 Kd7 50.Ke3 )  47.b6 Kd6 48.c7 Kd7
+ * 
+
+
+[Event "Chapter 3"]
+[Site "Game 16"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 3"]
+[Black "Game 16"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5R2/r4pbk/3B1Pp1/6P1/8/8/6K1/8 w - - 0 41"]
+
+41.Rc8  (41.Re8 Ra5  (41...Bxf6 42.gxf6 g5 43.Be7 Ra5 44.Kg3 Kg6 45.Rg8+ Kf5 46.Rg7 )  42.Be5 Bf8 )   (41.fxg7 Kxg7 )  41...Ra5  (41...Bh8 42.Rc7  (42.Kf3 )  42...Rxc7 43.Bxc7 Kg8 44.Bd6 )  42.Bc5 Bh8  (42...Bf8 43.Bxf8 Rxg5+ 44.Kh3 )  43.Kf3 Rb5 44.Ke4 Rb7 45.Rf8
+ * 
+
+
+[Event "Chapter 3"]
+[Site "Game 17"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 3"]
+[Black "Game 17"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/3K4/4p1p1/4k2p/5p1P/8/3N4/8 b - - 0 71"]
+
+71...Kd4  (71...Kf6 72.Kc6  (72.Kd6 )  72...g5 73.Ne4+ Kf5 74.Nxg5 Kg4 75.Kd6 Kxh4 76.Ne4 Kg4 77.Kxe6 h4 78.Ke5 f3 79.Kd4 h3 80.Ke3 )   (71...Kd5 72.Ke7 e5 73.Kf6 e4 74.Kxg6 f3 75.Kxh5 Kd4 76.Kg4 Ke3 77.Nf1+  (77.Nc4+ Kd3 78.Kg3 Kxc4 79.h5 Kd3 80.h6 Ke2 81.h7 f2 82.h8=Q f1=Q 83.Qb2+ )  77...Kf2 78.Nd2 )   (71...Kf5 72.Kd6 e5 73.Kd5 )  72.Kxe6 Kd3  (72...Ke3 73.Nc4+ Ke2 74.Ke5  (74.Nd6 )  74...f3 75.Kf4 f2 76.Ne3 Ke1  (76...f1=Q+ 77.Nxf1 Kxf1 78.Kg5 )  77.Kg5 Ke2 78.Kf4 )  73.Nf3  (73.Ke5 Kxd2 74.Kxf4 Ke2 75.Kg5 Kf3 76.Kxg6 Kg4 )  73...Ke3 74.Nh2  (74.Ng5 f3 )  74...Kf2 75.Ke5 Kg2 76.Kxf4 Kxh2 77.Kg5 Kg3
+ * 
+
+
+[Event "Chapter 3"]
+[Site "Game 18"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 3"]
+[Black "Game 18"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4R3/pr4p1/1pp1P3/4K2p/2P5/6k1/P7/8 w - - 0 35"]
+
+35.Rg8 h4  (35...c5 36.Kd6 Kf4 37.Rh8 Kg4 38.e7 Rxe7 39.Kxe7 g5 40.Kf6 h4 41.Ra8 h3 42.Rxa7 Kf4 43.Rh7 g4 44.Rh4 Kg3 45.Kg5 )  36.Kd6 h3  (36...Kf4 37.Kxc6 Re7 38.Kd6 Rb7 39.Rf8+  (39.e7 Rxe7 40.Kxe7 g5 41.Rh8  (41.Kf6 g4 42.Rh8 g3 43.Rxh4+ Kf3 44.Rh5 g2 45.Rg5 Kf2 46.Ke6 g1=Q 47.Rxg1 Kxg1 48.Kd5 Kf2 49.Kc6 Ke3 50.Kb7 Kd4 51.Kxa7 Kxc4 52.Kxb6 Kb4 )  41...Kg3 42.Kf6 g4 43.Kg5 h3 44.Rh4 h2 45.a4 Kf3 46.Rxh2 g3 47.Rh3 Kf2 48.Kf4 g2 49.Rf3+ Ke2 50.Rg3 Kf2 51.a5 g1=Q 52.Rxg1 Kxg1 53.Kf3 Kh2  (53...Kf1 54.a6 )   (53...bxa5 54.c5 )  54.axb6  (54.a6 Kh3 55.Ke4 Kg4 56.Kd5 Kf5 57.Kc6 Ke6 58.Kb7 Kd7 59.Kxa7 Kc7 )  54...axb6 55.Ke4 )  )  37.e7 h2 38.Rxg7+ Kf2 39.Rh7 Rxe7 40.Kxe7 Kg1 41.Kd6 c5 42.Kc6  (42.Kc6 h1=Q+ 43.Rxh1+ Kxh1 44.a4  (44.Kb7 b5 )  )
+ * 
+
+
+[Event "Chapter 3"]
+[Site "Game 19"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 3"]
+[Black "Game 19"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/3n2p1/5PPp/2k1P2P/4K3/8/8 b - - 0 60"]
+
+60...Ne8 61.fxg6  (61.f6 Nc7 62.Kf4 Kd4 )  61...Ng7 62.e5 Kd5 63.Kf4 Kd4 64.e6 Kd5 65.e7 Ke6 66.Ke4 Kxe7 67.Ke5 Ke8 68.Kd5  (68.Kf6 Kf8 )  68...Kd7  (68...Kd7 69.Ke5 Ke7 70.Kd5 Nf5 )
+ * 
+
+
+[Event "Chapter 3"]
+[Site "Game 20"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 3"]
+[Black "Game 20"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/3B1P2/6p1/3p4/4rk2/8/3K4 b - - 0 62"]
+
+62...Kf2  (62...Rd3+ 63.Ke1 Ke4 64.f7 )  63.f7  (63.Kd2 Rf3 )  63...Rd3+ 64.Kc2 Rf3 65.f8=Q Rxf8 66.Bxf8 Ke2
+ * 
+
+
+[Event "Chapter 3"]
+[Site "Game 21"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 3"]
+[Black "Game 21"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/p4b2/8/8/3k1K2/1P2p3/P7/5B2 b - - 0 53"]
+
+53...a5  (53...Bh5 54.b4 e2 55.Bxe2 Bxe2 56.a4 Bd1 57.a5 a6 58.Kf5 Bc2+ 59.Ke6  (59.Kf4 )  59...Kc4 60.Ke5 Kxb4 61.Kd4 Bg6 62.Ke3 Kxa5 )  54.Be2 Bd5  (54...Bg6 55.a3 Bd3 56.Kf3 )  55.Bf1  (55.Bd1 Kd3 56.Bh5 Kd2  (56...e2 57.Bxe2+ Kxe2 58.Ke5 Bxb3 59.Kd4 )  57.Ke5 Bg2 58.Kd4 )  55...Be4 56.Be2 Bd3 57.Kf3 Bg6 58.Kf4 Bf7 59.Bg4  (59.Kf5 Kc3 )  59...Kd3 60.Ke5 Kd2  (60...e2 61.Bxe2+ Kxe2 62.Kd4 Kd2 63.Kc5 Kc3 64.Kb5 )  61.Kd4 Bg6 62.Kc5  (62.a3 Bd3 63.b4  (63.Bh5 Be2 64.Bg6 Bd1 65.Bd3 Bxb3 )  63...a4 64.Bh5 e2 65.Bxe2 Bxe2 66.Kc5 Kc3 )   (62.Bf3 Bb1 63.a3 Bd3 )  62...Bb1 63.Bf3  (63.a3 Bc2 64.b4 Bd1 )  63...Bxa2 64.b4 axb4 65.Kxb4 Bd5 66.Bg4 Ke1 67.Bd7  (67.Kc3 Kf2 )  67...Kf2 68.Bb5 Bg2
+ * 
+
+
+[Event "Chapter 3"]
+[Site "Game 22"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 3"]
+[Black "Game 22"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1B3p2/p3k1p1/1bK2p1p/1P5P/r3P1P1/2R2P2/8 w - - 0 70"]
+
+70.Ra2 Rc3+  (70...Rxa2 71.Bd5+ Ke7 72.Bxa2 f6 73.f4 )  71.Kb6 Rb3 72.Bxa6 Bxa6 73.Rxa6 Kd5  (73...Rxb4+ 74.Kc5+ )  74.b5 Rb2 75.Ra4  (75.Ra5 Rxf2 76.Ka7 )  75...Rxf2 76.Rd4+  (76.Ka7 Rb2 77.b6 )  76...Ke6 77.Kc5 Rc2+ 78.Rc4 Re2 79.b6  (79.Kc6 Rxe3 80.b6 Rxg3 81.b7 Rb3 82.Rc5 Rxb7 83.Kxb7 f6 84.Kc6 g5 85.Kb5 gxh4 86.Kc4 h3 87.Kd3 h2 88.Rc1 )  79...Kd7 80.Kb4 Rb2+ 81.Ka5 Rb3 82.Rc7+ Kd6 83.Rxf7 Rxe3 84.b7 Rb3 85.Ka6 Kc6 86.Rf6+ Kc7 87.Rf7+ Kc6 88.Ka7 Ra3+ 89.Kb8 Re3 90.Rf6+ Kb5 91.Rxg6
+ * 
+
+
+[Event "Chapter 3"]
+[Site "Game 23"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 3"]
+[Black "Game 23"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1n3N2/1P3p1p/5k1P/8/4K3/8/8 w - - 0 76"]
+
+76.Kf3  (76.Kd4 Kg4 77.Kd5  (77.Nxh6+ Kxh5 )  77...Kxh5 78.Nd6 Nd8 79.Nf7 Nb7 80.Kc6 Na5+ 81.Kb5 Nb7 82.Kc6 Na5+ 83.Kc7 f5 84.Nd6 f4 85.Nc4 f3 86.Nxa5 f2 )  76...Nc5 77.Kg3 Nb7 78.Kh4
+ * 
+
+
+[Event "Chapter 3"]
+[Site "Game 24"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 3"]
+[Black "Game 24"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/2k4p/1p2K1p1/1P3p2/7P/6P1/8/8 w - - 0 50"]
+
+50.Ke7  (50.Kf6 Kd6 51.Kg7 Ke7 52.Kxh7 Kf7 )  50...Kc8  (50...h6 51.Kf6 )  51.Kd6  (51.Kf6 Kd7 52.Kf7 Kd6 53.Kg7 Ke7 54.Kh6 Kf6 55.Kxh7 Kf7 56.Kh8 Kf8 57.Kh7 )  51...Kb7 52.Kd7 Kb8  (52...h6 53.Ke6 )  53.Kc6 Ka7 54.Kc7 h6 55.Kd6 g5 56.hxg5 hxg5 57.Ke5 f4 58.gxf4 gxf4 59.Kxf4 Kb7 60.Ke5 Kc7 61.Ke6  (61.Ke6 Kc8 62.Kd6 Kb7 63.Kd7 Kb8 64.Kc6 Ka7 65.Kc7 Ka8 66.Kxb6 Kb8 67.Ka6 Ka8 68.b6 Kb8 69.b7 )
+ * 
+
+
+[Event "Chapter 3"]
+[Site "Game 25"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 3"]
+[Black "Game 25"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3Q4/8/5p2/4p1p1/4qk2/7P/5P1K/8 b - - 0 75"]
+
+75...Kf3  (75...Kf5 76.Kg3  (76.Qd7+ )  76...Qd4  (76...Qf4+ )  77.Qc8+ Ke4 78.Qc6+ )  76.Qxf6+ Qf4+ 77.Qxf4+ gxf4  (77...exf4 78.Kg1 Ke2 79.Kg2 Ke1 80.Kf3 Kf1 )  78.h4  (78.Kg1 Ke2 79.h4 e4 80.h5 f3 81.h6 e3 )  78...e4 79.h5 e3 80.fxe3 fxe3 81.h6 e2 82.h7 e1=Q 83.h8=Q Qg3+ 84.Kh1 Qg2#
+ * 
+
+
+[Event "Chapter 3"]
+[Site "Game 26"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 3"]
+[Black "Game 26"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6R1/8/8/8/7p/5k1r/3K4/8 b - - 0 74"]
+
+74...Rh2+  (74...Rg3 75.Rf8+ Kg2 76.Ke2 h3 77.Rf2+ Kh1 78.Rf8 Ra3 79.Rg8  (79.Kf2 )  )   (74...Rh1 75.Rf8+ Kg2 76.Rg8+ Kh2 77.Ke2 )  75.Kd3  (75.Ke1 Rh1+ 76.Kd2 h3 77.Kc2  (77.Rf8+ Kg4 78.Rg8+ Kf5 79.Rf8+ Kg6 80.Rg8+ Kf7 )  77...h2 78.Rh8 Ra1 )  75...h3 76.Rf8+ Kg2 77.Kd4  (77.Ke2 Kg1+ 78.Ke1 Ra2 79.Rf1+ Kg2 80.Rf8 h2 81.Rg8+ Kf3 )   (77.Ke3 Kg1 78.Rh8 Ra2 )   (77.Rg8+ Kf1 78.Rf8+ Rf2 )  77...Rh1  (77...Kg1 78.Rh8 )  78.Rg8+ Kf3 79.Rf8+ Kg3 80.Rg8+ Kf4 81.Rf8+ Kg5 82.Rg8+ Kf6 83.Rf8+ Kg7 84.Rf2 h2 85.Rd2 Kg6
+ * 
+
+
+[Event "Chapter 3"]
+[Site "Game 27"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 3"]
+[Black "Game 27"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/p2k2p1/3P4/1P6/2N2n2/6Kp/8/8 b - - 0 52"]
+
+52...Nd5  (52...g5 53.b6 axb6 54.Nxb6+ Kxd6 55.Nc4+ Kd5 56.Ne3+ Ke4 57.Ng4 )  53.Kxh3 Nb6 54.Na5  (54.Ne3 Kxd6 55.Nf5+ Kc5 56.Nxg7 Kxb5 57.Nf5 a5 58.Ne3 a4 59.Nc2 Kc4 )   (54.Na3 Kxd6 55.Kg4 Kc5  (55...Nd5 )  56.Kf5 Nc4 57.Nc2 Nd6+ 58.Kg6 Nxb5 59.Kxg7 a5 60.Kf6 a4 61.Ke5 Kc4 )  54...Kxd6 55.Kg4  (55.Nc6 a6 56.Nd4 a5 )  55...Nd5  (55...Kc5 56.Nc6 a6 57.bxa6 Kxc6 58.Kf5 )  56.Nc6  (56.Kg5 Ne7 57.Nb3 Kd5 )   (56.Nb3 Ne7 57.Kf4 Kd5 58.Ke3 Kc4 59.Nd4 Nd5+ 60.Ke4 Nc3+ )  56...a6 57.Nd4  (57.Kf3 axb5 58.Nd4 b4 59.Nf5+ Kc5 60.Nxg7 b3 )  57...a5
+ * 
+
+
+[Event "Chapter 3"]
+[Site "Game 28"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 3"]
+[Black "Game 28"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/2B5/5p2/3k1P2/r7/5K2/8 b - - 0 74"]
+
+74...Ra2+  (74...Ra7 75.Ke2  (75.Bg2 Ra2+ 76.Kf3 )  75...Ra2+ )  75.Kf3  (75.Kg3 Ke3 76.Bd7 Ra5 77.Bc8 Rc5 78.Be6 Ke4 )  75...Ra6 76.Bb7 Ra7 77.Bc6 Kc5 78.Be8 Ra3+ 79.Kf2 Kd5
+ * 
+
+
+[Event "Chapter 3"]
+[Site "Game 29"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 3"]
+[Black "Game 29"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2k5/1p6/pK3p2/6pp/PP6/6P1/5P1P/8 w - - 0 32"]
+
+32.f3  (32.h3 g4 33.h4  (33.hxg4 hxg4 34.Ka7 Kc7 35.b5 axb5 36.axb5 f5 )  33...Kb8 34.b5 axb5 35.axb5 Kc8 36.Kc5  (36.Ka7 Kc7 37.Ka8 Kb6 38.Kb8 Kxb5 39.Kxb7 Kc4 40.Kc6 Kd3 41.Kd5 Ke2 )  36...Kd7 37.Kb6 Kc8 )  32...g4  (32...f5 33.Kc5 )   (32...h4 33.g4 Kb8 34.h3 )  33.f4 Kb8 34.f5 Kc8 35.Ka7 Kc7 36.b5 a5  (36...axb5 37.axb5 Kc8 38.b6 )  37.Ka8 Kc8  (37...Kb6 38.Kb8 )  38.b6
+ * 
+
+
+[Event "Chapter 3"]
+[Site "Game 30"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 3"]
+[Black "Game 30"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/7p/6p1/1Pk2p2/3NpK2/4P3/6P1/6b1 b - - 0 47"]
+
+47...Kc4  (47...Bh2+ 48.g3 h5 49.Kg5 Bxg3 50.Kxg6 f4 51.Kf5 f3 52.Kxe4 f2 53.Nb3+ Kxb5 54.Nd2 )  48.b6 Kd3 49.b7 Bxe3+ 50.Kg3 g5 51.Ne6  (51.b8=Q Bf4+ 52.Qxf4 gxf4+ 53.Kxf4 Kxd4 )  51...Ba7
+ * 
+
+
+[Event "Chapter 3"]
+[Site "Game 31"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 3"]
+[Black "Game 31"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6k1/1P6/K2r4/3p4/R5P1/8/8 w - - 0 68"]
+
+68.Kb4  (68.Ka6 d3 69.Ra1 d2 70.Rd1 Rd3 71.b7 Ra3+ 72.Kb6 Rb3+ )  68...d3 69.Ra7+  (69.b7 d2 70.b8=Q d1=Q 71.Ra7+ Rd7 )  69...Kf6 70.b7 d2  (70...Rd8 71.Ra8 )  71.b8=Q d1=Q 72.Qf8+ Ke5 73.Re7+
+ * 
+
+
+[Event "Chapter 3"]
+[Site "Game 32"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 3"]
+[Black "Game 32"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2K2k2/8/1bP2pP1/p6B/1p2PP1p/1P6/P2p4/8 w - - 0 71"]
+
+71.e5  (71.Kb7 Bd8 72.Kc8 Bb6 73.Kb7 )  71...fxe5 72.fxe5 h3  (72...Bd4 73.e6 Ke7 74.c7 h3 75.Kb8 h2 76.c8=Q Be5+ 77.Ka7 h1=Q 78.Qd7+ Kf6 79.e7 Qg1+ 80.Ka6 )  73.e6 h2 74.g7+ Kxg7 75.e7 h1=Q 76.e8=Q d1=Q 77.Qg6+  (77.Bxd1 Qxd1 78.Qd7+ Qxd7+ 79.cxd7 )  77...Kh8 78.Qf6+ Kh7  (78...Kg8 79.Bf7+ )  79.Bg6+ Kh6 80.Bf7+ Kh7 81.Qg6+ Kh8 82.Qg8#
+ * 
+
+
+[Event "Chapter 3"]
+[Site "Game 33"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 3"]
+[Black "Game 33"]
+[Result "*"]
+[SetUp "1"]
+[FEN "R7/6k1/P7/5r2/3K4/8/8/8 w - - 0 56"]
+
+56.Ra7+  (56.Rb8 Ra5 57.Rb6 Kf7 58.Kc4 Ke7 59.Kb4 Ra1 60.Kc5 Kd7 61.Rb7+ Kc8 62.Kb6 Rb1+ 63.Ka7 Ra1 )   (56.a7 Ra5 )  56...Kf6  (56...Kg6 57.Rc7  (57.Rb7 )  57...Ra5 58.a7 Kf6 59.Kc4 Ke6 60.Kb4 Ra1 61.Kc5 )  57.Rh7  (57.Kc4 Ra5  (57...Re5 58.Rb7 Re4+ 59.Kb5 Re5+ 60.Kb6 Re6+ 61.Ka5 )  58.Kb4 Ra1 59.Ra8 Rb1+  (59...Ke7 60.a7 Kf7 61.Rh8 Rxa7 62.Rh7+ )  60.Ka5 Ra1+ 61.Kb6 Rb1+ 62.Ka7 Ke7 63.Rb8 Rc1 64.Kb7 Rb1+ 65.Ka8 Ra1 66.a7 Kd7 67.Kb7 Rb1+ 68.Ka6 Ra1+ 69.Kb6 Rb1+ 70.Kc5 )  57...Ra5  (57...Kg6 58.Rc7 )  58.a7 Ke6 59.Kc4 Kd6 60.Kb4 Ra1 61.Kb5
+ * 
+
+
+[Event "Chapter 3"]
+[Site "Game 34"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 3"]
+[Black "Game 34"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/1p6/1B3p2/4p1k1/7p/2P2K2/8 b - - 0 60"]
+
+60...Kf4  (60...f4 61.Bd7+ Kh4 62.Bc6  (62.Bf5 )  )  61.Bd7  (61.Bf1 e3+ 62.Ke2 Kg3 )   (61.Bc6 h2 62.Kg2 Ke3  (62...e3 63.Kf1 Ke5 )  63.Kxh2 Kf2 )  61...h2 62.Kg2 e3 63.Bb5 h1=Q+ 64.Kxh1 Kf3 65.Kg1 e2
+ * 
+
+
+[Event "Chapter 3"]
+[Site "Game 35"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 3"]
+[Black "Game 35"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/8/8/8/ppKN1r2/5P2/7R/8 w - - 0 60"]
+
+60.Ra2  (60.Rh5 b3 61.Rb5 Rh4  (61...Rf8 )  62.Rb4 Rh1 63.Kc3 Ra1 )  60...a3 61.Rd2 Kf7 62.Kb3  (62.Kd3 b3 )  62...Kg6  (62...Kf6 63.Rd3 )  63.Rd1
+ * 
+
+
+[Event "Chapter 3"]
+[Site "Game 36"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 3"]
+[Black "Game 36"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/2p5/B5kP/p3n3/PP6/K7/8 w - - 0 54"]
+
+54.Bb4 Kxh5  (54...axb3+ 55.Kxb3 c5 56.Bc3 Nd6 57.a4 Nb7 58.Kc4 Kxh5 59.Kd5 Kg4 60.Kc6 Nd8+ 61.Kd7 Nb7 62.Kc7 )  55.bxa4 Nf6 56.a5 Nd5 57.a6 Nc7 58.a7 Kg6 59.Ba5 Na8 60.Kb3 Kf7 61.Kc4 Ke7 62.Kc5 Kd7 63.Bb6 Kc8 64.Kxc6 Nc7 65.Bg1 Na8 66.Bh2 Nc7 67.Kb6 Na8+ 68.Ka6
+ * 
+
+
+[Event "Chapter 3"]
+[Site "Game 37"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 3"]
+[Black "Game 37"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1r4p1/2kB3p/p1PpRP1P/1b4P1/1P6/5K2/8 w - - 0 36"]
+
+36.Re7 Rxe7  (36...Bc3 37.Rxb7 Kxb7 38.Be7 Kc6 39.Ke3 Kd7 40.Kd3 Be5 41.Bh4 )  37.Bxe7 Bxc5+  (37...Kd7 38.Bd6 )  38.Bxc5 Kxc5 39.g5
+ * 
+
+
+[Event "Chapter 3"]
+[Site "Game 38"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 3"]
+[Black "Game 38"]
+[Result "*"]
+[SetUp "1"]
+[FEN "R7/6p1/7p/7P/1k2KPP1/8/p1r5/8 b - - 0 56"]
+
+56...Rc4+ 57.Kd3  (57.Kf5 Rc5+ 58.Kg6 Ra5 )  57...Rc3+ 58.Kd4 Ra3 59.Rb8+ Ka4 60.Kc4 Rc3+
+ * 
+
+
+[Event "Chapter 3"]
+[Site "Game 39"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 3"]
+[Black "Game 39"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/3q2p1/PQ3p1p/8/8/2np2BP/5PP1/6K1 w - - 0 43"]
+
+43.Bf4  (43.Qb3+ Kh8 44.a7  (44.Qxc3 d2 )  44...Ne2+ 45.Kh2 Qxa7 46.Qxd3 )   (43.a7 d2 44.a8=Q+ Kh7 )  43...Ne2+  (43...Nb5 44.Qb7 Qf5 45.Be3 )   (43...Kh7 44.a7 Qa4 45.Be3 )   (43...d2 44.Bxd2 Qxd2 45.a7 )  44.Kh2 Nxf4 45.a7 d2 46.a8=Q+ Kh7  (46...Kf7 47.Qb3+ )  47.Qb1+
+ * 
+
+
+[Event "Chapter 3"]
+[Site "Game 40"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 3"]
+[Black "Game 40"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/pp6/1bp2k2/6p1/P1B1PP2/6K1/8/8 b - - 0 50"]
+
+50...Bc7 51.e5+ Bxe5 52.fxe5+ Kxe5 53.Kf3  (53.Kg4 Kd4 54.Bf1 c5 )  53...Kd4 54.Be6 b5 55.axb5  (55.a5 c5 )  55...cxb5 56.Ke2 Kc3 57.Kd1 a5 58.Kc1 b4 59.Bd7 b3 60.Kb1 Kb4 61.Kb2 a4 62.Kb1 a3 63.Be6 Kc3 64.Bd5 g4
+ * 
+
+
+[Event "Chapter 4"]
+[Site "Game 1"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 4"]
+[Black "Game 1"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1R6/4P1k1/3B4/2P2P2/1pK5/2b4p/3r4 w - - 0 42"]
+
+42.e7 Rd3+ 43.Kb2 Re3 44.Be6 Rxe6 45.Rb6 h1=Q  (45...Rxb6 46.e8=Q+ )   (45...Kf7 46.Rxe6 )  46.e8=Q+
+ * 
+
+
+[Event "Chapter 4"]
+[Site "Game 2"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 4"]
+[Black "Game 2"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r2/pp3B1p/2p2P1k/6rb/5K1R/P1P5/2P5/5R2 w - - 0 32"]
+
+32.Rg1  (32.Rxh5+ Rxh5 33.Bxh5 Rxf6+ )  32...Rc5  (32...Rxg1 33.Rxh5# )   (32...Rxf7 33.Rxg5 Rxf6+ 34.Rf5 )  33.Rxh5+ Rxh5 34.Bxh5 Kxh5  (34...Rxf6+ 35.Ke5 )  35.Kf5
+ * 
+
+
+[Event "Chapter 4"]
+[Site "Game 3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 4"]
+[Black "Game 3"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/N7/2R1R1b1/1P4pk/P4p2/5P2/5KP1/r6r b - - 0 49"]
+
+49...Ra2+ 50.Re2 Bd3 51.Re6  (51.Rxa2 Rf1# )  51...Bxe2  (51...g4 52.fxg4+ Kxg4 53.Nc6 Raa1 54.Ne5+ Kf5 )   (51...Raa1 52.g4+ fxg3+ 53.Kxg3 Bxe2 54.Rxe2 )  52.Rxe2 Rxa4  (52...Raa1 53.Re4  (53.Rb2 Rhg1 54.b6 Rae1 )  53...Rhf1+ 54.Ke2 Rfe1+ 55.Kd3 Ra3+ 56.Kc2 Rxe4 57.fxe4 Rxa4 )  53.Nc6 Raa1 54.Re7 Ra2+  (54...Rhf1+ 55.Ke2 Rfb1 )  55.Re2 Rxe2+ 56.Kxe2 Kh4 57.Kd3 Rb1 58.Kc4 Kg3 59.Nb4  (59.Kc5 Kxg2 60.Ne5  (60.Nd4 Kf2 61.b6 Ke3 62.Ne6 g4 63.Nxf4 g3 64.Ng2+ Kxf3 65.Nh4+ Kg4 66.Ng2 )  60...Re1 61.Kd5 Rh1 62.Kc5  (62.b6 Rh6 63.Kc5 Re6 )  62...Rh6 63.Kd5 )  59...Kxg2 60.b6 Rc1+ 61.Kd5 Rc8 62.Ke4 Re8+ 63.Kf5 Kxf3 64.Kxg5 Kg3 65.Nd3 f3 66.Kf5 f2 67.Nxf2 Kxf2
+ * 
+
+
+[Event "Chapter 4"]
+[Site "Game 4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 4"]
+[Black "Game 4"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2b5/1p4kp/p1rPp1p1/P4p2/1RP1N3/5P2/6PP/6K1 w - - 0 33"]
+
+33.Rxb7+ Bxb7 34.d7 Rc8 35.Nc5  (35.Nc5 Rd8  (35...Rb8 36.Nxb7 )  36.Nxe6+ )
+ * 
+
+
+[Event "Chapter 4"]
+[Site "Game 5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 4"]
+[Black "Game 5"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5Q2/1kp5/1p1p4/3P4/K1P5/P7/1q6/8 b - - 0 59"]
+
+59...b5+ 60.cxb5 Qd4+ 61.Ka5  (61.Kb3 Qxd5+ 62.Kb4 Qc5+ )  61...Qc3+ 62.Ka4 Qc4+ 63.Ka5 Qb3 64.Qf4 Qxa3+ 65.Qa4 Qc3+ 66.Qb4 Qd3  (66...Qxb4+ 67.Kxb4 Kb6 68.Kc4  (68.Ka4 Kc5 )  68...Ka5 )  67.Qb2 Qxd5
+ * 
+
+
+[Event "Chapter 4"]
+[Site "Game 6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 4"]
+[Black "Game 6"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7r/1K5P/P7/4k3/8/8/2B5/8 w - - 0 82"]
+
+82.a7  (82.Kc7 Kf6 83.Be4 Kg7 84.a7 Rf8 )  82...Kf6 83.Bf5 Kxf5  (83...Re8 84.Bc8 Re7+ 85.Kb8 )  84.a8=Q
+ * 
+
+
+[Event "Chapter 4"]
+[Site "Game 7"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 4"]
+[Black "Game 7"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3k4/8/3P2p1/1p4K1/3rNP2/4R3/1n6/8 w - - 0 55"]
+
+55.Nf6 Rxd6 56.Re8+ Kc7 57.Re2
+ * 
+
+
+[Event "Chapter 4"]
+[Site "Game 8"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 4"]
+[Black "Game 8"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5b2/7p/3r4/5K2/2N5/8/kp3R1P/8 b - - 0 59"]
+
+59...Kb3 60.Nxb2  (60.Rxb2+ Kxc4 )  60...Bg7
+ * 
+
+
+[Event "Chapter 4"]
+[Site "Game 9"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 4"]
+[Black "Game 9"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/kp3Q2/p2p1P2/4p3/KPP5/P1q5/8/8 b - - 0 65"]
+
+65...Qc2+ 66.Ka5 Qb3 67.a4 Qxc4  (67...Qxc4 68.Qxc4  (68.Qd7 Qd5+ 69.b5 Qd2# )  68...b6# )
+ * 
+
+
+[Event "Chapter 4"]
+[Site "Game 10"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 4"]
+[Black "Game 10"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r4k1/1p3pbp/1P1P4/p1P2p2/4p3/8/1P2B1PP/3R3K w - - 0 33"]
+
+33.Ba6 Bf6  (33...bxa6 34.c6 Rxb6 35.c7 Rc6 36.d7 )  34.Bxb7 Rxb7 35.c6 Rxb6 36.Rc1 Bxb2 37.d7
+ * 
+
+
+[Event "Chapter 4"]
+[Site "Game 11"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 4"]
+[Black "Game 11"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/7p/1P1k2p1/2R2b2/7r/2P2K2/8/3N4 w - - 0 50"]
+
+50.Nf2 Kxc5 51.b7
+ * 
+
+
+[Event "Chapter 4"]
+[Site "Game 12"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 4"]
+[Black "Game 12"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/4k3/1p6/1P1PPR2/5nr1/2K3p1/6B1/8 w - - 0 57"]
+
+57.Bf3 g2  (57...Nxd5+ 58.Bxd5 g2 59.Bxg2 Rxg2 60.Rf6 Re2 61.Kd4 Rd2+ 62.Ke4 Re2+ 63.Kd5 )  58.d6+ Ke6  (58...Kd8 59.Rf8+ )   (58...Ke8 59.Bc6+ )   (58...Kd7 59.Bxg4 )  59.Bxg4 Ne2+  (59...g1=Q 60.Rg5+ Kf7 61.Bh5+ )  60.Kd3
+ * 
+
+
+[Event "Chapter 4"]
+[Site "Game 13"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 4"]
+[Black "Game 13"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r5/3RP3/7p/3nk3/3N4/8/3K4/8 w - - 0 72"]
+
+72.Nc6+ Ke6 73.Rxd5 Rxc6  (73...Kxd5 74.Nd8 )  74.e8=Q+
+ * 
+
+
+[Event "Chapter 4"]
+[Site "Game 14"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 4"]
+[Black "Game 14"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5pk1/2K5/2B1PP2/R4nr1/8/p7/8 w - - 0 53"]
+
+53.Be7  (53.Rxa2 Rg5 )  53...Rg2 54.Bf6+ Kh6 55.Rxf4 Rc2+  (55...a1=Q 56.Rh4# )  56.Kd5
+ * 
+
+
+[Event "Chapter 4"]
+[Site "Game 15"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 4"]
+[Black "Game 15"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1PN3Rp/P1bk4/8/3p4/2p5/2K3PP/4r3 b - - 0 48"]
+
+48...Kc5  (48...Be4+ 49.Kb3 Rb1+ 50.Kc4 Bxb7 51.axb7 Rxb7 52.Ne8+ Kc6  (52...Ke6 53.Rc7 Rb2 )  53.Rxb7 Kxb7 54.Kd3 )  49.b8=Q  (49.Nd5 Kxd5  (49...Bxd5 50.Rc7+ Kd6 51.b8=Q Be4+ )  50.b8=Q Ba4+ 51.Kd3 Re3# )   (49.Kb3 Rb1+ 50.Kc2  (50.Ka2 c2 )  50...Be4# )   (49.Rg5+ Kc4 )  49...Be4+ 50.Kb3 Rb1+ 51.Ka3 Rxb8 52.Ne6+  (52.a7 Rb6 53.a8=Q Bxa8 54.Nxa8 Ra6+ )  52...Kc4  (52...Kb5 53.Nxd4+ Kc4 )  53.Rc7+ Kd5
+ * 
+
+
+[Event "Chapter 4"]
+[Site "Game 16"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 4"]
+[Black "Game 16"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/2P4p/7r/1p3b2/4R3/pP6/K2N4/8 w - - 0 44"]
+
+44.Nf3 Bh3  (44...Rc6 45.Nd4 )   (44...b4 45.Rxb4 )  45.Ng5  (45.Nd4 )  45...Bf5 46.Re5 Bg4 47.Ne6
+ * 
+
+
+[Event "Chapter 4"]
+[Site "Game 17"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 4"]
+[Black "Game 17"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/5k2/2p2p2/2Pn2pP/2rBR1P1/8/4K3 b - - 0 54"]
+
+54...f4  (54...Nc2+ 55.Kd2 Nxe3 56.Kxc3 f4 57.Kd2 )  55.Kd2  (55.gxf4 Nc2+ 56.Kd2 Nxe3 57.Kxc3 g3 )  55...Rc2+  (55...fxe3+ 56.Kxc3 Kg7 57.Be4 Ne2+ 58.Kd3 Nxg3 59.Kxe3 Kh6 )  56.Bxc2 fxe3+ 57.Kxe3  (57.Kd3 e2 )  57...Nxc2+ 58.Ke4 Kg6  (58...Ke6 59.h5 Nd4  (59...Kf6 60.Kf4 Na3 61.Kxg4 Nxc4 62.Kf4 )  60.h6  (60.Kf4 Nf5 61.Kxg4 Ne3+ 62.Kf4 Nxc4 63.g4 Nd6 64.g5 c4 65.h6 )  60...Kf6 61.Kd5 Nb3 62.Ke4 Kg6 63.Kf4 Nd2 64.Kxg4 Nxc4 65.Kf4 Nb6 66.g4 Kxh6 )  59.Kd5 Ne3+ 60.Kxc5 Nf5
+ * 
+
+
+[Event "Chapter 4"]
+[Site "Game 18"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 4"]
+[Black "Game 18"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/p3b3/6pp/PP1kp3/8/4P2P/3BK1P1/8 w - - 0 47"]
+
+47.e4+  (47.b6 axb6 48.axb6 e4 49.b7 Bd6 50.Bb4 Bg3 51.Kd2 h5 52.Ba3 Kc6 53.Kc3 Be5+ 54.Kc4 Kxb7 55.Kd5 Bf6 56.Bc5  (56.Kxe4 Kc6 )  56...Kc7 57.Kxe4  (57.Ke6 Bc3 58.Kf7 Kc6 59.Be7 Bd2 60.Bg5 Kd5 61.Kxg6 Kc4 )  57...Kd7 58.Kd5 Bb2 59.e4 Bc3 60.e5 Bb2 61.e6+ Ke8 62.Bd4 Ba3 63.Ke5 Ke7  (63...Be7 64.g3 )  )  47...Kc5  (47...Kxe4 48.Be3 )  48.b6 axb6  (48...a6 49.Bxh6 )  49.Bb4+  (49.Bb4+ Kxb4 50.a6 )   (49.a6 Kc6 50.Bxh6 )
+ * 
+
+
+[Event "Chapter 4"]
+[Site "Game 19"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 4"]
+[Black "Game 19"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/4R3/P4pk1/1pq5/5P1p/8/4R2K/8 w - - 0 57"]
+
+57.Rg2+  (57.a7 Qa3 )  57...Kf5  (57...Kh6 58.a7 Qa3 59.Re8 )  58.Rg5+ fxg5 59.Re5+
+ * 
+
+
+[Event "Chapter 4"]
+[Site "Game 20"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 4"]
+[Black "Game 20"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3k4/1p1n4/p2N2p1/P2q1pP1/1P3P2/K1Q5/8/8 w - - 0 66"]
+
+66.Qh8+ Ke7 67.Nc8+ Kf7 68.Qh7+ Kf8 69.Qe7+ Kg8 70.Qe8+ Kg7 71.Qxg6+ Kxg6 72.Ne7+ Kf7 73.Nxd5
+ * 
+
+
+[Event "Chapter 4"]
+[Site "Game 21"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 4"]
+[Black "Game 21"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/2p2ppp/p1Pb4/R7/4rP2/2P1B3/1r3P1P/3R2K1 w - - 0 25"]
+
+25.Re5 Rxe3  (25...Rxe5 26.fxe5 Be7 27.Rd7 )   (25...f5 26.Rxe4 fxe4 27.Rxd6 cxd6 )  26.fxe3
+ * 
+
+
+[Event "Chapter 4"]
+[Site "Game 22"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 4"]
+[Black "Game 22"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rr1k4/3p1p1p/RPp3p1/2Np4/3K4/6P1/4BP1P/8 w - - 0 47"]
+
+47.Nb7+  (47.Rxa8 Rxa8 48.Na6 Kc8 )  47...Ke7  (47...Kc8 48.Nd6+ Kd8 49.Kc5 )  48.Kc5 Rxa6 49.Bxa6 Ra8 50.Nd6 Rxa6 51.b7 Ra5+ 52.Kb6 Ra2 53.Kc7  (53.Kc7 Rb2 54.Nc8+ )
+ * 
+
+
+[Event "Chapter 4"]
+[Site "Game 23"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 4"]
+[Black "Game 23"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/6R1/1p2NP2/p3n3/8/7P/6PK/5r2 w - - 0 42"]
+
+42.Re7  (42.Ra7 Rxf6 )   (42.Rb7 Rxf6 43.Rxb6 Kh7 )  42...Rxf6  (42...Ng6 43.Re8+ Kh7 44.f7 Rxf7 45.Ng5+ )  43.Re8+ Kh7 44.Ng5+
+ * 
+
+
+[Event "Chapter 4"]
+[Site "Game 24"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 4"]
+[Black "Game 24"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/2R5/3pnkp1/2b4p/2K1PP1P/8/8/3B4 w - - 0 56"]
+
+56.e5+ dxe5 57.Rc6  (57.fxe5+ Kxe5 58.Rxc5+ Nxc5 59.Kxc5 g5 )  57...Kf5  (57...exf4 58.Kd5 )   (57...Ke7 58.Kd5 )  58.Bc2+
+ * 
+
+
+[Event "Chapter 4"]
+[Site "Game 25"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 4"]
+[Black "Game 25"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/p4K1k/r6P/4N1P1/8/1p6/2bR4/8 w - - 0 56"]
+
+56.Nd7  (56.Rd7 b2 57.Kf8+ Kh8 58.Nf7+ Kh7 )  56...Bg6+  (56...b2 57.Nf8+ Kh8 58.Rd8 Bb3+  (58...b1=Q 59.Ng6+ Kh7 60.Rh8# )  59.Ne6+ Kh7 60.g6+ Kxh6 61.Rh8# )  57.Ke7 Bc2 58.Nf6+ Rxf6  (58...Kg6 59.h7 )  59.Kxf6 b2 60.Rxc2 b1=Q 61.g6+ Kxh6  (61...Kg8 62.Rc8# )  62.Rh2#
+ * 
+
+
+[Event "Chapter 4"]
+[Site "Game 26"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 4"]
+[Black "Game 26"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/4p3/3p4/1n1P4/5NpP/1p4P1/1Pr1R1K1/8 b - - 0 35"]
+
+35...Nc3  (35...Nd4 36.Rf2 )  36.Rf2  (36.bxc3 Rxe2+ 37.Nxe2 b2 )  36...Nd1 37.Rxc2  (37.Re2 Nxb2 )  37...bxc2 38.Nd3 Nxb2 39.Nc1 Nd1 40.Kf1 Nc3 41.Ke1 Ne4
+ * 
+
+
+[Event "Chapter 4"]
+[Site "Game 27"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 4"]
+[Black "Game 27"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/2K4p/2N1k1p1/P1n2p2/2R5/1Pp5/1r5P/8 b - - 0 49"]
+
+49...Na6+ 50.Kb6 Rxb3+ 51.Kxa6 Kd5 52.Rb4 c2 53.Ne7+ Kc5 54.Rxb3 c1=Q
+ * 
+
+
+[Event "Chapter 4"]
+[Site "Game 28"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 4"]
+[Black "Game 28"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5k2/3R1p2/5b2/p4P2/P1K5/1p2RB2/1r6/5r2 b - - 0 51"]
+
+51...Rc2+  (51...Bg5 52.f6 Bxf6 53.Bd5 Rf4+ 54.Kb5 )  52.Kxb3 Rb2+  (52...Rfc1 )  53.Kc4 Rc1+ 54.Kd5 Rd2+
+ * 
+
+
+[Event "Chapter 4"]
+[Site "Game 29"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 4"]
+[Black "Game 29"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2R4R/1r4p1/7p/6k1/5N2/5P1P/r5P1/5b1K w - - 0 64"]
+
+64.Rhf8 Bxg2+  (64...Kh4 65.Rc1 Bxg2+ 66.Nxg2+ Kg3 67.Rg1 Rbb2 68.Nf4+ Kxf3 69.Nd3+ )   (64...Rbb2 65.Rc7 g6 66.g3 )  65.Kh2
+ * 
+
+
+[Event "Chapter 4"]
+[Site "Game 30"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 4"]
+[Black "Game 30"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3b4/R4P2/3k4/2pP1r2/5p2/8/8/B5K1 w - - 0 47"]
+
+47.Bf6 Rxf6 48.Ra6+
+ * 
+
+
+[Event "Chapter 4"]
+[Site "Game 31"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 4"]
+[Black "Game 31"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4bk2/2r5/5p1p/p4P1P/P2KP3/2p5/8/2RB4 b - - 0 58"]
+
+58...c2 59.Be2  (59.Bxc2 Bxa4 )   (59.Rxc2 Rd7+ )  59...Bxa4 60.Bd3 Bb3
+ * 
+
+
+[Event "Chapter 4"]
+[Site "Game 32"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 4"]
+[Black "Game 32"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1p2R1p1/2p2pNk/p1n2P1P/P7/2P4K/1r4P1/8 w - - 0 45"]
+
+45.Nh8  (45.Nf4 Rc2 )  45...Kg5  (45...Kxh5 46.Nf7 )  46.Rxg7+ Kxf5 47.h6
+ * 
+
+
+[Event "Chapter 4"]
+[Site "Game 33"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 4"]
+[Black "Game 33"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/1p6/5B2/5p1k/4p2p/2P1K3/8 b - - 0 63"]
+
+63...f3+  (63...Kg3 64.Be4 Kg4 65.Bc6 )  64.Kxf3 h2 65.Kg2 e2
+ * 
+
+
+[Event "Chapter 4"]
+[Site "Game 34"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 4"]
+[Black "Game 34"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1P3pk1/2r5/6p1/8/4K1np/8/1R6 b - - 0 55"]
+
+55...Nf1+  (55...Rc3+ 56.Kf2 Ne4+ )  56.Kd4  (56.Rxf1 Rb6 )  56...h2 57.b8=Q h1=Q
+ * 
+
+
+[Event "Chapter 4"]
+[Site "Game 35"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 4"]
+[Black "Game 35"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/2pk2p1/p4b1p/2P5/rPK3P1/1N6/4R2P/8 w - - 0 37"]
+
+37.c6+ Kc8  (37...Kxc6 38.Re6+ Kd7 39.Nc5+ )  38.Nc5 Ra1 39.Re8+ Bd8 40.Ne6
+ * 
+
+
+[Event "Chapter 4"]
+[Site "Game 36"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 4"]
+[Black "Game 36"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1r3k2/4pn1p/2R3p1/R5B1/6P1/1P3PKP/1r6 w - - 0 44"]
+
+44.Bxe6+ Kxe6  (44...Kg7 45.b3 )  45.Ra6+ Ke7 46.Re5+ Kf7 47.Rf5 R1xb2 48.Rfxf6+ Kg8 49.Rxh6 Rf7 50.Rhf6
+ * 
+
+
+[Event "Chapter 4"]
+[Site "Game 37"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 4"]
+[Black "Game 37"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/3k4/3P4/4Pn1p/4RP1P/6p1/1n4K1/8 w - - 0 51"]
+
+51.e6+ Kxd6 52.e7 Nxe7 53.Rb4 Nd5  (53...Nd3 54.Rd4+ )  54.Rxb2 Nxf4+ 55.Kxg3
+ * 
+
+
+[Event "Chapter 4"]
+[Site "Game 38"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 4"]
+[Black "Game 38"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6B1/8/3n1P2/Rb3k2/3p2N1/1p4P1/pb4KP/8 w - - 0 52"]
+
+52.f7  (52.Rxb5+ Nxb5 53.f7 Ba3 )  52...Nxf7 53.Bxf7  (53.Bxf7 a1=Q 54.Rxb5+ Ke4  (54...Kxg4 55.h3# )  55.Bg6# )  53...Ke4  (53...a1=Q 54.Rxb5+ Ke4  (54...Kxg4 55.Be6# )  55.Bg6# )  54.Rxb5 Kd3 55.Rxb3+ Bc3 56.Ra3
+ * 
+
+
+[Event "Chapter 4"]
+[Site "Game 39"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 4"]
+[Black "Game 39"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1p2r3/p1p2n1b/2Nn1k2/1P1PpP2/P7/B2BKP2/6R1 w - - 0 49"]
+
+49.Bb1 b6  (49...Nxf4+ 50.Kf1 b6 51.Nxe4 Nxe4 52.f3 )   (49...Bxf4 50.f3 )  50.Nxe4 Bxf4  (50...Nxe4 51.f3 )  51.Kd1  (51.f3 )  51...Bxd2  (51...Nxe4 52.f3 )  52.Ng5+ Ne4  (52...Kf4 53.Nh3+ Kf3 54.Rg3# )  53.Bxe4+ Rxe4 54.Nxe4
+ * 
+
+
+[Event "Chapter 4"]
+[Site "Game 40"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 4"]
+[Black "Game 40"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5k2/2r2pp1/8/1RbB3p/2P4P/6P1/5PK1/8 w - - 0 35"]
+
+35.Rb8+ Ke7 36.Rh8 Bd4  (36...g6 37.Bxf7 )  37.Rxh5
+ * 
+
+
+[Event "Chapter 5"]
+[Site "Game 1"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 5"]
+[Black "Game 1"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/6p1/5k2/8/6KP/3p1N2/8 b - - 0 61"]
+
+61...g5  (61...Ke5 62.Kg4 Kf6 63.Ne4+ )  62.Kf3 Kg6  (62...Ke5 63.Kg4 )  63.Ke2 Kh5 64.Kxd2 Kh4 65.Kd1 Kg3 66.Ke1 Kg2 67.Ke2 Kg3 68.Kf1 Kh2  (68...Kf3 69.Nh1 )
+ * 
+
+
+[Event "Chapter 5"]
+[Site "Game 2"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 5"]
+[Black "Game 2"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/6p1/5P2/P2p2KP/3Pp1N1/4B3/r3b3/8 w - - 0 72"]
+
+72.h6 gxf6+  (72...Bxg4 73.h7+ Kxh7 74.f7 )   (72...gxh6+ 73.Kg6 )  73.Nxf6+ Kf7  (73...Kh8 74.Bf4 Rxa5 75.Be5 )  74.h7  (74.Ne8 Bd3 75.Nd6+ Kg8 76.Kg6 Rg2+ 77.Kf6 Kh7 78.Ke5 Re2 79.Nf5 Bc4 80.Bf4 Ra2 81.Ne3 Bb3  (81...Rxa5 82.Nxc4 dxc4+ 83.Kxe4 )  82.Ng4 Rxa5 83.Kf5 Kg8 84.Kg6 Ra6+ 85.Nf6+ Kh8 86.Kg5 Re6 87.Kf5 Re7 88.Bd6  (88.Bd6 Ra7 89.Be5 e3 90.Nxd5+ Kh7 91.Nxe3 )  )  74...Kg7 75.Bf4 Rxa5 76.Be5 Bd3 77.Nxd5+ Kxh7 78.Nf6+ Kg7 79.Nxe4+
+ * 
+
+
+[Event "Chapter 5"]
+[Site "Game 3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 5"]
+[Black "Game 3"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/1pk1p1P1/p2nK3/P1N5/1P6/8 b - - 0 68"]
+
+68...Ne6  (68...Kc4 69.g6 Ne6 70.Kxe5 Ng7 71.Kd6  (71.Ne4 Kb3 72.Kf6 Nh5+ 73.Kg5 Ng7 74.Nd6 Kxb2 75.Nxb5 Kb3 76.Kh6 Nf5+ 77.Kh7 Kc4 78.Nd6+ )  71...Nf5+ 72.Ke6 Ng7+ 73.Kf7 Nf5 74.Kf6 Nd6 75.Ke6 Ne8 76.Kd7  (76.Ne4 )  76...Ng7 77.Kc6 Nf5 78.Kb6 b4 79.Nxa4 bxa3 80.bxa3 Kb3 81.Nc3 Kxa3 82.Kc5 Kb2 83.Nb5 Kc1 84.Nd4 Ng7 85.Kd5 Kd2 86.Ke5 Ke1 87.Nf5 Nh5 88.Ng3 )  69.g6 Nf4 70.g7  (70.Kf5 Nxg6 71.Kxg6 b4 )  70...Nh5 71.g8=N b4 72.axb4+  (72.Nb1 bxa3 73.bxa3 Kc4 )  72...Kxb4
+ * 
+
+
+[Event "Chapter 5"]
+[Site "Game 4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 5"]
+[Black "Game 4"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1K6/4kp2/R5p1/7p/8/8/8 w - - 0 68"]
+
+68.Ra6+  (68.Kc6 h3 69.Ra8 g4 70.Rh8 f5 71.Rh4  (71.Kc5 Ke5 )  71...Ke5 72.Kc5 Kf4 73.Kd4 Kg3 74.Rh5 h2 75.Ke3 f4+ 76.Ke2 Kg2 )  68...Kf5 69.Ra5+ Kg4  (69...Ke4 70.Ra4+ Kd5 71.Ra5+ Kc4 72.Kc6 h3 73.Ra4+ Kb3 74.Rg4 )  70.Ra4+ Kh5 71.Kc6 h3 72.Kd5 h2 73.Ra1 g4  (73...Kg4 74.Ke6 Kh3  (74...Kf3 75.Ra3+ )   (74...f5 75.Rh1 )  75.Kxf6 g4 76.Kf5 g3 77.Kf4 g2 78.Ra3+ Kh4 79.Ra8 )  74.Ke4 Kh4 75.Kf4 g3 76.Kf3 Kh3 77.Kf4  (77.Rb1 g2 78.Rb8 g1=N+ 79.Kf2 Nf3 80.Rb1 )  77...g2 78.Ra3+ Kh4 79.Ra8 Kh5 80.Kf5 Kh6 81.Kxf6 Kh7 82.Ra7+ Kh6 83.Ra8
+ * 
+
+
+[Event "Chapter 5"]
+[Site "Game 5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 5"]
+[Black "Game 5"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6k1/2B5/2K5/1pp5/1rP5/8/8 w - - 0 63"]
+
+63.Be4 Rxc3  (63...bxc3 64.Kxc4 Ra3 65.Kb4 )  64.Kxb4 Re3  (64...Rc1 65.Bd5 c3 66.Bb3 Kf6 67.Kc4 Ke5 68.Kd3 )  65.Bc2 c3 66.Kc4 Kf6 67.Bd3
+ * 
+
+
+[Event "Chapter 5"]
+[Site "Game 6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 5"]
+[Black "Game 6"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5p2/6p1/4k1Kp/8/5P1P/6P1/8 b - - 0 51"]
+
+51...h4  (51...h4 52.Kxh4 Kf4 53.g3+  (53.g4 f6 54.g5 fxg5# )  53...Kxf3 54.g4 Kf4 55.g5 Kf5 )
+ * 
+
+
+[Event "Chapter 5"]
+[Site "Game 7"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 5"]
+[Black "Game 7"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/2p5/2P5/p1kp4/3N4/1K6 w - - 0 191"]
+
+191.Nf1  (191.Ne4+ Kxc4 192.Ka2 Kd4 193.Nd2 Kc3  (193...c4 194.Kxa3 c3 )  194.Ne4+  (194.Nf1 )  194...Kb4 195.Kb1  (195.Nf6 )  195...c4 196.Nf2 Kb3 )  191...Kxc4  (191...d2 192.Ne3 Kd3 193.Nd1 Ke2 194.Kc2 Ke1 195.Nc3 a2 196.Kb2 )  192.Ka2 Kb4 193.Ne3 c4  (193...d2 194.Nd5+ Kc4 195.Ne3+ Kd3 196.Nd1 c4 197.Kxa3 c3 198.Kb3 c2 199.Nb2+ Ke2 200.Kxc2 )  194.Nd5+ Kc5 195.Nc3 Kd4 196.Nb5+ Ke3 197.Kxa3 d2 198.Nc3
+ * 
+
+
+[Event "Chapter 5"]
+[Site "Game 8"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 5"]
+[Black "Game 8"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/4rpp1/4r1k1/R5P1/5RK1/8 w - - 0 55"]
+
+55.Kh2  (55.Rb3 Re3 56.Rfb2 Rxb3 57.Rxb3 Re2+ 58.Kg1 Ra2 59.Rc3  (59.Kf1 Kh3 60.Rb5 Kxg3 61.Rxf5 g4 62.Rg5 Ra1+ 63.Ke2 Rg1 )  59...Kh3 60.Rf3  (60.Rc5 Kxg3 )  60...Ra5 61.Kf1 g4 62.Rb3 Ra2 63.Rb5 Kxg3 64.Rxf5 Ra1+ 65.Ke2 Kg2 )   (55.Rb2 Re2+ 56.Rxe2 Rxe2+ 57.Kf1 Rd2 )  55...Re2  (55...Re3 56.Ra4+ R5e4 57.Ra5 )  56.Ra4+ R5e4 57.Rxe2  (57.Rxe4+ Rxe4 58.Ra2 Kf3 59.Kh3  (59.Ra3+ Re3 60.Ra5 Re2+ 61.Kh3 g4+ 62.Kh4 Rh2+ 63.Kg5 Kg2 64.Rxf5 Kxg3 65.Ra5 Kh3 )  59...g4+  (59...Re8 60.Ra3+ Re3 61.Ra5 )  60.Kh4 Re2 61.Ra3+ Re3 62.Ra5 f4 63.gxf4 g3 64.Rg5 )  57...Rxa4 58.Rb2 Ra3 59.Rb4+ Kf3  (59...f4 60.gxf4 Ra2+ 61.Kg1 gxf4 62.Rb3 )  60.Kh3  (60.Rb2 g4 )   (60.Rb5 Ra2+ 61.Kh3 g4+ 62.Kh4 Rh2+ 63.Kg5 Rh8  (63...Kxg3 64.Rb3+ Kg2 65.Kxf5 g3 66.Kg4 )  64.Rb3+ Kg2 65.Kxf5 Kh3 66.Kf4 Rf8+ 67.Ke4 Kg2 )  60...Re3  (60...g4+ 61.Kh4 )  61.Rb5 f4 62.gxf4 gxf4  (62...g4+ 63.Kh4 g3 64.Rg5 g2 65.f5 )   (62...Kxf4+ 63.Kg2 )  63.Rb2
+ * 
+
+
+[Event "Chapter 5"]
+[Site "Game 9"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 5"]
+[Black "Game 9"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3R4/6pk/4N2p/4K2P/r7/8/8/8 b - - 0 58"]
+
+58...Ra5+ 59.Rd5 Rxd5+ 60.Kxd5 g6 61.Nf8+ Kg7 62.Nxg6 Kf6 63.Nf4 Kg5  (63...Kf5 64.Ne6 Kf6  (64...Kg4 65.Ng7 Kg5 66.Ke6 )  65.Kd6 Kf5 66.Ke7 Kg4 67.Ng7 )  64.Ke5  (64.Ke6 Kxf4 65.Kf6 Ke4 66.Kg6 Ke5 67.Kxh6 Kf6 )  64...Kg4 65.Ke4 Kg5 66.Kf3 Kh4 67.Kf2 Kg4 68.Ke3 Kg5 69.Kf3 Kh4
+ * 
+
+
+[Event "Chapter 5"]
+[Site "Game 10"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 5"]
+[Black "Game 10"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/6P1/4Q3/6kP/8/r5r1/3K4 w - - 0 103"]
+
+103.Qe6+  (103.Qd4+ Kh3 104.Ke1 Ra1+ 105.Qxa1 Rg1+ 106.Kf2 Rxa1 107.h5 Ra2+ 108.Kf3 Rg2 )  103...Kxh4  (103...Kg3 104.Qxa2 Rxa2 105.g7 Ra8 106.h5 )   (103...Kf3 104.Qd5+ )  104.Qe4+ Kh3 105.Qf5+ Kh2 106.Qh5+ Kg1 107.Qc5+ Rgf2 108.Qg5+
+ * 
+
+
+[Event "Chapter 5"]
+[Site "Game 11"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 5"]
+[Black "Game 11"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5k2/8/1p4p1/bKp2p2/P1B2P1P/1P4P1/8/8 b - - 0 53"]
+
+53...Kg7  (53...Ke7 54.Kc6 Kf6 55.Bd3 Kf7  (55...Ke6 56.g4 fxg4 57.Bxg6 )  56.h5 gxh5 57.Bxf5 Kf6 58.Be4 Kg7 59.Bf3 Kh6 60.Kb5 Kg6 61.Bd1 Kh6 62.Be2 Kg6 63.Bf3 Kh6 64.Bc6 )  54.Kc6 Kh6
+ * 
+
+
+[Event "Chapter 5"]
+[Site "Game 12"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 5"]
+[Black "Game 12"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1b6/1P6/2R2k2/8/3N1p1r/8/5K2/8 b - - 0 85"]
+
+85...Ke7  (85...Ke5 86.Rc8 Rh2+  (86...Ba7 87.b8=Q+ Bxb8 88.Nf3+ )  87.Kg1 Rb2 88.Rxb8 Kd6 89.Ne6 Kc6 90.Nd8+ Kd7 91.Ra8 )   (85...Kf7 86.Rc8 Ba7 87.Kf3 )  86.Rc8 Kd7  (86...Ba7 87.Kf3 Kd7 )  87.Rxb8  (87.Nc6 Bd6 )  87...Kc7
+ * 
+
+
+[Event "Chapter 5"]
+[Site "Game 13"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 5"]
+[Black "Game 13"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r3/2P3R1/p7/8/8/1P5K/P4p2/5k2 w - - 0 59"]
+
+59.Kh2 Ke1 60.Re7+ Rxe7  (60...Rxe7 61.c8=Q f1=Q 62.Qc1+ Kf2 63.Qf4+ Ke2 64.Qc4+ )
+ * 
+
+
+[Event "Chapter 5"]
+[Site "Game 14"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 5"]
+[Black "Game 14"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5R2/r7/7K/5k2/5P2/8/8/8 b - - 0 73"]
+
+73...Kg4  (73...Ke6 74.f5+ Ke7 75.Kg7 Ra5 76.f6+ Kd7 77.Rb8 Ra1 78.f7 Rg1+ 79.Kh6 Rh1+ 80.Kg5 Rg1+ 81.Kh4 )   (73...Ke4 74.f5 Ra1 75.Kg6 Rg1+ 76.Kf6 )  74.f5  (74.f5 Ra6+ 75.f6  (75.Kg7 Kg5 )  75...Kf5 76.Kg7 Kg5 77.f7 Rg6+ 78.Kh7 Rh6+ 79.Kg7 Rg6+ )
+ * 
+
+
+[Event "Chapter 5"]
+[Site "Game 15"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 5"]
+[Black "Game 15"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5bk1/2R5/4KPp1/4B3/2p5/8/8/4r3 b - - 0 55"]
+
+55...Rb1  (55...g5 56.Kf5  (56.Rc8 )  56...g4 57.Bg3 Re3  (57...Rh1 58.Rxc4 )  58.Kg6 Re6  (58...Rxg3 59.f7+ Kh8 60.Rc8 )  59.Rxc4 Ra6 60.Rc8 Ra7 61.Bd6 Rf7 62.Bxf8  (62.Bxf8 Rxf8 63.f7+ Kh8 64.Rxf8# )  )  56.f7+  (56.Rc6 Rb7 )  56...Kh7 57.Rc8 Rb6+ 58.Kd5 g5  (58...Rb5+ 59.Kd4 g5 )  59.Rxf8 Kg6 60.Kxc4  (60.Bd4 Ra6 )  60...Re6 61.Kd5 Re7
+ * 
+
+
+[Event "Chapter 5"]
+[Site "Game 16"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 5"]
+[Black "Game 16"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6k1/R7/p5P1/r7/6KP/8/8 b - - 0 49"]
+
+49...Rb4  (49...Rc4 50.h4 a4 51.h5 Rc3+ 52.Kf4 Rc4+ 53.Kf3 Rc3+ 54.Ke4 Rc4+ 55.Kd5 Rg4 56.Ra7+ )   (49...Kh7 50.h4 )  50.h4  (50.Rxa5 Kg6 51.h4 Kh5 )  50...a4 51.h5  (51.Kh3 Kf7  (51...Kh7 52.h5 Rb3+ 53.Kg4 Rb4+ 54.Kf5 Rb5+ 55.Kf6 )  52.h5  (52.Rf6+ Kg7 53.h5 Rb3+ 54.Kg4 Rb4+ 55.Kf5 Rb5+ 56.Kf4 Rb4+ 57.Ke3 Rb3+ 58.Kd4 Rb4+ 59.Kc3 Rb3+ 60.Kc4 Rg3 )   (52.Rd6 Rb5 )  52...Rb3+ 53.Kg4 Rb4+ 54.Kf3 Rb3+ 55.Ke4 Rb4+ 56.Ke3 Rb3+ 57.Kd4 Rb4+ 58.Kd3 Rg4 59.Ra5 Rh4 60.g6+  (60.h6 Kg6 )  60...Kg7 61.Kc3 Kh6 )  51...Rb3+ 52.Kf4 Rb4+ 53.Ke3 Rb3+ 54.Kd4 Rb4+  (54...Rf3 55.Kc4  (55.Ra7+ Kg8 56.Ke5 )  55...Rg3 56.Ra7+ Kg8 57.Ra5 a3 58.Kd4 a2 59.g6 Rh3 )  55.Kc5  (55.Kc3 Rb3+ 56.Kc2 Rg3 57.Ra7+ Kg8 58.Ra5 a3 )  55...Rg4
+ * 
+
+
+[Event "Chapter 5"]
+[Site "Game 17"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 5"]
+[Black "Game 17"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5PR1/1p6/1P3r2/p6K/P7/7p/7k w - - 0 68"]
+
+68.Kg3  (68.Kg4 Rf2 69.Kh3 Rf3+ 70.Kh4  (70.Kg4 Kg2 )  70...Rf2  (70...Rxf7 71.Rxf7 Kg2 72.Rg7+ Kf2 )  71.Kh5  (71.Kh3 Rf3+ )  71...Rxf7 72.Rxf7 Kg2 73.Rg7+ Kf2 74.Rf7+ Ke2 75.Re7+ Kd2 )  68...Kg1  (68...Rf1 69.Rh7 )  69.Kh3+
+ * 
+
+
+[Event "Chapter 5"]
+[Site "Game 18"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 5"]
+[Black "Game 18"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6b1/6p1/8/5kPP/K7/P1P5/8/8 w - - 0 50"]
+
+50.h6  (50.g6 Kg5 51.Kb5 Kxh5 52.a4 Kxg6 53.a5 Kf6 54.a6  (54.c4 Ke5 55.a6 Kd4 56.c5 Bc4+ 57.Kb6 Bxa6 )  54...Bd5 55.c4 Ba8 56.Kb6 Ke5 57.Kc7 g5 58.Kb8 Be4 59.Kc7 g4 60.a7 g3 61.c5 Ba8 62.Kb8 Bc6  (62...Bc6 63.Kc7 Kd5 )  )   (50.Kb5 Kxg5 51.c4 Bf7 52.a4 Bxh5 53.a5 Bf3 54.c5 Kf6 55.c6 Ke7 )  50...g6 51.Kb5 Kxg5 52.a4  (52.c4 Kxh6 53.a4 g5 54.a5 g4 55.a6 g3 56.a7 g2 57.a8=Q g1=Q )  52...Kxh6 53.a5 g5 54.a6 g4 55.a7 Bd5 56.c4 Ba8 57.c5 g3 58.c6 g2 59.c7
+ * 
+
+
+[Event "Chapter 5"]
+[Site "Game 19"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 5"]
+[Black "Game 19"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5B2/8/Pn6/4k3/1K6/8/8 b - - 0 88"]
+
+88...Nc7  (88...Nd6 89.a6 Nc8 90.Kc4 Ke5 91.Kc5 Kf6 92.Bh5 Ke7 93.Bg4 Kd8 94.Kc6  (94.Kc6 Na7+ 95.Kb6 )  )   (88...Kd4 89.Kb4 Na7 90.a6 )  89.Kc4 Na6  (89...Ke5 90.Kc5 )  90.Kb5 Nb8 91.Kb6 Kd4 92.Kb7 Kc5 93.Kxb8  (93.Be8 Kb4 )  93...Kb5
+ * 
+
+
+[Event "Chapter 5"]
+[Site "Game 20"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 5"]
+[Black "Game 20"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/3Pk3/6bP/pB6/8/P3p1K1/5p2/8 b - - 0 78"]
+
+78...Bf5  (78...a4 79.Kf3 )   (78...f1=Q 79.Bxf1 Kxd7 80.Kf4 Ke6 81.Kxe3 Kf6 82.Bd3 )  79.Kg2 a4  (79...Be4+ 80.Kf1 Bf5 81.Ke2 Bg4+ 82.Kxe3 Bxd7 83.h7 )   (79...Kd8 80.Kf3 Bxd7 81.Be2 Bf5 82.Kxe3 Ke7 83.Kxf2 Kf6 84.Ke3 Kg6 85.Bd3 )  80.Kf3 Bxd7 81.Be2 Kf6 82.Kxe3 Kg6
+ * 
+
+
+[Event "Chapter 5"]
+[Site "Game 21"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 5"]
+[Black "Game 21"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r7/P7/8/7K/R7/6pk/8/8 w - - 0 60"]
+
+60.Ra3  (60.Rh4+ Kg2 61.Ra4 Kh2 62.Rh4+ Kg1 63.Kg4 g2 64.Rh7 Kf2 )  60...Kh2 61.Kg4  (61.Kh4 g2 62.Rh3+ Kg1 63.Ra3 Rh8+ 64.Kg4 Kh2 )  61...g2 62.Rh3+ Kg1 63.Ra3 Rg8+  (63...Kf2 64.Ra2+ )  64.Kf4 Kh2 65.a8=Q Rxa8 66.Rxa8 g1=Q 67.Rh8+ Kg2 68.Rg8+
+ * 
+
+
+[Event "Chapter 5"]
+[Site "Game 22"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 5"]
+[Black "Game 22"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/7R/r4k1p/7P/5KP1/8/8/8 b - - 0 70"]
+
+70...Ra4+ 71.Kg3 Ra6 72.Rxh6+  (72.Kh4 Ke5 73.g5 Ra4+ )  72...Kg5
+ * 
+
+
+[Event "Chapter 5"]
+[Site "Game 23"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 5"]
+[Black "Game 23"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3k4/p6r/2p1PR2/1PP5/3KP2p/8/8/8 b - - 0 51"]
+
+51...Ke7  (51...cxb5 52.c6 h3 53.Rf7 )   (51...h3 52.Rf7 Rxf7 53.exf7 Ke7 54.bxc6 )  52.Rf7+ Rxf7 53.exf7 Kxf7  (53...h3 54.bxc6 h2 55.c7 h1=Q 56.f8=Q+ Kxf8 57.c8=Q+ )  54.b6  (54.bxc6 Ke7 )  54...axb6 55.cxb6 h3 56.b7 h2 57.b8=Q h1=Q
+ * 
+
+
+[Event "Chapter 5"]
+[Site "Game 24"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 5"]
+[Black "Game 24"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/1b1r1p1p/6p1/R2B4/3R4/6PP/1r3PK1/8 w - - 0 39"]
+
+39.Kf3  (39.Kg1 Rb6 40.Ra7 Rb1+ 41.Kh2 Bxd5 )  39...Rb6 40.Ke3
+ * 
+
+
+[Event "Chapter 5"]
+[Site "Game 25"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 5"]
+[Black "Game 25"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/4rpk1/8/1R4P1/2K5/8/1p6/1B6 b - - 0 60"]
+
+60...Re1  (60...Re2 61.Kc3 Rg2 62.Be4 Rg4 63.Bc2 )  61.Rxb2 Rg1 62.Rb5 f5
+ * 
+
+
+[Event "Chapter 5"]
+[Site "Game 26"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 5"]
+[Black "Game 26"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1b6/3N4/8/Pk6/2p5/P7/7p/7K w - - 0 90"]
+
+90.a4+  (90.Nb6 c3 91.Nd5 c2 92.Nc3+ Kxa5 93.Ne2 Ka4 94.Kg2 Kxa3 95.Kh1 Kb4 96.Kg2 Kc4 97.Nc1 Be5  (97...Be5 98.Kh1 Kc3 99.Kg2 Bf4 100.Ne2+ Kd2 101.Nd4 h1=Q+ 102.Kxh1 c1=Q+ )  )  90...Kxa5  (90...Kxa4 91.Nb6+ )   (90...Kb4 91.Nb6 c3 92.Nd5+ )  91.Nxb8 c3 92.Nc6+ Kxa4 93.Nd4
+ * 
+
+
+[Event "Chapter 5"]
+[Site "Game 27"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 5"]
+[Black "Game 27"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5k2/R4p2/3Nn1p1/4K2p/5P1P/3rP1P1/8/8 b - - 0 54"]
+
+54...Rxe3+  (54...Nd8 55.Rd7 Rxe3+ 56.Kf6 Re6+ 57.Kg5 Kg7 58.f5 )  55.Kf6 Nc7 56.Nxf7  (56.Rxc7 Re6+ )  56...Nd5+ 57.Kxg6 Rxg3+ 58.Ng5 Nxf4+
+ * 
+
+
+[Event "Chapter 5"]
+[Site "Game 28"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 5"]
+[Black "Game 28"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1R6/3k4/8/2pK1nP1/1p6/8/8 b - - 0 55"]
+
+55...Nd5  (55...Nd3 56.g5 Kc6 57.Rb8 Kc7 58.Rb5 Nf4  (58...Kc6 59.Kxc4 )  59.Kxc4 )  56.g5  (56.Kxc4 Ne3+ )  56...c3 57.Kd3  (57.Rxb3 c2 )  57...c2  (57...Ke5 58.Rxb3 Nf4+ )  58.Kd2 Nc3 59.Rxb3 Ne4+
+ * 
+
+
+[Event "Chapter 5"]
+[Site "Game 29"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 5"]
+[Black "Game 29"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1Bb5/8/5pk1/6p1/4K3/8/8 w - - 0 45"]
+
+45.Kf2  (45.Bc8 f4+ 46.Ke4 Kh4 47.Kf5 g3  (47...g3 48.Bb7 Kh3 )  )  45...Bb6+  (45...Kf4 46.Kg2 Bd8 47.Bc8 Bh4 48.Bd7 Kg5 49.Bb5 )  46.Kg2  (46.Ke2 f4 )  46...f4 47.Bc6 Bd8  (47...Kf6 48.Bd7 f3+ 49.Kg3 )  48.Bb7 Kh5 49.Kf2 Bh4+ 50.Ke2 Bg3 51.Bc6 Kh4 52.Bg2 Bh2 53.Kf2
+ * 
+
+
+[Event "Chapter 5"]
+[Site "Game 30"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 5"]
+[Black "Game 30"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6K1/6RP/2k5/2p5/6pr/8/8 w - - 0 64"]
+
+64.h7  (64.Rg5+ Kd6 65.Rg6+ Ke5  (65...Ke7 66.h7 c3 67.h8=Q Rxh8 68.Rxg3 Rc8 )  66.Rg5+ Kd6 )  64...c3 65.h8=Q Rxh8 66.Rxg3  (66.Kxh8 c2 )
+ * 
+
+
+[Event "Chapter 5"]
+[Site "Game 31"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 5"]
+[Black "Game 31"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/2R5/6P1/8/6r1/3k4/2p2PK1/8 w - - 0 52"]
+
+52.Kf3  (52.Kh3 Rxg6 53.Rd7+ Ke2 54.Rc7 Kd2 55.Rd7+ Kc3  (55...Kc1 )  56.Rc7+ Kd3 57.Rd7+ Ke2 58.Rc7 Kd1 59.Rd7+  (59.f4 )  59...Kc1 60.Rc7 Rf6 61.Kg3 Rd6  (61...Kd1 62.Rd7+ Ke1 63.Re7+ Kf1 64.Rc7 Rxf2 )  62.f4  (62.Kf4 )  62...Kd2 63.Kg4 Rd3 64.Rxc2+ Kxc2 65.f5 Rd1  (65...Kc3 66.f6 Kc4 67.f7 Rd8 68.Kf5 Kd5 )  66.f6 Rf1 67.Kg5 Kd3 68.Kg6 Ke4 69.f7 )  52...Rxg6 53.Rd7+ Kc3 54.Rc7+ Kd2 55.Rd7+ Kc1 56.Rc7 Rf6+ 57.Ke2
+ * 
+
+
+[Event "Chapter 5"]
+[Site "Game 32"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 5"]
+[Black "Game 32"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/4Bp2/6k1/ppKPP3/8/P4P1b/8/8 b - - 0 50"]
+
+50...b4  (50...Bd7 51.Kd6 Bh3 52.Kc7 Kf5 53.e6 Kg6 54.d6 Bxe6 55.d7 )  51.axb4 axb4 52.Kxb4 Kf5 53.e6  (53.Bf6 Bg2 54.d6 Ke6 )  53...Kg6 54.Kc5 fxe6 55.d6 e5
+ * 
+
+
+[Event "Chapter 5"]
+[Site "Game 33"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 5"]
+[Black "Game 33"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1KR5/8/1k6/2b5/8/8/8/5r2 w - - 0 80"]
+
+80.Rg8  (80.Re8 Bd6+ 81.Kc8 Kc6 82.Rg8 Rb1 )   (80.Rh8 Bd6+ 81.Kc8 Kc6 82.Kd8 Ra1 )  80...Bd6+ 81.Kc8 Kc6 82.Kd8 Ra1  (82...Re1 83.Rg7 )   (82...Rf7 83.Ke8 Re7+ 84.Kf8 )  83.Ke8
+ * 
+
+
+[Event "Chapter 5"]
+[Site "Game 34"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 5"]
+[Black "Game 34"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/4k3/PR2P3/7p/8/r6P/8/6K1 b - - 0 46"]
+
+46...h4  (46...Rxh3 47.Rb8 Ra3 48.Ra8  (48.Ra8 Kxe6 49.a7 Kf7 50.Rh8 Rxa7 51.Rh7+ )  )   (46...Kf6 47.h4 Ra4 48.Kf2 Ke7 49.Ke3 Kf6 50.Kd3 Rxh4 51.Rb8 Ra4 52.Ra8 )  47.Kg2 Kf6 48.Kf2 Ke7 49.Ke2 Kf6  (49...Rxh3 50.Rb8 Ra3 51.Ra8 h3 52.Kf2 )  50.Kd2 Rxh3 51.Rb8 Ra3 52.Ra8 h3 53.a7 h2
+ * 
+
+
+[Event "Chapter 5"]
+[Site "Game 35"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 5"]
+[Black "Game 35"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/3k4/6K1/p2p2P1/p2P4/1n2B3/8/8 w - - 0 45"]
+
+45.Kf6  (45.Kf7 a3 46.g6 a2 47.g7 a1=Q 48.g8=Q Qf1+ 49.Kg6 Qd3+ )  45...Ke8  (45...a3 46.g6 a2 47.g7 a1=Q 48.g8=Q Qf1+ 49.Ke5 )  46.Bf4 Nxd4  (46...a3 47.g6 Kf8  (47...a2 48.g7 )  48.Bd6+ )  47.g6  (47.Bd6 Kd7 48.g6 Ne6 49.Bc5 )  47...Kf8 48.Ke5 Ne2  (48...a3 49.Bc1 a2 50.Bb2 )  49.Be3
+ * 
+
+
+[Event "Chapter 5"]
+[Site "Game 36"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 5"]
+[Black "Game 36"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/RB5p/6p1/5p1k/P6P/4nP2/6r1/7K w - - 0 37"]
+
+37.Ba6  (37.Bc6 Kxh4 38.Rxh7+ Kg3 39.Rh6 Rc2 40.Rxg6+ Ng4 )  37...Kxh4 38.Re7 Kg3 39.Rxe3 Ra2
+ * 
+
+
+[Event "Chapter 5"]
+[Site "Game 37"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 5"]
+[Black "Game 37"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5p2/3b1k1B/3Pp1pP/2n1P1P1/5P2/2B5/4K3 b - - 0 42"]
+
+42...Ne3  (42...Nb6 43.Bd3 )  43.Bb3 Nxg4 44.fxg4  (44.Bxg5+ Kxg5 45.fxg4 Bf8 46.Bd1 Kf4 )  44...Bf8 45.d6 Bxh6 46.Kd2 Bf8 47.d7 Ke7 48.Ba4 Kd8 49.Kd3 Kc7 50.Kc4 Bh6 51.Kd5 Bg7 52.Bb5 Bh8 53.h6  (53.Kc5 Bg7 54.Bc4 Kxd7 55.Bxf7 Ke7 )  53...Bf6 54.h7 Bg7 55.d8=Q+ Kxd8 56.Kd6 Bh8
+ * 
+
+
+[Event "Chapter 5"]
+[Site "Game 38"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 5"]
+[Black "Game 38"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6k1/2K3p1/Pr6/8/8/8/R7 b - - 0 68"]
+
+68...Rf5  (68...Rb8 69.a6 Kf6 70.a7 Ra8 71.Kb7 Rxa7+ 72.Kxa7 Ke5 73.Kb6 g5 74.Kc5 g4 75.Re1+ Kf4 76.Kd4 g3 77.Rf1+ Kg4 78.Ke3 Kh3 79.Ra1 )  69.a6 Rf6+ 70.Kd5 Rf5+ 71.Ke4 Rf8 72.a7 Ra8 73.Kd5  (73.Ke5 g5 )   (73.Ra6 Kh6 )  73...Kf6 74.Kc6 Ke5  (74...Kf5 75.Kb7 Rh8 76.a8=Q Rxa8 77.Rxa8 g5 78.Kc6 g4 79.Kd5 Kf4 80.Kd4 Kf3 81.Kd3 )   (74...g5 75.Ra5 Rxa7 76.Rxa7 )  75.Kb7 Rxa7+ 76.Kxa7 g5 77.Kb6 g4 78.Kc5 g3 79.Kc4 Ke4
+ * 
+
+
+[Event "Chapter 5"]
+[Site "Game 39"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 5"]
+[Black "Game 39"]
+[Result "*"]
+[SetUp "1"]
+[FEN "R5n1/5Kpk/6Np/5p1P/p7/4r1P1/8/8 b - - 0 46"]
+
+46...Rd3  (46...Rb3 47.Nf8+ Kh8 48.Nd7 )  47.Nf8+  (47.Rxg8 Rd7+ 48.Ke6 Kxg8 49.Kxd7 a3 )  47...Kh8 48.Ne6 Rd7+ 49.Kg6 Rd6
+ * 
+
+
+[Event "Chapter 5"]
+[Site "Game 40"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 5"]
+[Black "Game 40"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/1r3P2/R5Kp/8/1k6/p5P1/8 b - - 0 48"]
+
+48...Rb4  (48...h4 49.f7 Rb8 50.Kf6 Kb2 51.Kg7 a1=Q 52.Rxa1 Kxa1 53.f8=Q Rxf8 54.Kxf8 Kb2 55.Kg7 Kc3 56.Kf6 Kd4 57.Kg5 )  49.f7  (49.Rxa2 Kxa2 50.Kxh5 Rf4 )  49...Rg4+ 50.Kxh5 Rf4 51.Kg6 Rg4+ 52.Kf5  (52.Kh7 Rh4+ )   (52.Kf6 Rxg2 )  52...Rxg2
+ * 
+
+
+[Event "Chapter 5"]
+[Site "Game 41"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 5"]
+[Black "Game 41"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/R7/p4k1P/4p3/r5P1/5PK1/8 b - - 0 46"]
+
+46...e3  (46...Ra2 47.h6 e3 48.h7 Rxf2+ 49.Kg1 )  47.fxe3 Kg4 48.h6  (48.Rg6+ Kxh5 )  48...Ra2+ 49.Kg1  (49.Kf1 Kxg3 50.Rg6+  (50.Ra8 Rh2 51.Rh8 Kf3 52.Ke1 Kxe3 )   (50.h7 Rh2 )  50...Kf3 51.Kg1 Ra4 52.Rg2 Rh4 53.Rh2 Rg4+ 54.Kf1 Rg8 )  49...Ra1+  (49...Kxg3 50.Rg6+ Kf3 51.h7 )  50.Kf2 Ra2+ 51.Ke1 Rh2  (51...Kxg3 52.Ra8 Rh2 53.Rh8 Rh5 54.h7 Kh4 )  52.Rxa5 Kxg3  (52...Rxh6 53.Ke2 )  53.Rf5 Rxh6 54.Ke2 Kg4
+ * 
+
+
+[Event "Chapter 5"]
+[Site "Game 42"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 5"]
+[Black "Game 42"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/2p5/1p1p2k1/p2P4/P1PP1p2/8/5KP1/8 w - - 0 37"]
+
+37.g4  (37.Ke2 Kg5 38.Kd3 Kf5  (38...Kg4 39.Ke4 Kg3 40.Kf5 Kxg2 41.Kxf4 Kf2 )  39.c5 bxc5  (39...Kg4 )  40.dxc5 Ke5 41.Kc4 Ke4 42.cxd6  (42.Kb5 Kxd5 43.c6 Ke4 44.Ka6 d5 45.Kb7 d4 46.Kxc7 d3 47.Kb6 d2 48.c7 d1=Q 49.c8=Q Qxa4 )  42...cxd6 43.Kb5 Kxd5 44.Kxa5 Kc5 45.Ka6 d5 46.a5 Kc6 47.Ka7 d4 48.a6 Kc7 )   (37.g3 Kf5 )  37...fxg3+  (37...Kf6 38.Ke2 )  38.Kxg3 Kg5 39.Kf3 Kf5 40.Ke3 Kg4 41.Ke4
+ * 
+
+
+[Event "Chapter 5"]
+[Site "Game 43"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 5"]
+[Black "Game 43"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/2pkp3/5pR1/1PKP2p1/6P1/7P/5r2 w - - 0 50"]
+
+50.Rh5  (50.Rg7 Rh1 51.Rh7 f4  (51...f4 52.gxf4 g3 )  )  50...Rh1 51.Rh4
+ * 
+
+
+[Event "Chapter 5"]
+[Site "Game 44"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 5"]
+[Black "Game 44"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6R1/8/8/5K2/r3B2k/8/8/8 b - - 0 74"]
+
+74...Ra6  (74...Kh3 75.Kf4 Kh2 76.Rg2+ Kh3 77.Rg1 Ra2 78.Rg8 Kh2 79.Rh8+ )   (74...Ra5+ 75.Kf4 Rb5 76.Rg7 Ra5  (76...Rc5 77.Rg4+ )  77.Rg2 Ra3 78.Bc2 Rc3  (78...Kh3 79.Rd2 Kh4 80.Rd8 Ra5 81.Bd1 Kh3 82.Rd2 )  79.Bf5 Rc4+ 80.Be4 Rc3 81.Rg4+ Kh3 82.Rg8 Kh2 83.Rg2+ Kh3 84.Rd2 Kh4 85.Bd3 )  75.Kf4 Kh5
+ * 
+
+
+[Event "Chapter 5"]
+[Site "Game 45"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 5"]
+[Black "Game 45"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7R/8/8/8/8/2k4P/2P3r1/3K4 b - - 0 57"]
+
+57...Rd2+  (57...Rg1+ 58.Ke2 Kxc2 59.h4 Rg6 60.h5 Rb6 61.h6 Kb3 62.Kd3  (62.h7 Rb7 63.Kd3 Kb4 64.Kd4 Kb5 65.Kd5 Rd7+ 66.Ke5 Rb7 67.Kd6 Kb6 )  62...Kb4 63.Kd4 Kb5 64.Kd5 Rb7  (64...Kb4 65.h7 Rb7 66.Kc6 )  65.Rf8 )  58.Ke1 Rh2 59.h4  (59.Kf1 Kd4  (59...Kxc2 60.Kg1 Rd2 61.h4 Kd3 62.Rd8+ )  60.Rh4+ Kc3 61.Rh8 Kd4 62.Rh4+ Kc3 63.Ra4 Rxc2 64.h4 Kd3 65.h5 Ke3 )  59...Kxc2  (59...Kd4 60.Kd1 Rh1+ 61.Kd2 Rh2+ 62.Kc1 Kc3 63.Kd1 )  60.h5  (60.Kf1 Kd3 61.Kg1 Ra2 62.h5 Ke4 63.h6 Kf5 64.h7 Kg6 )  60...Kd3 61.h6 Ke3 62.Kf1 Rf2+  (62...Kf3 63.Kg1 Rg2+ 64.Kh1 Rg6 65.h7 Rf6 )  63.Kg1 Rf7 64.h7 Kf4 65.Kh2 Kf5 66.Kh3 Kg6
+ * 
+
+
+[Event "Chapter 5"]
+[Site "Game 46"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 5"]
+[Black "Game 46"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/3RB3/4Ppp1/2p2P2/4b3/8/5K2/8 b - - 0 43"]
+
+43...Rf8  (43...Ra8 44.Bxf6 gxf5 45.Rg7+ Kh8  (45...Kf8 46.Rh7 )  46.Ke3 )  44.Bxf8 Kxf8 45.fxg6  (45.Rf7+ Ke8 46.fxg6 Bxg6 47.Rxf6 Be4 48.Rf7 Bd5 )  45...Bxg6 46.Ke3 Ke8 47.Kf4 c4
+ * 
+
+
+[Event "Chapter 5"]
+[Site "Game 47"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 5"]
+[Black "Game 47"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/2R1PNbp/1r3kp1/3B4/3n3P/6P1/5K2 b - - 0 43"]
+
+43...Re5  (43...Kf4 44.Ke2  (44.Kg1 Kg3 45.Rb6 )   (44.e7 Rb1+ 45.Ke2 Nc1+  (45...Re1+ 46.Kd2 Rxe7 47.Nd5+ )  46.Ke1 Kg3 47.Ne4+ Bxe4 48.Be5+ Kxg2 49.e8=Q Nd3+ 50.Kd2 )  44...Kg3 45.e7 Nf4+ 46.Kd2 Kxg2 )   (43...Ne5 44.Bxe5 Rxe5 45.Nd7 )  44.Bxe5 Nxe5 45.e7 Nxc6 46.e8=Q Bxe8 47.Nxe8
+ * 
+
+
+[Event "Chapter 5"]
+[Site "Game 48"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 5"]
+[Black "Game 48"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/p7/8/1Pk3p1/6Kp/2n4P/4B3/8 w - - 0 66"]
+
+66.b6  (66.Bf1 Nxb5 67.Kxg5 a5 68.Bd3 a4 69.Bc2 a3 70.Bb3 Kb4 71.Ba2 Kc3 72.Kxh4 Kb2 73.Bc4 Nd4 )   (66.Bf3 Kxb5  (66...Nxb5 67.Bd1 )  67.Kxg5 a5 68.Bh5 Kc5  (68...Kb4 69.Be8 Nb5 70.Kxh4 a4 71.Kg4 a3 72.Bf7 )  69.Be8 Nb5 70.Kxh4  (70.Kf4 a4 71.Ke3 a3 72.Bf7 Nc3 73.Kd3 Nd5 )  70...a4 71.Kg4 a3 72.Bf7 Nc3 73.Bb3  (73.h4 Nd5 )  73...Kb4 74.Bf7 Ne2 75.h4 Nc1 76.h5 Nb3 )   (66.Bd3 Nxb5 67.Kxg5 a5 68.Bc2 Kb4 69.Kxh4 Nd4 70.Bd1 Nb3 71.Kg5 a4 72.Bc2 a3 73.Bb1 Kc3 )  66...Kxb6  (66...axb6 67.Bd3 Kd4 68.Bc2 Ne4 69.Kf5 Nf2 70.Kxg5 Nxh3+ 71.Kxh4 )  67.Bd3 a5 68.Bc2 Kc5 69.Kxg5 Kb4 70.Kxh4 Ne2 71.Kg4 Nd4 72.Bd1 Nb3 73.h4 a4 74.Bc2 a3 75.Bb1 Kc3 76.h5 Kb2 77.h6 Kxb1 78.h7
+ * 
+
+
+[Event "Chapter 6"]
+[Site "Game 1"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 6"]
+[Black "Game 1"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1pR2r1p/1P3kp1/1P1K4/8/8/8/8 b - - 0 54"]
+
+54...g5  (54...h5 55.Rc6+ Kg7 56.Rc7 Kf6 57.Rc6+ Kg7 )   (54...g5 55.Rc6+ Kf5 56.Rc7 Kg6 57.Rc6+ Rf6 58.Rc7 Rf5+  (58...Rxb6 59.Kc5 )  59.Kd6  (59.Ke6 Rxb5 60.Rxb7 h5 61.Kd6 h4 62.Kc6 Rb2 )   (59.Kc4 Rf7 60.Rc6+ Kg7 )  59...g4 )
+ * 
+
+
+[Event "Chapter 6"]
+[Site "Game 2"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 6"]
+[Black "Game 2"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/3b4/3p4/3P2p1/3KB1P1/8/3k4 w - - 0 55"]
+
+55.Bf4  (55.Bf2 Ba3 56.Ke3 Bc1+ 57.Kd3 Bd2 58.Be3 Be1 59.Bf4 Bf2 60.Be5 Ke1 61.Kc3 Ke2 62.Kb4 Kf3 63.Kc5 Ke4 )   (55.Bf4 Bb4  (55...Ba3 56.Bd2 )  56.Bd2  (56.Ke3 Ke1 57.Be5 Bd2+ )  56...Be7 57.Ba5  (57.Ke3 Bd6 )  57...Bd6 58.Ke3 Bxg3 59.Bb4  (59.Bc3 Be1 60.Bb2 Bb4 61.Kf4 Kc2 )  59...Be1  (59...Bc7 60.Bc3 )   (59...Kc2 60.Be7 Kc3 61.Bd8 Kc4 62.Bf6 Kb5 63.Be5 Be1 64.Kf4 g3 65.Kf3 )  60.Bd6 g3 61.Kf3 Kc2 62.Bf4 Kd3 63.Be5 Bf2 64.Kg2 Ke4 65.Kh3 Kf3  (65...Kf5 66.Kg2 )  66.Bxg3 )
+ * 
+
+
+[Event "Chapter 6"]
+[Site "Game 3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 6"]
+[Black "Game 3"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r7/P7/3p2pk/6p1/2K1p1P1/8/7P/R7 w - - 0 54"]
+
+54.Kd5  (54.Kd4 e3 55.Kxe3 d5 56.Kd4  (56.Kd3 d4 57.Kc4 d3 58.Kb5 d2 59.Kb6 Re8 60.Rd1 Re6+ 61.Kb5 Re5+ )  56...Rxa7 )   (54.Kd5 e3 55.Kc6 d5  (55...e2 56.Kb7 Rxa7+ 57.Kxa7 d5 58.Re1 )  56.Kb7 Rxa7+ 57.Kxa7 d4 58.Re1 Kg7 59.Kb6 Kf6 60.Kc5 Ke5 61.Kc4 Ke4 62.h3 d3 63.Kc3 d2 64.Ra1 Kf3 65.Kd3 Kf2 66.Rd1 Kf3 67.Rf1+ Kg2 68.Ke2 )
+ * 
+
+
+[Event "Chapter 6"]
+[Site "Game 4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 6"]
+[Black "Game 4"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/3P4/5k2/R3p3/4P1p1/4K3/3r4 w - - 0 73"]
+
+73.Kxd1  (73.Kxd1 g2 74.Rd4 g1=Q+ 75.Kc2 Qxe3  (75...Qf2+ 76.Rd2 )  76.Rd5+ Ke6 77.d7 )   (73.Ra5+ Kg4 74.Kxd1 g2 75.Rd5 g1=Q+ 76.Kc2 Qa1 77.Kb3 Qa8 78.Kc4 Qa4+ 79.Kc5 Qd7 )
+ * 
+
+
+[Event "Chapter 6"]
+[Site "Game 5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 6"]
+[Black "Game 5"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/3K3R/4p1p1/4Br2/1P3P2/P6R/3p2PP/5b2 b - - 0 48"]
+
+48...Rf7+  (48...Rh5 49.R3xh5 gxh5 50.Rh6 Kf7  (50...d1=Q+ 51.Ke7 )  51.Rf6+ Kg8  (51...Kg7 52.Rxe6+ Kh7 53.Rd6 )  52.Ke7 Kh7  (52...d1=Q 53.Rh6 )  53.Rf7+  (53.f5 d1=Q 54.Rf7+ )  53...Kg6 54.f5+ exf5  (54...Kg5 55.Rg7+ Kxf5 56.Rf7+ )  55.Rf6+ Kg5 56.Rd6 )   (48...Rf7+ 49.Rxf7 Kxf7 50.Rh7+ Kg8 51.Rh6  (51.Rh8+ Kf7 )  51...Kf7  (51...d1=Q+ 52.Ke7 )  )
+ * 
+
+
+[Event "Chapter 6"]
+[Site "Game 6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 6"]
+[Black "Game 6"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r5k1/P3bppp/8/1P6/8/6P1/5P1P/R4K2 b - - 0 37"]
+
+37...Bd8  (37...Bc5 38.Rc1 Bd4  (38...Bxa7 39.Ra1 )  39.Rc4 Bxa7  (39...Bb6 40.Rc6 )  40.Ra4 Rb8 41.Rxa7 Kf8 42.Ra5 )   (37...Bd8 38.Ke2 Kf8  (38...Bb6 39.Ra6 )  39.Ra6 Ke7 40.b6 Bxb6 41.Rxb6 Rxa7 )
+ * 
+
+
+[Event "Chapter 6"]
+[Site "Game 7"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 6"]
+[Black "Game 7"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5n2/8/6KP/4k3/8/8/8/6N1 w - - 0 82"]
+
+82.Kg7  (82.Kf7 Kf5 83.Nf3 Nh7 84.Kg7 Nf6 85.Nd4+ Kg5 86.Ne6+ Kh5 87.Nc7 Kg5 88.Nd5 Ne8+ 89.Kh7 Nd6 )   (82.Kg7 Ne6+ 83.Kg8 Ng5 84.Nf3+ Nxf3 85.h7 )
+ * 
+
+
+[Event "Chapter 6"]
+[Site "Game 8"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 6"]
+[Black "Game 8"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5k2/3R4/2K2p2/4p1pP/4P1P1/5r2/8/8 w - - 0 70"]
+
+70.Kd6  (70.Kd6 Rf4  (70...Rd3+ 71.Ke6 Rxd7 72.Kxd7 f5 73.gxf5 g4 74.h6 g3 75.f6 g2 76.h7 g1=Q 77.h8=Q+ Kf7 78.Qe8+ Kxf6 79.Qf8+ Kg5 80.Qg7+ )  71.Ke6 Kg8  (71...Rxg4 72.h6 Kg8 73.h7+ Kh8 74.Kf5 )   (71...Rxe4 72.Kxf6 )  72.Ra7  (72.h6 )  72...Kh8  (72...Rxe4 73.Kf5 Rb4 74.Kg6 Rb8 75.Kxf6 )   (72...Rxg4 73.Kf5 Rf4+ 74.Kg6 )  73.h6 Rxe4  (73...Rf2 74.Rg7 Rf4 75.Kf7 )  74.Kxf6 )   (70.h6 Kg8 71.Kd6 Rf4 72.Ke6 Rxe4 73.Kf5  (73.Kxf6 Rxg4 74.Kg6 Rd4 )  73...Rd4  (73...Ra4 74.Kg6 Ra8 75.Kxf6 Re8 76.Rd3 e4 77.Re3 Kh7 78.Kxg5 Re6 )  74.Rg7+ Kh8 75.Kg6 Rd6 76.Re7 f5+ 77.Kxf5 Rxh6 )
+ * 
+
+
+[Event "Chapter 6"]
+[Site "Game 9"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 6"]
+[Black "Game 9"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/1R6/6K1/2k5/1pr2P1P/8 b - - 0 51"]
+
+51...Rc1  (51...Rxf2 52.h4 Rd2 53.Rxb2  (53.h5 Rd4+ 54.Kg5 Rb4 )   (53.Kg5 Kc4 54.Rxb2 Rxb2 55.h5 Kd5 56.h6 Ke6 )  53...Rxb2 54.h5 Kd4 55.Kf5  (55.Kg5 Ke5 56.Kg6 Ke6 )  55...Rb6  (55...Rh2 56.Kg6 )  56.Kg5 Ke5 57.h6 Rb1 58.Kg6 Ke6 59.Kg7 Rg1+ 60.Kf8 Rf1+ 61.Kg7 Ke7 62.h7 Rg1+ 63.Kh8 Rh1 64.Kg7 Rg1+ )   (51...Rc1 52.h4 b1=Q 53.Rxb1 Rxb1 54.h5 Kd4 55.Kf5 Rh1 56.Kg6 Ke5 57.h6 Ke6 58.Kg7  (58.h7 Rg1+ 59.Kh6 Kf7 )  58...Ke7 59.h7 Rg1+ 60.Kh6  (60.Kh8 Kf7 )  60...Kf7 61.h8=N+ Kf6 62.Kh7 Rg7+ 63.Kh6 Rg2 64.Kh7 Rxf2 65.Kg8 Ra2 66.Kh7 Rb2 67.Kg8 Rb7 )
+ * 
+
+
+[Event "Chapter 6"]
+[Site "Game 10"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 6"]
+[Black "Game 10"]
+[Result "*"]
+[SetUp "1"]
+[FEN "R7/5pk1/8/4PP1p/pp3K2/8/2b5/8 b - - 0 54"]
+
+54...a3  (54...b3 55.f6+ Kh7  (55...Kg6 56.Rg8+ Kh7 57.e6 Kxg8 58.e7 )  56.e6 b2  (56...fxe6 57.f7 )  57.Rh8+ Kg6  (57...Kxh8 58.exf7 b1=Q 59.f8=Q+ Kh7 60.Qg7# )  58.Rh6+  (58.Rh6+ Kxh6 59.exf7 b1=Q 60.f8=Q+ Kg6 61.Qg7# )  )   (54...a3 55.Kg5  (55.f6+ Kg6 56.Rg8+ Kh7 57.Rg7+  (57.e6 Kxg8 58.e7 Ba4 )   (57.Ra8 Bb3 )  57...Kh6 58.e6 fxe6 59.Rg8 e5+ 60.Kxe5  (60.Ke3 Bg6 )  60...a2 61.Ra8 Bb3 )  55...a2 56.f6+ Kh7 57.e6  (57.Rxa2 b3 )  57...fxe6 58.Rxa2 b3 59.Ra7+ Kg8 60.Rb7 e5 61.Kxh5 e4 62.Kg4 e3 63.Kf3 e2 64.Kxe2 Be4 65.Rxb3 Kf7 66.Rb4 Bf5 )
+ * 
+
+
+[Event "Chapter 6"]
+[Site "Game 11"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 6"]
+[Black "Game 11"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r5/p4Pk1/4P3/8/8/3n4/2p1R1K1/2r2R2 w - - 0 45"]
+
+45.Rxc1  (45.f8=Q+ Rxf8 46.Rxc1 Rc8  (46...Nxc1 47.Rxc2 )  47.Rcxc2 Rxc2 48.Rxc2 Ne1+ )   (45.Rxc1 Nxc1 46.Rf2 Kf8  (46...Nd3 47.e7 Nxf2 48.e8=Q Rxe8 49.fxe8=Q c1=Q 50.Qe7+ )  47.e7+ Kxe7 48.f8=Q+ Rxf8 49.Rxc2 Kd6 50.Rxc1 a5 51.Ra1 Ra8 52.Kf3 Kc5 53.Ke3 Kc4 54.Kd2 Kb3 55.Rb1+ Ka2 56.Rc1 )
+ * 
+
+
+[Event "Chapter 6"]
+[Site "Game 12"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 6"]
+[Black "Game 12"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1p1k4/p1p4p/2Pp1p2/P4P2/1PK4P/2P5/8 b - - 0 45"]
+
+45...a5  (45...a5 46.b4  (46.Kd4 Ke6 )  46...h5 47.bxa5 h4 48.Kb4 Kc7 )   (45...h5 46.Kb4 Kc8  (46...h4 )  47.Ka5 Kc7 48.h4 Kb8 49.Kb6 Kc8 50.b4 Kb8  (50...d4 51.b5 cxb5 52.axb5 axb5 53.Kxb5 Kc7 54.Kc4 )  51.b5 cxb5 52.axb5 axb5 53.Kxb5 Kc7 54.c3 )
+ * 
+
+
+[Event "Chapter 6"]
+[Site "Game 13"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 6"]
+[Black "Game 13"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/1R2K3/8/r4P1p/6P1/1p6/8/8 w - - 0 49"]
+
+49.f6  (49.Kf6 Ra6+ 50.Kg5 hxg4 51.f6 g3 52.Kg6 Ra8 )   (49.f6 Re5+ 50.Kd6 Rg5  (50...Re3 51.g5 )   (50...Ra5 51.Ke6 Ra6+ 52.Kf5 hxg4 53.Kg6 Ra8 54.Rg7+ Kf8 55.Rh7 )  51.Ke6 Rxg4 52.Rb8+ Kh7 53.f7 )
+ * 
+
+
+[Event "Chapter 6"]
+[Site "Game 14"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 6"]
+[Black "Game 14"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/1R6/8/4K3/2B5/8/8/3r4 b - - 0 85"]
+
+85...Rg1  (85...Rg1 86.Kf6  (86.Rb8+ Kh7 )   (86.Bd3 Rg7 )  86...Rg6+ )   (85...Rd7 86.Rb8+ Kg7 87.Be6  (87.Rg8+ Kh7 88.Kf6 Rd6+ )  87...Rd2  (87...Ra7 88.Rg8+ Kh7 89.Kf6 Kh6 90.Bc8 Rc7 91.Bf5 Rc6+ 92.Be6 Rc7 93.Rg6+ Kh7 94.Rg1 Kh8 95.Rd1 )  88.Rg8+ Kh7 89.Rg3 Rh2  (89...Kh6 90.Kf6 )   (89...Rf2 90.Bf5+ Kh6 91.Kf6 )  90.Kf6 Rh6+ 91.Kf7 Rh5 92.Bg4 Rh4 93.Bf5+ Kh6 94.Kf6 )
+ * 
+
+
+[Event "Chapter 6"]
+[Site "Game 15"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 6"]
+[Black "Game 15"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/p7/8/PP1b2k1/3P3p/4K1p1/6P1/5B2 w - - 0 48"]
+
+48.b6  (48.Be2 Bxg2 49.Bf3 Bf1 50.b6 axb6 51.axb6 Ba6 52.b7 Bxb7 53.Bxb7 h3 54.Kf3 g2 55.Kf2 Kf4 56.Ba8 Kf5 57.Bc6 Kf4 58.Bb7 Kf5 59.Bc8+ )   (48.b6 axb6 49.axb6 h3  (49...Bb7 50.Be2 Kf6 51.Bf3 h3 52.gxh3 g2 53.Bxg2 Bxg2 54.Kd3 Ke6 55.h4 )  50.gxh3 g2 51.Bxg2 Bxg2 52.Kd3 Kf5 53.Kc4 Ke6 54.Kc5 Kd7 55.h4 Bf3 56.d5 Be2 57.d6 Kc8  (57...Bf3 58.h5 )  58.Kd5 Bg4 59.Ke5 Be2 60.Kf6 Bg4 61.Ke7 )
+ * 
+
+
+[Event "Chapter 6"]
+[Site "Game 16"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 6"]
+[Black "Game 16"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1p6/4pKN1/pP1kP3/3r4/2P5/8/8 w - - 0 50"]
+
+50.cxd4  (50.Ne7+ Kc4 51.cxd4 a4 52.d5 exd5 53.Nxd5  (53.e6 a3 54.Ng6 a2 55.e7 a1=Q+ 56.Ne5+ Kxb5 57.e8=Q+ Kb6 )  53...Kxd5 54.e6 a3 55.e7 a2 56.e8=Q a1=Q+ )   (50.cxd4 a4 51.Nf4+ Kxd4 52.Nxe6+ Kc4  (52...Kc3 53.Nc7 a3 54.e6 a2 55.e7 a1=Q 56.e8=Q )  53.Nd4 Kxd4  (53...a3 54.Nc2 a2 55.e6 Kc3 56.Na1 Kb2 57.e7 Kxa1 58.e8=Q )  54.e6 a3 55.e7 a2 56.e8=Q a1=Q 57.Qe5+ )
+ * 
+
+
+[Event "Chapter 6"]
+[Site "Game 17"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 6"]
+[Black "Game 17"]
+[Result "*"]
+[SetUp "1"]
+[FEN "R7/8/P5p1/4K3/5Pk1/8/8/r7 b - - 0 82"]
+
+82...Re1+  (82...Ra5+ 83.Kf6 Kxf4 84.Kxg6 Ke5  (84...Kg4 85.Kf6 Kf4 86.Ke6 Ke4 87.Kd6 Kd4 88.Kc6 Kc4 89.a7 Ra1 90.Rc8 Rxa7 91.Kb6+ )  85.a7 Ra6+ 86.Kg5 Ra5 87.Kg4 Ra4+ 88.Kg3 )   (82...Ra2 83.Kf6 Kxf4 84.Kxg6 Kg4 85.Kf6 Kf4 86.Ke6 Ke4 87.Kd6 Kd4 88.Kc6 Rc2+  (88...Kc4 89.a7 Ra1 90.Rc8 Rxa7 91.Kb6+ )  89.Kb5  (89.Kb6 Rb2+ 90.Ka7 Kc5 91.Rc8+ Kd6 92.Rb8 Rg2 93.Kb7 Rb2+ 94.Ka8 Rc2 )  89...Rb2+ 90.Ka4  (90.Ka5 Kc5 91.Rc8+ Kd6 92.a7 Ra2+ 93.Kb6 Rb2+ 94.Ka6 Ra2+ 95.Kb7 Rb2+ 96.Ka8 Ra2 )  90...Kc4 91.Rc8+ Kd5 92.Rc3 Ra2+ 93.Kb5  (93.Ra3 Rxa3+ 94.Kxa3 Kc6 )  93...Kd6 94.Kb6 Rb2+ 95.Ka7 Kd7 )   (82...Re1+ 83.Kf6 Kxf4 84.Kxg6 Re6+ 85.Kf7 Kf5  (85...Rb6 )  86.a7  (86.Ra7 Rh6 )  86...Ra6 87.Ke7 Ke5 88.Kd7 Kd5 89.Kc7 Kc5 90.Kb7 Rb6+ )
+ * 
+
+
+[Event "Chapter 6"]
+[Site "Game 18"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 6"]
+[Black "Game 18"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1p6/p7/P3k1p1/4Pp1p/1P5P/3K2P1/8 w - - 0 55"]
+
+55.Ke1  (55.Ke1 Kxe4  (55...Kd4 56.Kf2 Kxe4 57.Ke2 )  56.Ke2 Kf5 57.Kf3 Kg6 58.Kf2  (58.Kg4 Kf6 59.Kf3 Kf5 )   (58.Ke2 )  58...Kf6 59.Ke2 Ke6 60.Kf2 Kd5 61.Kf3 Kd4 62.Kg4 Kc3 63.Kxg5 Kxb3 64.Kxh4 Kb4 65.Kg4 Kxa5 66.h4 b5 67.h5 b4 68.h6 b3 69.h7 b2 70.h8=Q b1=Q )   (55.Ke2 Kxe4 56.Kf2 f3 57.gxf3+ Kd4 58.Ke2 Kc3 59.Ke3 Kxb3 60.Ke4 Kb4 61.Kf5 Kxa5 62.Kxg5 b5 63.f4 b4 64.f5 b3 65.f6 b2 66.f7 b1=Q 67.f8=Q Qe4 )   (55.Kd3 g4 56.hxg4 f3 57.Ke3 fxg2 58.Kf2 h3  (58...Kf4 59.e5 Kxg4 60.e6 Kh3 61.e7 Kh2 62.e8=Q g1=Q+ )  59.g5 Ke6 60.Kg1 Ke5 61.Kh2 Ke6 62.Kg1 )
+ * 
+
+
+[Event "Chapter 6"]
+[Site "Game 19"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 6"]
+[Black "Game 19"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/P7/1K3pp1/3k4/2r3P1/4R3 w - - 0 61"]
+
+61.Rg1  (61.Rg1 Ra2  (61...Ke3 62.Kb3 Rc8 63.Ra1 Kf2 64.Ra2+ )   (61...Ke2 62.Ra1 Kf2 63.Kb3 Rc8 64.Ra2+ )  62.Kb5 Ke2  (62...Ke3 63.Re1+ Kf2 64.Re4 )  63.Rb1  (63.Rc1 Rb2+ 64.Kc4 Ke3 65.a6 Rxg2 66.Kb3 Rd2 67.Rc3+ Kf2 68.Rc2 Rxc2 69.Kxc2 g3 )  63...Kf2 64.Rb4 Kg3 65.a6 )   (61.Rd1+ Ke3 62.Re1+ Kf2 63.Re4 Kg3 64.a6 Rxg2 65.Kb5 Rh2 66.Re8 Rh7 )
+ * 
+
+
+[Event "Chapter 6"]
+[Site "Game 20"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 6"]
+[Black "Game 20"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/4KBp1/5r2/2k5/8/6P1/8/8 w - - 0 61"]
+
+61.Kf8  (61.g4 Kd4 62.g5 Rf5 63.Bg6 Rxg5  (63...Ke5 )  64.Kf7 )   (61.Kf8 g5 62.Kg7 Rf3 63.Bh5  (63.g4 Kd4 64.Kg6 Ke5 )  63...Rxg3 64.Kf6 )
+ * 
+
+
+[Event "Chapter 6"]
+[Site "Game 21"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 6"]
+[Black "Game 21"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6Pp/k4n2/2K5/2P5/8/8/8 w - - 0 79"]
+
+79.Kd4  (79.Kc6 h5 80.c5 h4 81.Kd6 h3  (81...Ne8+ 82.Kd7 Nxg7 83.c6 Ne8 84.Kxe8 Kb6 85.Kd7 h3 )  82.Ke6 Ng8 83.c6  (83.Kf7 h2 84.Kxg8 h1=Q )  83...Kb6 84.Kd6 h2 85.c7 h1=Q 86.c8=Q Qh2+ 87.Kd5  (87.Kd7 Qh3+ 88.Kd8 Qh4+ 89.Kd7 Qe7# )   (87.Ke6 Qh3+ )  87...Ne7+ 88.Ke6 Qh3+  (88...Nxc8 89.g8=Q Qa2+ 90.Kd7 Qxg8 )  )   (79.Kd4 Kb7 80.Ke5 Ng8 81.Kd6 Kc8 82.c5 Kd8  (82...Nh6 83.Kc6 Ng8 84.Kd6 )   (82...h6 83.Ke6 h5 84.Kf5 )   (82...h5 83.Ke5 )  83.c6 Kc8 84.c7 h5  (84...h6 85.Ke6 h5 )  85.Ke5  (85.Ke6 h4 86.Kf7 Nh6+ 87.Kg6 Ng8 88.Kf7 )  )
+ * 
+
+
+[Event "Chapter 6"]
+[Site "Game 22"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 6"]
+[Black "Game 22"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1kb3R1/1Pr5/8/1KN5/8/8/8/8 w - - 0 76"]
+
+76.bxc8=Q+  (76.bxc8=Q+ Rxc8 77.Na6+ Kb7 78.Rg7+ Ka8 79.Nc7+ Kb8  (79...Kb7 80.Ne6+ Kb8 81.Kb6 )  80.Kb6 Rh8 81.Ne6 Ka8  (81...Kc8 82.Rc7+ Kb8 83.Nd4 )  82.Ra7+ Kb8 83.Rb7+ Kc8 84.Rc7+ Kb8 85.Nd4 )   (76.Kb6 Rxc5 77.Kxc5 Kxb7 78.Rg7+ Ka6 )
+ * 
+
+
+[Event "Chapter 6"]
+[Site "Game 23"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 6"]
+[Black "Game 23"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/1P4p1/2K4p/5P2/5bP1/6k1/4B3 b - - 0 50"]
+
+50...Kh3  (50...Kf1 51.Bc3 Kg2 52.Be5 Kh3 53.Kd6 Kg4 54.Ke6  (54.Kc7 g5 55.fxg5 Kxg5 )  54...Be4 55.Bd6 Bf5+ 56.Ke7 Be4 57.Kd8 )   (50...Kh3 51.Kd6 Kg4 52.Kc7  (52.Ke5 Ba8 53.Kf6 Be4 )  52...g5 53.fxg5 Kxg5 54.b7 Bxb7 55.Kxb7 Kg4 56.Kc6 Kf3 57.Kd5 Ke2 58.Bc3 Kf3 59.Be5 Kg4 )
+ * 
+
+
+[Event "Chapter 6"]
+[Site "Game 24"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 6"]
+[Black "Game 24"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/3Q1ppk/p2Pp2p/1pq5/8/5P2/P1R3P1/2K5 b - - 0 43"]
+
+43...Qe3+  (43...Qg1+ 44.Kd2 Qxg2+ 45.Kc3 Qxf3+ 46.Kb4 Qe4+ 47.Ka5 Qxc2 48.Qc7 Qxa2+ 49.Kb6 Qf2+ 50.Kb7 b4 51.d7 b3 52.d8=Q Qf5 53.Qc3 )   (43...Qe3+ 44.Kd1  (44.Rd2 Qc5+ 45.Kb1 Qb4+ )   (44.Kb1 Qe1+ 45.Rc1 Qb4+ 46.Kc2 Qc4+ 47.Kd2 Qd4+ 48.Ke2 Qb2+ )  44...Qd3+ 45.Ke1 Qxc2 46.Qc7 Qb1+ 47.Kd2 Qb4+ 48.Kd3 Qa3+ )
+ * 
+
+
+[Event "Chapter 6"]
+[Site "Game 25"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 6"]
+[Black "Game 25"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/b7/P1K1kP2/3p4/8/8/1B6 w - - 0 58"]
+
+58.Kb4  (58.Kb4 Kf6  (58...d3 59.Kc3 )  59.Kb3 Ke5 60.Kb2 Kf6 61.Kc1 Ke5 62.Kd2 Kf6 63.Bd3 )   (58.Kb6 Be2 59.a6 d3 60.a7 d2 61.Bc2  (61.a8=Q d1=Q )  61...Bf3 62.Kc5 Be4 63.Bxe4 d1=Q 64.a8=Q Qd4+ 65.Kb5 Qb2+ 66.Kc4  (66.Kc6 Kxe4 )   (66.Ka6 Qa3+ 67.Kb7 Qe7+ )  66...Qc1+ 67.Kb3 Qe3+ 68.Kc2 Qe2+ 69.Kc3 Qe1+ 70.Kd3 Qd1+ 71.Ke3 Qe1+ 72.Kf3 Qd1+ 73.Kf2 Kf4 74.Qc6 Qd2+ 75.Kf1 Qd1+ 76.Kf2 Qd2+ 77.Kf1 Qd1+ )
+ * 
+
+
+[Event "Chapter 6"]
+[Site "Game 26"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 6"]
+[Black "Game 26"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1R6/1P6/8/5p2/2p2k2/1r6/2K5 w - - 0 55"]
+
+55.Kd1  (55.Rb8 Kf2  (55...Kg3 56.Rg8+ Kf2 57.Rb8 Kf3 58.b7 Kf2 59.Rf8 Rxb7 60.Rxf4+ Ke3 )  56.b7  (56.Kd1 f3 57.Kc1 Kf1 58.Kd1 f2 59.Kc1 Ke1 60.Re8+ Re2 )  56...f3 57.Kd1 Rd2+ 58.Kc1 Rd7 59.Kc2 Re7 60.Kxc3 Ke2 61.Kc4 f2 62.Rf8 Rxb7 )   (55.Kd1 Kf2  (55...Rd2+ 56.Kc1 Rd6 57.Kc2 Rc6 58.Rb8 Kf2 59.b7 Rc7 60.Rf8 )  56.Rf7 f3 57.b7 )
+ * 
+
+
+[Event "Chapter 6"]
+[Site "Game 27"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 6"]
+[Black "Game 27"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5k2/5p2/3p1p1p/1P2p3/4P3/1R1B1PPb/r4r1P/3RK3 w - - 0 38"]
+
+38.Ra3  (38.Ra1 Rf1+ 39.Bxf1 Rxa1+ 40.Kf2  (40.Kd2 Bxf1 41.b6 Ra8 )  40...Rxf1+ 41.Ke2 Be6 42.Rb4 Rc1 43.b6 Rc8 )   (38.Ra3 Rab2 39.Rb3 )
+ * 
+
+
+[Event "Chapter 6"]
+[Site "Game 28"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 6"]
+[Black "Game 28"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/1p2p3/1Pk1p3/2P1Pn2/2KB4/b4N2/8 b - - 0 69"]
+
+69...Nxd3  (69...Nxd3 70.Nxd3+ Kd6 71.Kb4  (71.Nb2 Bb1 72.Na4 Kc7 )  71...Bb1 72.c5+ Kc7  (72...bxc5+ 73.Nxc5 Bc2 74.b6 Kc6 75.Ka5 )  73.Nf2  (73.cxb6+ Kxb6 74.Nc5 Bc2 )  73...Bc2 74.c6 Kc8  (74...Bb1 75.Kb3 )  75.Kc4  (75.Kc3 Ba4 )  75...Kc7 76.Nd3 Kd6  (76...Kc8 )  )   (69...Kd6 70.Bf1  (70.Kb4 Kc7  (70...Nxd3+ )  71.Bf1 Kd6 72.Nd1  (72.Ka3 Bb1 73.Kb2 )  72...Bb1 73.Nf2 Kc7  (73...Bc2 74.Kc3 Ba4 )   (73...Nh5 )  74.c5  (74.Kb3 Kd6 75.Kb2 )  74...bxc5+  (74...Nh5 )  75.Kxc5 Bc2 76.b6+ Kb7 77.Bb5 Bb1 78.Bc6+ Ka6 79.b7 Ka7 80.Kd6 )  70...Kc5 71.Ng4 Ng6  (71...Bb1 72.Nxe5 )   (71...Kd6 72.Kb2 )  72.Nf6 Kd6 73.Kb2 )
+ * 
+
+
+[Event "Chapter 6"]
+[Site "Game 29"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 6"]
+[Black "Game 29"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/7p/8/1k3KNP/8/3n4/8/8 b - - 0 70"]
+
+70...h6  (70...h6 71.Nf7 Kc6 72.Nxh6 Kd7 73.Ng8  (73.Kf6 Nf4 )  73...Ke8 74.h6  (74.Kf6 Kf8 75.Ne7 Nf2 )  74...Kf7 )   (70...Kc6 71.Nxh7 Kd7 72.Kf6 Nf2 73.Kg7 Ke6  (73...Ng4 74.Nf6+ )  74.Nf6 Nh3 75.h6 Ng5 76.Kg6 Nf7 77.h7 Nh8+ 78.Kg7 Ke7 79.Ne4 Ke8 80.Ng3 Ke7 81.Nf5+ Ke8 82.Nh4 )
+ * 
+
+
+[Event "Chapter 6"]
+[Site "Game 30"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 6"]
+[Black "Game 30"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/7P/7R/8/4bp2/2b1k3/7K/8 b - - 0 94"]
+
+94...f3  (94...Bh8 95.Re6 f3 96.Kg3 Bd4 97.Re8 f2 98.h8=Q Bxh8 99.Rxe4+ Kxe4 100.Kxf2 )   (94...f3 95.h8=Q Bxh8 96.Rxh8 f2 97.Rf8 Bf3 98.Re8+ Kd3 99.Rd8+ Kc2  (99...Ke4 100.Re8+ Kd5 101.Rd8+ Ke6 102.Rd1 Bxd1 103.Kg2 )  100.Rc8+ Kb2 101.Rb8+ Ka2 )
+ * 
+
+
+[Event "Chapter 6"]
+[Site "Game 31"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 6"]
+[Black "Game 31"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/4k3/r4p1K/p4P1P/R7/8 b - - 0 50"]
+
+50...Kf5  (50...Kd4 51.Kg4 Kc3 52.h4 Kb3 53.Ra1 Kb2 54.Re1 a2 55.h5 a1=Q 56.Rxa1 Rxa1 57.Kxf4 Kc3 58.h6 Kd4 59.Kf5 Kd5 60.h7 Rh1 61.Kg6 Ke6 62.Kg7 Rg1+ 63.Kf8 Rh1 64.Kg8 )   (50...Kf5 51.Kh5 Ra6 52.h4  (52.Rg2 Ra8  (52...a2 53.Rg5+ Kf6 54.Rg6+ )  )  52...Ra8 53.Kh6 Ra7 54.h5 Kf6 )
+ * 
+
+
+[Event "Chapter 6"]
+[Site "Game 32"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 6"]
+[Black "Game 32"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/p4ppp/3P4/3P4/r7/6P1/5P1P/2R2BK1 b - - 0 29"]
+
+29...Rf8  (29...Rf8 30.d7 Ra5  (30...Rd4 31.Rc5 )  31.d6  (31.Bg2 Rb5 )  31...Rd5 )   (29...Rd8 30.d7 Kf8 31.d6 Rb4 32.Rc8 Rb8 33.Ba6 )
+ * 
+
+
+[Event "Chapter 7"]
+[Site "Game 1"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 7"]
+[Black "Game 1"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6R1/8/8/8/8/7k/P1pbKp2/8 w - - 0 52"]
+
+52.Rh8+  (52.Rc8 Bc3 53.Rxc3+ Kg2 )  52...Kg4 53.Rc8
+ * 
+
+
+[Event "Chapter 7"]
+[Site "Game 2"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 7"]
+[Black "Game 2"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1R6/8/8/5k2/5p2/7r/1p2K3/8 w - - 0 60"]
+
+60.Rxb2 Rh2+  (60...Kg4 61.Kf1 )  61.Kf3
+ * 
+
+
+[Event "Chapter 7"]
+[Site "Game 3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 7"]
+[Black "Game 3"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1pq2pk1/p5p1/3QNn1p/8/4P1PP/PP3PK1/8 b - - 0 28"]
+
+28...Kf6  (28...f6 29.Qd7+ )  29.Nf3  (29.Nd7+ Ke7 30.e4 Nxg3 31.Ne5  (31.Nc5 Ne2 32.Qxb7 Qxb7 33.Nxb7 Nf4+ 34.Kg3 Nd3 35.b3 g5 )  31...Kf6 32.Nxf7  (32.Nd3 Ne2 33.Kf1 Nf4 34.Nxf4 Qxf4 35.Qxb7 )  32...Nxe4  (32...Ne2 33.e5+ Kg7 34.Qe4 Qxf7 35.Qxe2 Qd5+ 36.Qf3 Qxe5 37.Qxb7+ Kh6 38.Qb3 )  33.Nd8 Nd6 34.Qe6+ Kg7 35.Qe5+ Kh7 36.Ne6 Qc6+ 37.Kg1 Ne8 38.Ng5+ Kg8 )  29...Qxg3+ 30.Kf1  (30.fxg3 Nxe3+ )  30...Qxh3+ 31.Ke2 Kg7
+ * 
+
+
+[Event "Chapter 7"]
+[Site "Game 4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 7"]
+[Black "Game 4"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/6p1/8/4N2p/5K2/7k b - - 0 53"]
+
+53...g4  (53...Kh2 54.Ng4+ Kh1 55.Kf1 h2 56.Nf2# )   (53...h2 54.Nf1 g4 55.Ng3# )
+ * 
+
+
+[Event "Chapter 7"]
+[Site "Game 5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 7"]
+[Black "Game 5"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/pp4p1/2p2kp1/3p1n1P/3P1K2/2PB4/PP6/8 b - - 0 42"]
+
+42...gxh5 43.Bxf5  (43.Be2 g5+ )  43...g5+
+ * 
+
+
+[Event "Chapter 7"]
+[Site "Game 6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 7"]
+[Black "Game 6"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5Kpk/4R3/r5P1/5P2/8/8/8 b - - 0 100"]
+
+100...Ra7+  (100...Rf5+ 101.Rf6 Ra5  (101...gxf6 102.g6+ Kh6 103.g7 )  102.Rh6+  (102.Rh6+ gxh6 103.g6+ Kh8 104.g7+ Kh7 105.g8=Q# )  )   (100...g6 )
+ * 
+
+
+[Event "Chapter 7"]
+[Site "Game 7"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 7"]
+[Black "Game 7"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/8/6R1/3p2p1/1p1b2r1/1P3N2/1P3K2/8 w - - 0 50"]
+
+50.Ke2  (50.Nxd4 Kh7 51.Rd6 Rxd4 )
+ * 
+
+
+[Event "Chapter 7"]
+[Site "Game 8"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 7"]
+[Black "Game 8"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/4KN2/6k1/8/r7/6R1 b - - 0 93"]
+
+93...Kf3 94.Nh4+  (94.Nh4+ Ke3 95.Rg3+ Kf2 96.Rg2+ )
+ * 
+
+
+[Event "Chapter 7"]
+[Site "Game 9"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 7"]
+[Black "Game 9"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/6p1/Pq5p/7P/K3Q1P1/8/8/8 w - - 0 139"]
+
+139.Qe8+  (139.Qb7 Qd4+ )  139...Kh7 140.Qg6+
+ * 
+
+
+[Event "Chapter 7"]
+[Site "Game 10"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 7"]
+[Black "Game 10"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/5P2/6pK/4k2p/4b2P/8/8 b - - 0 97"]
+
+97...Kf4  (97...Kf3 )   (97...Kf5 98.f7 Bc5 99.f8=Q+ Bxf8 )  98.f7 Bc5
+ * 
+
+
+[Event "Chapter 7"]
+[Site "Game 11"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 7"]
+[Black "Game 11"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2q5/6k1/8/7p/6PK/5Q2/5b2/8 w - - 0 78"]
+
+78.Kh3  (78.Kxh5 Qe8+ 79.Kg5 Qe5+  (79...Qe5+ 80.Qf5 Be3+ 81.Kh4 Qh2# )  )  78...Be1  (78...Bd4 79.Kh4 Bf6+ 80.g5 )  79.Qf5  (79.Qe2 )  79...Qc3+ 80.Kg2 Qg3+ 81.Kf1 hxg4 82.Qg5+ Kf7 83.Qf5+ Ke7 84.Qe4+ Kf6 85.Qxe1
+ * 
+
+
+[Event "Chapter 7"]
+[Site "Game 12"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 7"]
+[Black "Game 12"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/2b5/8/8/4n3/4B2k/8/7K w - - 0 98"]
+
+98.Kg1  (98.Ba7 Bh2 )
+ * 
+
+
+[Event "Chapter 7"]
+[Site "Game 13"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 7"]
+[Black "Game 13"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/2p2k1p/2KbpNp1/3p1nP1/3P3P/4BP2/5P2/8 b - - 0 59"]
+
+59...h5  (59...Nxh4 60.Nxh7 Nxf3 61.Nf6 Be7 )  60.gxh6 Kxf6
+ * 
+
+
+[Event "Chapter 7"]
+[Site "Game 14"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 7"]
+[Black "Game 14"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/6n1/5k2/7P/2N3P1/6K1/8 w - - 0 67"]
+
+67.Kh3  (67.Nd1 Nxh4+ 68.gxh4 Kg4 )
+ * 
+
+
+[Event "Chapter 7"]
+[Site "Game 15"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 7"]
+[Black "Game 15"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/R7/7k/6r1/4BK2/8/8/8 b - - 0 109"]
+
+109...Rg4+  (109...Rg7 110.Ra6+ Kh5 111.Bf3+ )
+ * 
+
+
+[Event "Chapter 7"]
+[Site "Game 16"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 7"]
+[Black "Game 16"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2R5/8/8/7p/kr3P2/6P1/p2K4/8 w - - 0 67"]
+
+67.Kc2 a1=N+  (67...a1=Q 68.Ra8+ )
+ * 
+
+
+[Event "Chapter 7"]
+[Site "Game 17"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 7"]
+[Black "Game 17"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/3N4/1p5P/6K1/2Pn4/8/8/8 b - - 0 52"]
+
+52...Kh7  (52...b5 53.Kg6 Ne6  (53...bxc4 54.Ne5 )  54.cxb5 )  53.Nf6+  (53.Nf8+ Kh8  (53...Kg8 54.Kg6 )  54.Kg6 Nc6 55.Nd7 Ne7+ 56.Kf6 Nc8 )   (53.Nxb6 Ne6+ 54.Kh5 Nf4+ 55.Kg4 Ne6 )  53...Kh8 54.Kg6 Nc6 55.Nd7 Ne7+ 56.Kf6 Nc8 57.Ke6  (57.Kg5 Kh7 58.Nf6+ Kh8 59.Nd5 Kh7 60.Kh5 Kh8 61.Kg6 Kg8 )  57...Kh7 58.Nf6+ Kxh6 59.Nd5 Na7  (59...Kg7 60.Kd7 Na7 61.Nxb6 Kf6 62.Kc7 Ke5 63.Kb7 )  60.Kd7  (60.Nxb6 Nc6 )  60...b5 61.c5 b4 62.Nxb4 Kg5  (62...Nb5 63.Kc6 )  63.Kc7 Nb5+ 64.Kc6 Na3  (64...Na7+ 65.Kb7 Nb5 66.Nc2 Kf6 67.c6 Ke5 68.Kb6 Nc3 69.Nb4 Kd6 70.c7 Na4+ 71.Kb7 Nc5+ 72.Kb8 Nd7+ )  65.Kb6  (65.Kd5 Kf6 )  65...Nc4+ 66.Kb5 Ne5
+ * 
+
+
+[Event "Chapter 7"]
+[Site "Game 18"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 7"]
+[Black "Game 18"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/p3b3/1p2k3/5p1p/P1N2K2/1P1RP2P/5P2/5r2 w - - 0 39"]
+
+39.Kf3  (39.f3 Rg1 40.h4 Bf8 )
+ * 
+
+
+[Event "Chapter 7"]
+[Site "Game 19"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 7"]
+[Black "Game 19"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/8/5PKP/6N1/8/8/8/6r1 b - - 0 92"]
+
+92...Kh8  (92...Rf1 93.h7+ )  93.f7  (93.h7 Rg2 94.f7 Rf2 )  93...Rf1 94.Ne6 Rxf7 95.Kxf7 Kh7
+ * 
+
+
+[Event "Chapter 7"]
+[Site "Game 20"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 7"]
+[Black "Game 20"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5pRp/4kn2/8/5Pp1/6P1/6K1/8 b - - 0 53"]
+
+53...h6
+ * 
+
+
+[Event "Chapter 7"]
+[Site "Game 21"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 7"]
+[Black "Game 21"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r2N3/8/2kP4/7p/ppR5/8/7P/7K b - - 0 54"]
+
+54...Kd7  (54...Kd5 55.d7 Kxc4 56.Nd6+ Kb3 57.Nc8 a3 58.d8=Q a2 59.Qd3+ Kb2 60.Qd4+ Kb1 61.Qe4+ Kc1 62.Qf4+ Kc2 63.Qc7+ Kb3 )  55.Nf6+ Kxd6 56.Ne4+ Kd5 57.Nd2 a3
+ * 
+
+
+[Event "Chapter 7"]
+[Site "Game 22"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 7"]
+[Black "Game 22"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1p6/pN1Pnkp1/Pb1K3p/1P3p1P/7B/6P1/8 b - - 0 53"]
+
+53...f3 54.d7  (54.gxf3 Nf4+ )   (54.g3 Bc6+  (54...f2 55.d7 Ke7 56.Nc4 )  55.Kc4 g5 )   (54.Bxe6 fxg2 )  54...fxg2  (54...Ke7 55.g3  (55.d8=Q+ Nxd8 56.gxf3 )  55...f2  (55...g5 )  56.Nc8+  (56.Nc4 Ng7 )  56...Kd8  (56...Kxd7 )  )   (54...f2 55.g3 Ke7 )  55.Bxg2 Bc6+ 56.Kd6 Bxg2
+ * 
+
+
+[Event "Chapter 7"]
+[Site "Game 23"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 7"]
+[Black "Game 23"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r7/8/2bk4/p2p1P2/3K4/3BP3/8/2R5 w - - 0 73"]
+
+73.e4 a4  (73...dxe4 74.Rxc6+ Kxc6 75.Bxe4+ )  74.e5+ Kd7 75.f6  (75.f6 a3 76.Bf5+ Kc7 77.f7 a2 78.Ra1 )
+ * 
+
+
+[Event "Chapter 7"]
+[Site "Game 24"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 7"]
+[Black "Game 24"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/p1p3P1/1pp5/2P5/1PK2k2/P4bN1/8 b - - 0 44"]
+
+44...Ke4  (44...Kxg2 45.cxb5 axb5  (45...cxb5 46.Kd3 Bd4 47.b4 )  46.Kd3  (46.a4 )  46...Bd4 47.a4 Kf3 48.a5 Kf4 49.a6 )   (44...Bd4+ 45.Kd3 bxc4+ 46.Kxc4 Kxg2 47.g7 )
+ * 
+
+
+[Event "Chapter 8"]
+[Site "Game 1"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 8"]
+[Black "Game 1"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4R3/7k/3p1p2/3r1Pn1/1P4Pp/3BK3/2P5/8 b - - 0 70"]
+
+70...h3 71.Ra8 Re5+ 72.Kf2 Re7 73.Ra1 d5 74.b5
+ * 
+
+
+[Event "Chapter 8"]
+[Site "Game 2"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 8"]
+[Black "Game 2"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4R3/7k/3p1p2/3r1Pn1/1P4Pp/3BK3/2P5/8 b - - 0 70"]
+
+70...h3 71.Ra8 Re5+ 72.Kf2 Re7  (72...Re1 73.Ra7+  (73.Kxe1 h2 )  73...Kh6 74.Ra8 h2 75.Rh8+ Nh7 76.Rg8 Ng5 77.Rh8+ )  73.Ra1 d5 74.b5
+ * 
+
+
+[Event "Chapter 8"]
+[Site "Game 3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 8"]
+[Black "Game 3"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/P5pk/1Bp5/5p2/4nK2/1P2Q3/3q4/8 b - - 0 56"]
+
+56...g5+ 57.Kxf5 Qd5+ 58.Kg4 Kg6 59.Kf3 Nc3+ 60.Kg3
+ * 
+
+
+[Event "Chapter 8"]
+[Site "Game 4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 8"]
+[Black "Game 4"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/P5pk/1Bp5/5p2/4nK2/1P2Q3/3q4/8 b - - 0 56"]
+
+56...g5+ 57.Kxf5 Qd5+  (57...Qd7+ 58.Kxe4  (58.Ke5 Qd5# )  58...Qd5# )  58.Kg4 Kg6 59.Kf3 Nc3+ 60.Kg3
+ * 
+
+
+[Event "Chapter 8"]
+[Site "Game 5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 8"]
+[Black "Game 5"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r5/2rn2pp/k1p1pp2/p1P5/1pK1P3/1P3P2/PBR3PP/2R5 b - - 0 29"]
+
+29...Rd8 30.Rd1 Kb7 31.Rcd2 Ne5+ 32.Bxe5 Rxd2 33.Rxd2
+ * 
+
+
+[Event "Chapter 8"]
+[Site "Game 6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 8"]
+[Black "Game 6"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r5/2rn2pp/k1p1pp2/p1P5/1pK1P3/1P3P2/PBR3PP/2R5 b - - 0 29"]
+
+29...Rd8 30.Rd1 Kb7  (30...Ne5+ 31.Bxe5 Rxd1 32.Bxc7 e5 )  31.Rcd2 Ne5+ 32.Bxe5 Rxd2 33.Rxd2
+ * 
+
+
+[Event "Chapter 8"]
+[Site "Game 7"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 8"]
+[Black "Game 7"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6R1/1r6/8/6pk/5p2/5K2/8/8 w - - 0 62"]
+
+62.Rh8+ Kg6 63.Kg4 Rb3 64.Rg8+ Kf6 65.Rf8+ Kg6
+ * 
+
+
+[Event "Chapter 8"]
+[Site "Game 8"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 8"]
+[Black "Game 8"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6R1/1r6/8/6pk/5p2/5K2/8/8 w - - 0 62"]
+
+62.Rh8+ Kg6 63.Kg4 Rb3 64.Rg8+ Kf6 65.Rf8+  (65.Rg6+ Ke5 66.Rxg5+ Ke4 67.Ra5 )  65...Kg6
+ * 
+
+
+[Event "Chapter 8"]
+[Site "Game 9"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 8"]
+[Black "Game 9"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/2N3R1/Pk6/8/8/8/3K4/r7 w - - 0 58"]
+
+58.Kc2 Rh1 59.Kb2 Rh8 60.Kb3 Rc8
+ * 
+
+
+[Event "Chapter 8"]
+[Site "Game 10"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 8"]
+[Black "Game 10"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/2N3R1/Pk6/8/8/8/3K4/r7 w - - 0 58"]
+
+58.Kc2 Rh1 59.Kb2  (59.Rg8 Rh2+  (59...Ra1 60.Nd5+ )  60.Kd3 Rh3+ 61.Ke2 Rh2+ 62.Kf3 Rh3+ 63.Kg2 Ra3 64.Nd5+ Kc5  (64...Kb5 65.Rb8+ )   (64...Kxa6 65.Ra8+ )   (64...Ka7 65.Nb4 )  65.Rg5 Kd4  (65...Kc6 66.Nb4+ )   (65...Rxa6 66.Nc7+ )  66.Nc7 )  59...Rh8 60.Kb3 Rc8
+ * 
+
+
+[Event "Chapter 8"]
+[Site "Game 11"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 8"]
+[Black "Game 11"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/2p1p3/p3P1k1/P2K2P1/8/8/8 w - - 0 46"]
+
+46.Kc5 Kf4 47.Kb6 c5 48.Kxa5 Kxe5 49.g5 c4 50.Kb4 Kd4
+ * 
+
+
+[Event "Chapter 8"]
+[Site "Game 12"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 8"]
+[Black "Game 12"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/2p1p3/p3P1k1/P2K2P1/8/8/8 w - - 0 46"]
+
+46.Kc5 Kf4 47.Kb6  (47.g5 Kxe5  (47...Kxg5 48.Kb6 Kf4 49.Kxa5 Kxe5 50.Kb6 )  48.Kb6 Kf5  (48...Kd4 49.g6 )  49.Kxa5 e5 50.Kb4 )  47...c5 48.Kxa5 Kxe5 49.g5 c4 50.Kb4 Kd4
+ * 
+
+
+[Event "Chapter 8"]
+[Site "Game 13"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 8"]
+[Black "Game 13"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6r1/8/8/7n/1R5P/4k1p1/6K1/2N5 b - - 0 73"]
+
+73...Nf4+ 74.Kg1 g2 75.Rb3+ Kd2 76.Rf3 Rg4 77.Nb3+
+ * 
+
+
+[Event "Chapter 8"]
+[Site "Game 14"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 8"]
+[Black "Game 14"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6r1/8/8/7n/1R5P/4k1p1/6K1/2N5 b - - 0 73"]
+
+73...Nf4+ 74.Kg1 g2  (74...Rg4 75.Rb3+  (75.Rb8 g2 )   (75.Na2 g2 76.Rb3+ Kd2 77.Rb2+ Kd1 78.Nc3+ Kc1 )  75...Kd2 )  75.Rb3+ Kd2 76.Rf3 Rg4 77.Nb3+  (77.Nb3+ Ke1 78.h5 Ne2+ )
+ * 
+
+
+[Event "Chapter 8"]
+[Site "Game 15"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 8"]
+[Black "Game 15"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5k1p/3P3P/p6P/5p2/P3p2B/2b1K3/8 b - - 0 67"]
+
+67...Kf6 68.Bg4 Bb3 69.Bf5 Bc4+ 70.Kf3 Bd5+ 71.Ke2
+ * 
+
+
+[Event "Chapter 8"]
+[Site "Game 16"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 8"]
+[Black "Game 16"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5k1p/3P3P/p6P/5p2/P3p2B/2b1K3/8 b - - 0 67"]
+
+67...Kf6 68.Bg4 Bb3 69.Bf5 Bc4+  (69...Kxf5 70.d7 Ke4 71.d8=Q f3+ 72.Kf1  (72.Ke1 f2+ 73.Kf1 Bc4+ )  72...Bc4+ 73.Kg1 f2+ )  70.Kf3 Bd5+ 71.Ke2
+ * 
+
+
+[Event "Chapter 8"]
+[Site "Game 17"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 8"]
+[Black "Game 17"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2K5/1p2rp2/2p2k2/2Pp1p1P/5P2/4P1R1/1r6/5R2 b - - 0 42"]
+
+42...b6 43.h6 bxc5 44.Rh1 Ra2 45.Kb8 Rb2+
+ * 
+
+
+[Event "Chapter 8"]
+[Site "Game 18"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 8"]
+[Black "Game 18"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2K5/1p2rp2/2p2k2/2Pp1p1P/5P2/4P1R1/1r6/5R2 b - - 0 42"]
+
+42...b6 43.h6 bxc5 44.Rh1 Ra2  (44...Rbb7 45.h7 Rec7+ 46.Kd8 Rd7+ 47.Kc8  (47.Ke8 Re7+ )  47...Ke7 )   (44...Ke6 45.Rg8 )  45.Kb8 Rb2+
+ * 
+
+
+[Event "Chapter 8"]
+[Site "Game 19"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 8"]
+[Black "Game 19"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/7N/4b1p1/5p1p/4pK2/4P1P1/5k2/8 b - - 0 49"]
+
+49...Kg2 50.Nf6 Bf7 51.Nh7 Bg8 52.Nf6 Bc4 53.Nh7
+ * 
+
+
+[Event "Chapter 8"]
+[Site "Game 20"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 8"]
+[Black "Game 20"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/7N/4b1p1/5p1p/4pK2/4P1P1/5k2/8 b - - 0 49"]
+
+49...Kg2 50.Nf6 Bf7  (50...g5+ 51.Kxg5 Kf3  (51...Kxg3 52.Nxh5+ Kf3 53.Nf4 Bc8 54.Nd5 )  52.Nxh5 Kxe3 53.Ng7 Bd7 )  51.Nh7 Bg8 52.Nf6 Bc4 53.Nh7
+ * 
+
+
+[Event "Chapter 8"]
+[Site "Game 21"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 8"]
+[Black "Game 21"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5Rpp/6k1/3B4/4PK1P/2r3P1/4b3/8 w - - 0 51"]
+
+51.e5 Bf3 52.Rd7 Bxd5 53.Rxd5 Rc4+ 54.Kf3 Kf5
+ * 
+
+
+[Event "Chapter 8"]
+[Site "Game 22"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 8"]
+[Black "Game 22"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5Rpp/6k1/3B4/4PK1P/2r3P1/4b3/8 w - - 0 51"]
+
+51.e5 Bf3 52.Rd7  (52.h5+ Bxh5  (52...Kh6 53.Bxf3 )  53.g4 )  52...Bxd5 53.Rxd5 Rc4+ 54.Kf3 Kf5
+ * 
+
+
+[Event "Chapter 8"]
+[Site "Game 23"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 8"]
+[Black "Game 23"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5q1k/4R1p1/7p/7P/4Q1P1/5P2/3r2K1/8 w - - 0 72"]
+
+72.Kh3 Rd8 73.f4 Rb8 74.Kg3 Rb3+
+ * 
+
+
+[Event "Chapter 8"]
+[Site "Game 24"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 8"]
+[Black "Game 24"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5q1k/4R1p1/7p/7P/4Q1P1/5P2/3r2K1/8 w - - 0 72"]
+
+72.Kh3 Rd8 73.f4  (73.g5 Rd3  (73...hxg5 74.h6 g4+ 75.Kxg4 )  74.Kg2 Rd2+ 75.Kf1 Rd1+ 76.Ke2 Rd4 77.Qe3 )  73...Rb8 74.Kg3 Rb3+ 75.Kg2 Rb2+ 76.Kf1 Rb8 77.Re5 Qc8 78.Rd5 Qc1+ 79.Ke2 Rb2+ 80.Kf3 Qh1+ 81.Ke3 Re2+
+ * 
+
+
+[Event "Chapter 8"]
+[Site "Game 25"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 8"]
+[Black "Game 25"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3kb2R/3P4/4rN2/8/5K2/8/8/8 b - - 0 62"]
+
+62...Rxf6+ 63.Ke5 Kxd7 64.Kxf6 Kd8 65.Ke6
+ * 
+
+
+[Event "Chapter 8"]
+[Site "Game 26"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 8"]
+[Black "Game 26"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3kb2R/3P4/4rN2/8/5K2/8/8/8 b - - 0 62"]
+
+62...Rxf6+ 63.Ke5 Kxd7  (63...Rf8 64.Rxf8 Kxd7 65.Kf6 Bh5 )  64.Kxf6 Kd8 65.Ke6
+ * 
+
+
+[Event "Chapter 8"]
+[Site "Game 27"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 8"]
+[Black "Game 27"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r6/3k4/4R3/2K5/2B5/3P4/1n6/8 w - - 0 65"]
+
+65.Rh6 Rc8+ 66.Kd5 Nxc4 67.dxc4 Rg8 68.Kc5 Kc7
+ * 
+
+
+[Event "Chapter 8"]
+[Site "Game 28"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 8"]
+[Black "Game 28"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r6/3k4/4R3/2K5/2B5/3P4/1n6/8 w - - 0 65"]
+
+65.Rh6 Rc8+ 66.Kd5 Nxc4 67.dxc4  (67.Rh7+ Kd8  (67...Ke8 68.dxc4 Rd8+ 69.Ke6 )  68.dxc4  (68.Rh8+ Ke7 69.Rxc8 Nb6+ )  )  67...Rg8 68.Kc5 Kc7
+ * 
+
+
+[Event "Chapter 8"]
+[Site "Game 29"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 8"]
+[Black "Game 29"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6R1/4k1p1/6P1/4P3/1p3PP1/3r4/6K1 b - - 0 39"]
+
+39...b2 40.Rxg6+ Ke5 41.Rb6 Rd1+ 42.Kg2 b1=Q 43.Rxb1 Rxb1 44.Kh3
+ * 
+
+
+[Event "Chapter 8"]
+[Site "Game 30"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 8"]
+[Black "Game 30"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6R1/4k1p1/6P1/4P3/1p3PP1/3r4/6K1 b - - 0 39"]
+
+39...b2  (39...Kd6 40.Rxg6+  (40.Rb7 b2 )  40...Kc7 41.Rg7+ Rd7 )  40.Rxg6+ Ke5 41.Rb6 Rd1+ 42.Kg2 b1=Q 43.Rxb1 Rxb1 44.Kh3 Rh1+ 45.Kg4 Rh8 46.f4+ Kxe4 47.g6 Rf8  (47...Rb8 48.f5 Ke5 49.Kg5 Rb7 50.f6 Ke6 51.f7 Ke7 52.Kh6 Kf8 53.Kh7 Rb8 54.g4 Ra8 55.g5 Rb8 56.Kh8 Ra8 )  48.Kg5 Kf3 49.g7 Rg8 50.Kg6
+ * 
+
+
+[Event "Chapter 8"]
+[Site "Game 31"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 8"]
+[Black "Game 31"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/7p/5k1P/3p4/5K2/3b1N2 w - - 0 79"]
+
+79.Ne3 Be2 80.Nc4 Kg4 81.Ke3 Kxh4 82.Kf4 Kh3
+ * 
+
+
+[Event "Chapter 8"]
+[Site "Game 32"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 8"]
+[Black "Game 32"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/7p/5k1P/3p4/5K2/3b1N2 w - - 0 79"]
+
+79.Ne3 Be2 80.Nc4  (80.Nd5+ Kg4 81.Nc3 Kxh4  (81...Bf3 82.Ke3 d2 83.Kxd2 Kxh4 84.Ne2 )  82.Nxe2 dxe2 83.Kxe2 Kg3 84.Kf1 )  80...Kg4 81.Ke3 Kxh4 82.Kf4 Kh3
+ * 
+
+
+[Event "Chapter 8"]
+[Site "Game 33"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 8"]
+[Black "Game 33"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/2KPkp2/2B3pp/R4b2/8/3r4/8/8 w - - 0 53"]
+
+53.Re5+ Be6 54.Re3 Rd6 55.Re2 h5
+ * 
+
+
+[Event "Chapter 8"]
+[Site "Game 34"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 8"]
+[Black "Game 34"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/2KPkp2/2B3pp/R4b2/8/3r4/8/8 w - - 0 53"]
+
+53.Re5+ Be6 54.Re3  (54.Bd5 Rc3+  (54...Rxd5 55.Rxd5 Bxd7 56.Rxd7+ Ke6 57.Kc6 )  55.Bc6 Rd3 )  54...Rd6 55.Re2 h5
+ * 
+
+
+[Event "Chapter 8"]
+[Site "Game 35"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 8"]
+[Black "Game 35"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/2R5/pk6/7p/Pppb4/1P3PB1/2r2PKP/8 w - - 0 37"]
+
+37.h4 Bxf2 38.a5+ Kxa5 39.Bxf2 cxb3 40.Rxc2 bxc2
+ * 
+
+
+[Event "Chapter 8"]
+[Site "Game 36"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 8"]
+[Black "Game 36"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/2R5/pk6/7p/Pppb4/1P3PB1/2r2PKP/8 w - - 0 37"]
+
+37.h4 Bxf2 38.a5+  (38.Rxc4 Rxc4 39.Bxf2+ Rc5 40.Bxc5+ Kxc5 41.f4 Kd4 42.Kf3 Kc3 43.f5 )  38...Kxa5 39.Bxf2 cxb3 40.Rxc2 bxc2
+ * 
+
+
+[Event "Chapter 8"]
+[Site "Game 37"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 8"]
+[Black "Game 37"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r6/5kp1/4pn1p/p1pp4/5PP1/1P1B3P/P1P2K2/4R3 b - - 0 25"]
+
+25...g5 26.fxg5 hxg5 27.Re5 Rg8 28.c4 Nd7 29.Re3 d4
+ * 
+
+
+[Event "Chapter 8"]
+[Site "Game 38"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 8"]
+[Black "Game 38"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r6/5kp1/4pn1p/p1pp4/5PP1/1P1B3P/P1P2K2/4R3 b - - 0 25"]
+
+25...g5 26.fxg5 hxg5 27.Re5 Rg8  (27...Ne4+ 28.Bxe4 Kf6 29.Rxd5 exd5 30.Bxd5 Ke5 31.Bc4 Kf4 32.Bd3 Re8 33.Bf1 Re3 34.a4 Rg3 35.Ke2  (35.Bg2 Rc3 )  35...Re3+ 36.Kf2 Rf3+ 37.Ke2 Kg3 )  28.c4 Nd7 29.Re3 d4
+ * 
+
+
+[Event "Chapter 8"]
+[Site "Game 39"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 8"]
+[Black "Game 39"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4b3/1p2r3/p7/P1PR4/2kPp2p/2P1K2P/8/3B4 w - - 0 42"]
+
+42.Rg5 Bb5 43.Bg4 Kxc3 44.d5 Kb4 45.d6 Re8
+ * 
+
+
+[Event "Chapter 8"]
+[Site "Game 40"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 8"]
+[Black "Game 40"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4b3/1p2r3/p7/P1PR4/2kPp2p/2P1K2P/8/3B4 w - - 0 42"]
+
+42.Rg5 Bb5 43.Bg4  (43.c6 Kxc3 44.Rc5+ Kb4 45.c7 )   (43.Be2+ Kxc3 44.Bxb5 axb5 45.a6 bxa6 46.c6 Rc7 47.Rc5+ Kb4 48.Rc1 Ka5 49.d5 Kb6 50.Kxe4 b4  (50...Rc8 51.Ke5 Re8+ 52.Kd4 Rc8 53.Rg1 b4 54.Rg7 Rc7 55.Rg8 )  51.Ke5  (51.Kd4 )  51...a5 52.d6 Rxc6 53.Rxc6+ Kxc6 54.Ke6 b3 55.d7 b2 56.d8=Q b1=Q 57.Qc8+ Kb5 58.Qb7+ )  43...Kxc3 44.d5 Kb4 45.d6 Re8
+ * 
+
+
+[Event "Chapter 8"]
+[Site "Game 41"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 8"]
+[Black "Game 41"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/p2R4/2r2k1p/2p4N/8/1P6/r1n3PP/4R2K b - - 0 35"]
+
+35...Kf5 36.Rf7+ Kg5 37.Re5+ Kg4 38.Rf4#
+ * 
+
+
+[Event "Chapter 8"]
+[Site "Game 42"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 8"]
+[Black "Game 42"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/p2R4/2r2k1p/2p4N/8/1P6/r1n3PP/4R2K b - - 0 35"]
+
+35...Kf5  (35...Kg5 36.Rg7+ Rg6 37.Re5+ Kh4 38.g3+ Kh3 39.Nf4+ )  36.Rf7+ Kg5  (36...Kg4 37.Rg7+ Rg6  (37...Kxh5 38.Re5+ Kh4 39.g3+ Kh3 40.Rh5# )   (37...Kf5 38.g4# )  38.Nf6+  (38.Rxg6+ Kxh5 )  38...Kg5 39.Nh7+  (39.Ne4+ Kh5 40.g4+ Kh4 )  39...Kh5 40.Re5+  (40.g4+ Kh4 )  40...Kg4 41.Rxg6+ Kf4 )  37.Re5+
+ * 
+
+
+[Event "Chapter 8"]
+[Site "Game 43"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 8"]
+[Black "Game 43"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/4K1R1/1r6/4kb2/8/8/8/8 b - - 0 80"]
+
+80...Bg6 81.Kf8 Kf6 82.Rf7+ Kg5 83.Rg7 Kh6 84.Rc7
+ * 
+
+
+[Event "Chapter 8"]
+[Site "Game 44"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 8"]
+[Black "Game 44"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/4K1R1/1r6/4kb2/8/8/8/8 b - - 0 80"]
+
+80...Bg6 81.Kf8 Kf6 82.Rf7+ Kg5 83.Rg7 Kh6  (83...Rb8+ 84.Ke7 Kh6 )  84.Rc7  (84.Rc7 Re6 85.Re7  (85.Rc8 )  85...Rf6+ 86.Kg8 Bf5 87.Re8 Bd7  (87...Kg6 88.Rd8 Be6+ 89.Kh8 Rf5 90.Rd5 Rf8# )  88.Rd8 Be6+ 89.Kh8 Kg6 90.Re8 Kf7 )
+ * 
+
+
+[Event "Chapter 8"]
+[Site "Game 45"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 8"]
+[Black "Game 45"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7Q/7q/7k/p1p1p3/P1P2p2/5P2/1P1p3P/6K1 w - - 0 57"]
+
+57.Qd8 Qb1+ 58.Kg2 d1=Q 59.Qf8+ Kg5 60.Qe7+ Kh5
+ * 
+
+
+[Event "Chapter 8"]
+[Site "Game 46"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 8"]
+[Black "Game 46"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7Q/7q/7k/p1p1p3/P1P2p2/5P2/1P1p3P/6K1 w - - 0 57"]
+
+57.Qd8 Qb1+ 58.Kg2 d1=Q 59.Qf8+ Kg5 60.Qe7+  (60.h4+ Kg6  (60...Kxh4 61.Qh6# )   (60...Kh5 61.Qh8+ Kg6 )  61.Qg8+  (61.Qe8+ )  61...Kh6  (61...Kf6 62.Qf8+ )  62.Qf8+  (62.Qg5+ Kh7 63.Qe7+ )  )  60...Kh5 61.Qxe5+ Kh6 62.Qxf4+ Kg6 63.Qg3+ Kf6 64.Qh4+ Kf7 65.Qf4+ Ke6 66.Qh6+ Kd7 67.Qg7+ Kc6 68.Qg6+ Qxg6+
+ * 
+
+
+[Event "Chapter 8"]
+[Site "Game 47"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 8"]
+[Black "Game 47"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/p2N1p1n/4q1p1/7p/8/4PB1P/5PP1/R2R2K1 w - - 0 32"]
+
+32.Rxa7 Rd8 33.Ra8 Rxa8 34.Bxa8 Kg7 35.Rd4 h4
+ * 
+
+
+[Event "Chapter 8"]
+[Site "Game 48"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 8"]
+[Black "Game 48"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/p2N1p1n/4q1p1/7p/8/4PB1P/5PP1/R2R2K1 w - - 0 32"]
+
+32.Rxa7 Rd8 33.Ra8  (33.Nf6+ Qxf6 34.Rxd8+ Qxd8 35.Ra8 )  33...Rxa8 34.Bxa8 Kg7 35.Rd4 h4
+ * 
+
+
+[Event "Chapter 9"]
+[Site "Game 1"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 9"]
+[Black "Game 1"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/P4k2/6p1/1P4K1/3B3P/8/8/7b w - - 0 44"]
+
+44.Bf6 Bg2  (44...Be4 45.h5 gxh5 46.Kf4 )  45.h5 gxh5 46.Kf5  (46.Kf5 Bh1 47.Bh4 Bg2  (47...Ke8 48.Ke6 )  48.Ke5 Bh1 49.Kd6 Ke8 50.Kc7 )
+ * 
+
+
+[Event "Chapter 9"]
+[Site "Game 2"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 9"]
+[Black "Game 2"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/2B2p1p/8/3K4/6k1/8/7P/8 b - - 0 43"]
+
+43...f5 44.Ke5 f4 45.Ke4 f3 46.Ke3 h5 47.Kf2 h4 48.Bd6 Kh3
+ * 
+
+
+[Event "Chapter 9"]
+[Site "Game 3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 9"]
+[Black "Game 3"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/3k2p1/1p1n1p1p/1P1K3P/2B2PP1/8/8 b - - 0 74"]
+
+74...Nxc3  (74...Ne7 75.Bd2 Nc6+ 76.Kd3 Kd5 77.Bc3 )  75.Kxc3 Kd5  (75...Ke5 76.Kd3 f4 77.g4 Kd5 )  76.Kd3 Ke5 77.Ke3  (77.f4+ Kd5 )  77...f4+ 78.gxf4+ Kf5 79.Ke2 Kxf4 80.Kf2 Ke5 81.Ke3 Kf5 82.Ke2  (82.f4 Kg4 )  82...g5 83.hxg5 Kxg5 84.Kf2  (84.Ke3 h4 )  84...Kf4 85.Kg2 h4
+ * 
+
+
+[Event "Chapter 9"]
+[Site "Game 4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 9"]
+[Black "Game 4"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/2R2pk1/6p1/4P1Kp/5P2/6P1/4r2P/8 w - - 0 46"]
+
+46.Re7 Ra2  (46...Re1 47.e6 Rxe6 48.Rxe6 fxe6 49.h3 Kf7 50.Kh6 Kf6  (50...h4 51.g4 Kf6 52.g5+ )  51.g4 h4 52.g5+ Kf5  (52...Kf7 53.Kh7 )  53.Kg7 Kxf4 54.Kxg6 e5 55.Kf6 e4 56.g6 e3 57.g7 e2 58.g8=Q e1=Q 59.Qg4+ Ke3 60.Qe6+ Kf2 61.Qxe1+ Kxe1 62.Kg5 )   (46...Rxh2 47.e6 )  47.f5  (47.e6 Ra5+ 48.Kh4 Kf6 )  47...gxf5  (47...Kf8 48.Kf6 Ra6+ 49.e6 )  48.e6 h4  (48...Rxh2 49.Rxf7+ Kg8 50.Kf6 )  49.Rxf7+ Kg8 50.Kf6
+ * 
+
+
+[Event "Chapter 9"]
+[Site "Game 5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 9"]
+[Black "Game 5"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1k3r2/1P6/6P1/8/K7/8/8/1R6 w - - 0 1"]
+
+1.Rb5  (1.Rb6 Rf1 2.Ka3  (2.Kb5 Rb1+ 3.Kc5 Rxb6 )  2...Rc1 3.Kb2 Rc5 )   (1.Ka5 Rf6 2.Rg1 Rf8 3.Ka6  (3.Kb5 Kxb7 4.Kc5 Kc7 5.Kd5 Kd7 6.Ke5 Ke7 7.Rh1 Rf2 )  3...Rg8 4.Kb5  (4.g7 Rxg7 )  4...Kxb7 5.Kc5 Kc7 6.Kd5 Kd7 7.Ke5 Ke7 8.Kf5 Rf8+ 9.Kg5 Rf2 10.Kh6 Kf8 )  1...Rf6  (1...Rf4+ 2.Kb3  (2.Rb4 Rf1 3.Rg4 Rf8 )  2...Rg4 3.Rb6 )  2.Rg5 Rf8 3.Kb5 Kxb7 4.Kc5 Kc7 5.Kd5 Kd7 6.Ke5 Ke7 7.Rf5
+ * 
+
+
+[Event "Chapter 9"]
+[Site "Game 6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 9"]
+[Black "Game 6"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6R1/8/3N1p1p/7P/4pk2/7K/2r5 b - - 0 55"]
+
+55...Rc2+  (55...f4 56.Rf7 Rc2+ 57.Kh3 Rc4 58.Nxe3 Kxe3 59.Ra7 )  56.Kh3 e2 57.Rg3+  (57.Re7 Rc1 )  57...Ke4  (57...Kf2 58.Nf4 )  58.Re3+ Kxd5 59.Re8 f4  (59...Kd4 60.Kg3 Kd3 61.Kf3 )  60.Rxe2
+ * 
+
+
+[Event "Chapter 9"]
+[Site "Game 7"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 9"]
+[Black "Game 7"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1R6/1P3p2/5k1p/4p1p1/2K1P1P1/5PP1/8/1r6 w - - 0 53"]
+
+53.Kc5 Rc1+ 54.Kd6 Rd1+ 55.Kc6 Rc1+ 56.Kd7 Rb1 57.Ke8 Kg7  (57...Rb2 58.Kf8 Kg6  (58...Rb1 59.Rc8 Rxb7 60.Rc6# )  59.Ke7  (59.Kg8 Rb1 60.Kh8 Kf6 61.Rc8 Rxb7 62.Rc6+ Ke7 63.Kg7 )  )  58.Ke7 Rb2  (58...Rb6 59.Kd7 Rb1 60.Kd6 Kf6 )   (58...f6 59.Kd6 Rd1+ 60.Ke6 Rb1 61.Rd8 Rxb7 62.Rd7+ Rxd7 63.Kxd7 Kf7 64.Kd6 Kg6 65.Ke6 Kg7 66.Ke7 Kg6 67.Kf8 h5 68.gxh5+ Kxh5 69.Kg7 g4 70.fxg4+ Kxg4 71.Kxf6 )  59.Kd6 Kf6 60.f4 exf4 61.gxf4 gxf4 62.Rg8 Rb6+  (62...Rxb7 63.e5# )  63.Kc7 Rxb7+ 64.Kxb7 f3 65.Kc6 Ke5 66.Re8+ Kf4 67.Kd5 f6  (67...f2 68.Rf8 )  68.Rf8
+ * 
+
+
+[Event "Chapter 9"]
+[Site "Game 8"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 9"]
+[Black "Game 8"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/R5p1/5p2/5P1p/7P/6P1/p5K1/r2k4 b - - 0 59"]
+
+59...Rc1  (59...Ke2 60.Ra6 Ke3 61.Ra3+ Ke4 62.Ra5 )  60.Rxa2 Rc2+ 61.Rxc2 Kxc2 62.Kf3 Kd3 63.g4 hxg4+ 64.Kxg4 Ke4 65.Kh5 Kxf5
+ * 
+
+
+[Event "Chapter 9"]
+[Site "Game 9"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 9"]
+[Black "Game 9"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/7k/6R1/5K1P/8/8/3b4/8 w - - 0 66"]
+
+66.h6  (66.h6 Bc1  (66...Bxh6 67.Kf6 )  67.Rg7+ Kxh6 68.Rg6+ Kh7  (68...Kh5 69.Rg1 )  69.Kf6 Be3 70.Kf7 Ba7 71.Ra6 Bb8 72.Ra8 Bc7 73.Rc8 Bf4  (73...Bd6 74.Rc3 Kh6 75.Rc6 )  74.Rc4 Bg5 75.Rc3 )
+ * 
+
+
+[Event "Chapter 9"]
+[Site "Game 10"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 9"]
+[Black "Game 10"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1p3k1p/p1bPp3/P3B1K1/8/5P2/1P4P1/8 w - - 0 55"]
+
+55.Kh6 Kg8 56.g4  (56.g4 Bd7 57.g5 Bc6 58.f4 Bd7 59.Bg7 Be8 60.b3 Bc6 61.g6 hxg6 62.Kxg6 )
+ * 
+
+
+[Event "Chapter 9"]
+[Site "Game 11"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 9"]
+[Black "Game 11"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/p7/1p6/3k1p1p/P2P3P/3KP3/8/8 w - - 0 48"]
+
+48.Kc3 a6  (48...Ke4 49.Kb4 Kxe3 50.d5 f4 51.d6 f3 52.d7 f2 53.d8=Q f1=Q 54.Qg5+ )  49.Kd3 a5 50.Kc3 Ke4 51.Kd2  (51.Kc4 Kxe3 52.d5 f4 53.d6 f3 54.d7 f2 55.d8=Q f1=Q+ 56.Kc3 Qc1+ 57.Kb3 Qb1+ 58.Kc3 Qb4+ )  51...f4 52.exf4 Kxd4 53.f5  (53.Ke2 Ke4 54.f5 )  53...Ke5 54.Ke3 Kxf5 55.Kf3 Ke5 56.Ke3 Kd5 57.Kd3 Kc5 58.Kc3 b5 59.axb5 Kxb5 60.Kb3  (60.Kb3 Kc5 61.Ka4 Kd4 62.Kxa5 Ke4 63.Kb4 Kf4 64.Kc3 Kg4 65.Kd2 Kxh4 66.Ke1 Kg3 67.Kf1 )
+ * 
+
+
+[Event "Chapter 9"]
+[Site "Game 12"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 9"]
+[Black "Game 12"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/p7/8/bPp4p/P4Nk1/4K1P1/8 w - - 0 80"]
+
+80.Kd2 Bc6  (80...h3 81.gxh3 Kxf3 )  81.Nxh4 Kxh4 82.Kc3 Bb5  (82...Bb5 83.a4 Kg3 )
+ * 
+
+
+[Event "Chapter 9"]
+[Site "Game 13"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 9"]
+[Black "Game 13"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/2k2p2/2n1p1p1/1pPpP1P1/1P3KP1/3N4/8 b - - 0 66"]
+
+66...Nd3  (66...Kb7 67.Ke2 Ka6 68.Kf3 Ka5 69.Ke2 Nb7 70.Kd3 Kb6 71.Ke2 Nc5 )  67.Ke2 Nc1+ 68.Kd1 Na2 69.Ke2 Nc3+ 70.Kf3  (70.Kd3 Nd1 71.Ke2 Ne3 72.Kf3 Kc5 73.Nb1 Nd1 )  70...Kc5 71.Kf2 Nd1+ 72.Ke2  (72.Kf3 d3 )  72...Ne3 73.Kf3 Kc6 74.Nb1 Kd6 75.Nd2 Kc5 76.Nb1 Nd1  (76...Nxc4 )  77.Nd2  (77.Ke2 Nc3+ 78.Nxc3 bxc3 79.Kd3 Kb4 80.Kc2 d3+ 81.Kxd3 Kxb3 82.c5 c2 )  77...d3
+ * 
+
+
+[Event "Chapter 9"]
+[Site "Game 14"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 9"]
+[Black "Game 14"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/3k4/7K/6P1/7R/8/5r2 b - - 0 52"]
+
+52...Ke7 53.Kg6 Rf6+ 54.Kg7 Rf7+ 55.Kg6 Rf6+ 56.Kg5 Rf1  (56...Ra6 57.Rf3  (57.Rf3 Ra8 58.Kh6 )  )  57.Rh7+ Kf8 58.Kg6 Kg8 59.Rg7+ Kf8  (59...Kh8 60.Rf7 )  60.Ra7  (60.Ra7 Rb1 61.g5 Rg1 62.Ra8+ Ke7 63.Rg8 Rg2  (63...Ra1 64.Kh7 )  64.Kh7 )
+ * 
+
+
+[Event "Chapter 9"]
+[Site "Game 15"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 9"]
+[Black "Game 15"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/pp3pp1/1qB1p2p/4Q3/2R5/1P4P1/P3PP1P/6K1 b - - 0 21"]
+
+21...Rxc6  (21...bxc6 22.Rg4 g5  (22...g6 23.Rxg6+ fxg6 24.Qxe6+ )  23.Qf6 Qd8 24.Qxh6 f6 25.h4 )  22.Qb8+ Kh7 23.Rxc6 bxc6  (23...Qxc6 24.Qxa7 )  24.Qxb6 axb6 25.a4  (25.b4 b5 )  25...c5 26.Kg2  (26.f3 Kg6 27.Kf2 Kf5 28.Ke3 Ke5 29.Kd3 Kd5 30.e4+ Kc6 )   (26.f4 Kg6 27.Kf2 Kf6  (27...Kf5 28.Ke3 e5  (28...Kg4 29.Kd3 Kh3 30.Kc4 Kxh2 31.Kb5 Kxg3 32.Kxb6 h5 33.a5 h4 34.a6 h3 35.a7 h2 36.a8=Q )  29.Kd3 exf4 30.gxf4 Kxf4 31.Kc4 Ke3 32.Kb5 Kxe2 33.Kxb6 f5 34.a5 f4 35.a6 f3 36.a7 f2 37.a8=Q f1=Q 38.Qa6+ Kf2 39.Qxf1+ Kxf1 40.Kxc5 )  28.Ke3 Ke7 29.Kd3 Kd6 30.Kc4 Kc6 31.e4 f5 32.e5 g6  (32...g5 33.h3 g4 34.hxg4 fxg4 35.Kd3 Kd5 36.Ke3 h5 37.Kd3 )  33.h3  (33.h4 h5 )  33...g5 34.h4  (34.fxg5 hxg5 35.h4 f4 )  34...gxh4 35.gxh4 h5 )  26...Kg6 27.Kf3 Kf5 28.Ke3 Ke5 29.Kd3 Kd5 30.e4+ Kc6  (30...Kd6 31.Kc4 Kc6 32.e5 )   (30...Ke5 31.Kc4 Kxe4 32.Kb5 )  31.Kc4 f5  (31...e5 32.g4 g6 33.h4 g5 34.h5 f6 35.f3 Kc7 36.Kb5 Kb7 37.a5 bxa5 38.Kxc5 Ka6 39.Kc6 )   (31...f6 32.g4 g6 33.f4 )  32.exf5 exf5 33.h4 g6  (33...g5 34.hxg5 hxg5 35.f3 )  34.f3 g5  (34...h5 35.f4 )  35.h5
+ * 
+
+
+[Event "Chapter 9"]
+[Site "Game 16"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 9"]
+[Black "Game 16"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/B7/8/5kp1/5p2/5P2/1r4P1/5K2 b - - 0 44"]
+
+44...g4 45.fxg4+ Kxg4 46.Bf2 Rb1+  (46...f3 47.Kg1 Rb1+ 48.Kh2 Kf4 49.gxf3 Kxf3 50.Ba7 )  47.Ke2 Rc1  (47...Rh1 48.Be1 )  48.Kd2 Rh1 49.Ke2 Rh2 50.Kf1 f3 51.Kg1 Rxg2+ 52.Kf1
+ * 
+
+
+[Event "Chapter 9"]
+[Site "Game 17"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 9"]
+[Black "Game 17"]
+[Result "*"]
+[SetUp "1"]
+[FEN "R7/8/5p2/4p2p/4P2P/4kP2/p5K1/r7 b - - 0 72"]
+
+72...Rd1 73.Ra3+ Rd3 74.Rxa2  (74.Ra6 Rd2+ 75.Kg3 Rc2 76.Ra8 Kd2 )  74...Rd2+ 75.Rxd2 Kxd2 76.Kh2
+ * 
+
+
+[Event "Chapter 9"]
+[Site "Game 18"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 9"]
+[Black "Game 18"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1R6/6pk/5p1n/5P1P/4K2P/8/8/8 w - - 0 54"]
+
+54.Kf4 Nf7 55.Re8 Nh6  (55...Nd6 56.Rf8 Nb5 57.h6 )  56.Rf8 Ng8 57.Rxg8 Kxg8 58.h6 gxh6 59.Ke4 Kf7 60.Kd5 Ke7 61.Kc6
+ * 
+
+
+[Event "Chapter 9"]
+[Site "Game 19"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 9"]
+[Black "Game 19"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6K1/1Pk3p1/2P3Pp/8/5n2/8/8 w - - 0 54"]
+
+54.Kxg6 h4 55.Kf5 h3 56.g6 Nh4+ 57.Kf4 h2  (57...Nxg6+ 58.Kg3 )  58.g7 h1=Q  (58...Ng6+ 59.Kg3 h1=Q 60.g8=Q Qg1+ )  59.g8=Q Qf3+ 60.Ke5 Qe3+  (60...Qf5+ 61.Kd4 )  61.Kf6 Qf4+ 62.Ke7 Nf5+ 63.Ke8  (63.Kf6 Nh6+ )   (63.Ke6 Qc4+ )  63...Qb8+ 64.Kf7 Nh6+
+ * 
+
+
+[Event "Chapter 9"]
+[Site "Game 20"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 9"]
+[Black "Game 20"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3b2k1/5p2/4p2p/p1p1P1pP/PpP1KPP1/1P4B1/8/8 w - - 0 61"]
+
+61.Bf2  (61.f5 Kf8 62.Bf2 Bb6 )  61...Be7  (61...Bb6 62.fxg5 hxg5 63.Be3 )  62.f5 Kh7 63.f6 Bf8 64.Be1 Kg8 65.Bd2  (65.Bxb4 )  65...Kh8 66.Bxb4 cxb4  (66...axb4 67.a5 )  67.Kd4
+ * 
+
+
+[Event "Chapter 9"]
+[Site "Game 21"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 9"]
+[Black "Game 21"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/p7/1p3R2/1P4kp/8/6P1/r7/6K1 w - - 0 42"]
+
+42.Rf2  (42.Rf4 Rb2 43.Ra4 Rxb5 44.Rxa7 Kg4 45.Rg7+ Kf3 46.Rg6 Rb2 47.Rg5 b5 48.Rxh5 b4 49.Rb5 b3 50.Rb8 Kxg3 51.Kf1 Kf3 52.Ke1 Ke3 53.Re8+  (53.Kd1 Rb1# )  53...Kd3 54.Rd8+ Kc2 55.Rc8+ Kb1 56.Rb8 Kc1 57.Rb7 Rb1 58.Rh7 Kc2+ 59.Ke2 Rg1 60.Rc7+ Kb1 61.Rd7 b2 62.Kd2 Rg5 63.Rh7 Ra5 )  42...Rxf2  (42...Ra1+ 43.Kg2 Rb1 44.Rf7 )  43.Kxf2 Kf5  (43...Kg4 44.Kg2 h4 45.gxh4 Kxh4 46.Kf3 Kg5 47.Ke4 Kf6 48.Kd5 Ke7 49.Kc6 Kd8 50.Kb7 )  44.Kg2  (44.Kf3 Ke5 45.Ke3 Kd5 )  44...Ke4 45.Kh3 Kf3  (45...Kd5 46.Kh4 Kc4 47.Kxh5 Kxb5 48.g4 a5 49.g5 a4 50.g6 a3 51.g7 a2 52.g8=Q a1=Q 53.Qd5+ )   (45...Ke3 )  46.Kh4 Kf2  (46...Kg2 47.g4 hxg4 48.Kxg4 )  47.Kh3 Kg1 48.Kh4 Kh2 49.g4  (49.Kxh5 Kxg3 )  49...hxg4 50.Kxg4 Kg2 51.Kf4 Kf2 52.Ke4 Ke2 53.Kd4 Kd2 54.Kc4 Ke3 55.Kd5 Kd3 56.Kc6 Kc4
+ * 
+
+
+[Event "Chapter 9"]
+[Site "Game 22"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 9"]
+[Black "Game 22"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5k1n/8/2p5/2PpPQK1/3P2P1/5q2/8/8 b - - 0 55"]
+
+55...Nf7+  (55...Qxf5+ 56.Kxf5  (56.gxf5 Nf7+ )  56...Nf7  (56...Kf7 57.e6+ Kf8 58.Kf6 Nf7 59.g5 )   (56...Ke7 57.e6 Kf8 58.Kf6 Nf7 59.g5 )  57.Ke6  (57.Kf6 Nh6 58.g5 Ng8+ 59.Ke6 Ke8 60.Kd6 Ne7 61.Kc7 )  57...Ke8 58.Kf6 Nh6 59.g5 Ng8+ 60.Kg7 Ne7 61.g6 Nf5+ 62.Kf6 Nh6 63.g7 Ng8+ 64.Kg6 Ne7+ 65.Kh6 Kf7 66.Kh7 )  56.Kf6  (56.Kg6 Qxf5+ 57.gxf5 Nxe5+  (57...Ke7 )  58.dxe5 d4 59.e6 d3 60.f6 d2 61.e7+ Ke8 62.Kg7 d1=Q 63.f7+ Kxe7 64.f8=Q+ Kd7 )  56...Qxf5+ 57.gxf5 Nd8  (57...Ke8 58.e6  (58.Ke6 Ng5+ 59.Kd6 Nf3 )  58...Kf8 )  58.e6 Nf7 59.Kg6 Nd8 60.Kf6 Nf7 61.exf7
+ * 
+
+
+[Event "Chapter 9"]
+[Site "Game 23"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 9"]
+[Black "Game 23"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/p2n3R/P1kP4/2p5/3P4/4r3/2PN4/7K w - - 0 39"]
+
+39.d5+ Kxd5  (39...Kxd6 40.Nc4+ )  40.Rxd7 Re1+ 41.Kg2 Re2+ 42.Kf3 Rxd2 43.Rxa7 Kxd6 44.Rd7+ Kxd7 45.a7
+ * 
+
+
+[Event "Chapter 9"]
+[Site "Game 24"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 9"]
+[Black "Game 24"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/3P3p/5ppP/2p1q3/8/2Q5/1P3P2/1K1R4 b - - 0 37"]
+
+37...Qxc3  (37...Qe7 38.Qb3+ Kh8 39.Qd5 Rd8 40.Rd3 )  38.bxc3 Rd8 39.Kb2 Kf7 40.Kb3 Ke7 41.Kc4 Rxd7 42.Rxd7+ Kxd7 43.Kxc5 g5  (43...Kc7 )  44.Kd5  (44.c4 Kc7 45.Kd5 Kd7 )  44...Ke7 45.c4  (45.Kc6 f5 46.Kd5 Kf6 47.c4 g4 48.c5 f4 )  45...Kd7  (45...g4 46.Ke4 Ke6 47.Kf4 f5 48.c5 Kd5 49.Kxf5 Kxc5 50.Kxg4 Kd6 51.Kf5 Ke7 52.f4  (52.f3 Kf7 53.f4 Ke7 )  52...Kf7 53.Ke5 Ke7 54.f5 Kf7 55.f6 Kf8 )  46.c5 g4 47.c6+ Kc7 48.Ke6 Kxc6 49.Kxf6 Kd6 50.Kf5 Ke7 51.Kxg4 Kf6 52.f4 Kg6
+ * 
+
+
+[Event "Chapter 10"]
+[Site "Game 1"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 10"]
+[Black "Game 1"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r2/2P5/pR6/P5pP/3pk1P1/3p4/3K4/8 b - - 0 48"]
+
+48...Rf2+ 49.Ke1 d2+  (49...Rc2 50.Re6+ Kd5 51.Re7 )  50.Kxf2 d1=Q 51.Re6+  (51.c8=Q Qd2+ )  51...Kd3 52.c8=Q Qd2+ 53.Kg1 Qc1+ 54.Qxc1
+ * 
+
+
+[Event "Chapter 10"]
+[Site "Game 2"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 10"]
+[Black "Game 2"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6Q1/8/8/8/1P2K3/1r3p2/7k w - - 0 109"]
+
+109.Qh8+  (109.Qxb2 f1=Q )   (109.Qf6 Kg1 110.Qxb2 )  109...Kg1 110.Qxb2 f1=Q 111.Qd4 Qg2  (111...Qb1 112.Kf3+ )  112.Qd1+
+ * 
+
+
+[Event "Chapter 10"]
+[Site "Game 3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 10"]
+[Black "Game 3"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/B4k2/5b1p/1P3p2/1p3P2/4K3/5P2/8 b - - 0 53"]
+
+53...Be7  (53...b3 54.b6 b2 55.b7 b1=Q 56.b8=Q Qe4+ 57.Kd2 h5 )  54.Kd4  (54.b6 Bc5+ )   (54.Bd4 Ke6 55.b6 Kd6 )  54...h5 55.b6 b3 56.b7  (56.Kc3 Bc5 57.Kxb3 h4 )   (56.Kd5 b2 57.b7 b1=Q 58.b8=Q Qe4# )  56...Bd6 57.Kc3  (57.b8=Q Bxb8 58.Bxb8 b2 )  57...h4 58.Bd4  (58.f3 h3 59.Bg1 Bxf4 )  58...Bb8 59.Be5 Ba7  (59...b2 60.Kxb2 Ba7 )  60.Bd4 b2 61.Kc2  (61.Bxa7 b1=Q 62.b8=Q Qxb8 63.Bxb8 h3 )  61...Bb8  (61...Bb8 62.f3 h3 63.Bg1 Bxf4 )
+ * 
+
+
+[Event "Chapter 10"]
+[Site "Game 4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 10"]
+[Black "Game 4"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/4N1k1/2pP3p/5R2/3K4/3n1prP/8 w - - 0 46"]
+
+46.h3  (46.d6 Rxh2 47.d7 f1=Q+ 48.Rxf1 Nxf1 )   (46.h4 c4+ 47.Kc3 Ne4+ 48.Kxc4 Rg4 49.Kd3 Rxf4 50.Nxf4+ Kf5 )  46...Rh2  (46...f1=Q+ 47.Rxf1 Nxf1 48.Nf4+ )  47.d6 f1=Q+ 48.Rxf1 Nxf1 49.d7 Rd2+ 50.Kc4 Ng3  (50...Kf5 51.d8=Q Rxd8 52.Nxd8 Kf4 53.Ne6+ Kg3 54.Ng7 )  51.d8=Q Rxd8 52.Nxd8 Ne4 53.Ne6 h4 54.Nxc5 Nf2 55.Nd3
+ * 
+
+
+[Event "Chapter 10"]
+[Site "Game 5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 10"]
+[Black "Game 5"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/7k/6pP/6P1/K1p5/P7/8/2B1b3 w - - 0 67"]
+
+67.Be3  (67.Kb5 c3 68.a4 Bd2 69.Ba3 c2 70.a5 Bxg5 71.a6 Be3 )  67...Kg8  (67...c3 68.Kb3 )  68.Kb5 c3 69.Kc4 Bd2 70.Kd3 Be1 71.a4
+ * 
+
+
+[Event "Chapter 10"]
+[Site "Game 6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 10"]
+[Black "Game 6"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6n1/5k2/8/3p2PP/3P2P1/5K2/8/8 w - - 0 59"]
+
+59.g6+  (59.Kf4 Ke6 60.g6  (60.Kf3 Ne7 61.g6 Kf6 62.Kf4 Ng8 )  60...Kf6 61.g5+ Ke6 62.g7 Ne7 63.h6  (63.Kg4 Kf7 64.h6 Ng6 )   (63.g6 Kf6 )  63...Ng6+ 64.Kg4 Kf7 65.Kf5 Nh4+  (65...Kg8 66.Kf6 Nh4 67.h7+ )  66.Ke5 Nf3+ 67.Kxd5 Nxg5 68.Kc6 Kg8 69.d5 Nf7 70.d6 Nxh6 71.d7 Nf7 )  59...Ke6 60.Kg3  (60.Ke3 )   (60.Kf4 Kf6 )  60...Kf6  (60...Ke7 61.g5 Ke6 62.Kf4 Ne7 63.g7 )   (60...Ne7 61.Kf4 Kf6 )  61.Kf4 Ne7  (61...Ke6 62.Kg5 )  62.g5+ Ke6 63.g7 Kf7  (63...Ng8 64.h6 )  64.Ke5  (64.h6 Ng6+ 65.Kf5 Nh4+ )  64...Kxg7 65.Ke6 Kf8 66.h6 Ng6 67.Kf6
+ * 
+
+
+[Event "Chapter 10"]
+[Site "Game 7"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 10"]
+[Black "Game 7"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3R4/4bpk1/4r3/4PKBP/8/8/8/8 w - - 0 61"]
+
+61.h6+  (61.Re8 Rxe5+ 62.Kxe5 Bxg5 63.Kf5 Bc1 64.Re1 Bd2 65.Rg1+ Kh6 66.Rh1 Kg7 )  61...Kh7 62.Bxe7  (62.Rd7 Rxe5+ 63.Kxe5 Bxg5 )  62...Rxe7 63.Rf8 Kxh6 64.Kf6 Re6+ 65.Kxf7 Rxe5 66.Kf6
+ * 
+
+
+[Event "Chapter 10"]
+[Site "Game 8"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 10"]
+[Black "Game 8"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r4/k1K2p2/P2B2p1/4P2p/5P1P/5P2/8/8 b - - 0 72"]
+
+72...Ra8  (72...Rb8 73.Bc5+  (73.Kd7 Rb3 74.Be7 Rxf3 75.Bg5 Rc3 76.Ke8 Rc7 77.Be7 Kxa6 78.Kxf7 Kb5 79.e6 Kc4 80.Kf6 Kd5 81.Bf8 Rc6 )  73...Ka8 74.Kd7 Rb3 75.Be7 Rxf3 76.Bg5 Rc3 77.Ke8 Rc7 78.Be7 Ka7 79.Kxf7 Kxa6 80.e6 Kb7 81.Kf6 Rc6 82.Bf8  (82.Bd8 )  82...Kc7 83.Kf7 Rc4 84.Bh6 Re4 85.Bg5 Kd6 86.e7 Kd7 87.Kxg6 Ke8 88.Kxh5 Kf7 89.Kg4 )   (72...Re8 73.Kd7 Re6 74.Be7 )   (72...Rh8 73.Kd7 Kxa6 74.Ke7 Rh7 75.Kf8 )  73.Kd7 Kxa6 74.Ke7 Ra7+ 75.Kf6 Kb6 76.Be7 Kc6 77.Kxf7 Kd5 78.Kf6  (78.e6 Rb7 79.Kf6 Rb6 )  78...Ra4  (78...Ra6+ 79.Bd6 Ra4 )  79.f5 Rf4 80.Kxg6 Kxe5 81.f6 Ke6
+ * 
+
+
+[Event "Chapter 10"]
+[Site "Game 9"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 10"]
+[Black "Game 9"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/2K5/R1P1k3/2P5/8/8/pr6/8 w - - 0 57"]
+
+57.Ra5  (57.Kc8 Kd5 58.c7 Kxc5 59.Kd8 Rd2+ 60.Ke7 Re2+ )  57...Rc2  (57...Ke7 58.Kc8 )  58.Kb7 Rb2+  (58...Rxc5 59.Rxa2 )  59.Kc8 Ke7  (59...Kd5 60.Kd7 )  60.c7 Ke8 61.Rxa2 Rxa2 62.Kb7  (62.Kb7 Rb2+ 63.Kc6 )
+ * 
+
+
+[Event "Chapter 10"]
+[Site "Game 10"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 10"]
+[Black "Game 10"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1k2r3/7P/8/6PK/1r6/8/4p3/4R3 b - - 0 57"]
+
+57...Kc7  (57...Rd4 58.Rxe2 Red8 59.g6 Rd1 60.Kh6 Rh1+ 61.Kg7 Rd7+ 62.Kg8 Rd8+ 63.Kf7 Rf1+ 64.Ke7 Rh8 65.Rh2 Rg1 66.Kf7 Rf1+ 67.Kg7 Rff8 68.Kh6 Rf6 69.Kg5 Rc6 70.g7 )  58.g6 Re5+  (58...Kd6 59.g7 Re5+ 60.Kh6 Rh4+ 61.Kg6 Rg4+ 62.Kf6  (62.Kh6 Re3 63.Kh5 Rxg7 )  62...Re6+ 63.Kf5 Ree4 )  59.Kh6 Rh4+ 60.Kg7 Kd7  (60...Kd6 )  61.h8=Q Re7+
+ * 
+
+
+[Event "Chapter 10"]
+[Site "Game 11"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 10"]
+[Black "Game 11"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/2Pk1p2/8/7R/5Ppp/7r/6K1 w - - 0 46"]
+
+46.f4 Kxc6  (46...f5 47.c7 Kxc7 48.Rh6 )  47.f5 Kd5 48.Rg4 Rg2+ 49.Kh1 Rf2  (49...Ke5 50.Re4+ )  50.Rxg3 Rxf5 51.Rxh3 Rg5 52.Ra3
+ * 
+
+
+[Event "Chapter 10"]
+[Site "Game 12"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 10"]
+[Black "Game 12"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7r/2k5/8/P7/5PK1/8/7p/7R b - - 0 62"]
+
+62...Kd6  (62...Kd7 63.Kg3 Ra8 64.Rxh2 Rxa5 65.Re2 Ra8 66.Kg4 Rg8+  (66...Re8 67.Rxe8 Kxe8 68.Kg5 Kf7 69.Kf5 )  67.Kh5 Rf8 68.Kg5 Rg8+ 69.Kh6 Rf8 70.Re4 Kd6 71.Kg7 )  63.Kg3 Ra8 64.Rxh2 Rxa5 65.Re2 Ra8 66.Kg4  (66.f5 Kd7 67.Kf4 Re8 )   (66.Re5 Rg8+ 67.Kh4 Rh8+ 68.Kg4 Ra8 )  66...Rg8+ 67.Kh5 Rf8 68.Kg5 Rg8+ 69.Kh6 Rf8 70.Re4 Kd5
+ * 
+
+
+[Event "Chapter 10"]
+[Site "Game 13"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 10"]
+[Black "Game 13"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/2K5/p4r1p/R6P/3k4/8 w - - 0 72"]
+
+72.Kc6  (72.Kb5 Ke2 73.Kc5 Kf2 74.Kd5 Rf3  (74...Kg2 75.Ke5 Rf3 76.Rxa4 Kxh3 77.Ke4 Kg2 )  75.Rxa4 Kg3 76.Ra8 Kxh3 77.Rg8 Rf4 78.Ke5 Ra4 79.Kf5  (79.Rb8 Kg3 80.Rb3+ Kg4 )  79...Kh2 80.Rb8 h3 81.Rb2+ Kg3 82.Rb3+ Kh4 83.Rb2 Rg4 84.Rb8  (84.Ra2 Rg2 85.Ra4+ Kh5 86.Ra8 Rf2+ 87.Ke4 h2 88.Ke3 Rf6 )  84...Rg5+ 85.Kf4 h2 )   (72.Kd6 Kc2 )  72...Ke2  (72...Kc2 73.Kb5 Re4 74.Rxa4 Rxa4 75.Kxa4 Kd3 76.Kb3 Ke3 77.Kc3 Kf3 78.Kd3 Kg3 79.Ke3 Kxh3 80.Kf2 )  73.Kd5 Kf2 74.Ke5 Rf3  (74...Rb4 75.Kf5 Ke2 76.Ke5 Kd2 77.Kd5 Rb3 78.Rxa4 Rxh3 79.Ke5 )  75.Rxa4 Kg3 76.Rg4+  (76.Ra8 )  76...Kxh3 77.Rg8 Kh2  (77...Rg3 78.Ra8 Rg4 79.Kf5 )  78.Ke4 Rf1  (78...Rg3 79.Ra8 h3 80.Kf4 )  79.Ke3 h3 80.Ke2
+ * 
+
+
+[Event "Chapter 10"]
+[Site "Game 14"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 10"]
+[Black "Game 14"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1R3N2/5k2/8/6P1/8/4K3/8/5r2 w - - 0 62"]
+
+62.Nd7  (62.Ke4 Re1+ 63.Kf3 Rf1+ 64.Kg3 Rg1+ 65.Kf4 Rf1+ 66.Ke3 Re1+ 67.Kf3 Rf1+ 68.Kg2 Rf5 69.Nh7 Kg6 70.Rb7 Rf4 71.Kg3 Ra4 )  62...Rf5  (62...Kg6 63.Rg8+ Kh7 64.Rf8 Rg1 65.Kf4 )   (62...Ke6 63.Nf6  (63.g6 Rg1 64.Rb7 )  )  63.Rf8+ Kg6  (63...Ke6 64.Rf6+ )  64.Rg8+ Kf7 65.Ke4 Ra5 66.Rf8+  (66.Nf6 )  66...Kg6  (66...Kg7 67.Kf4 )  67.Ne5+ Kxg5 68.Rf5+
+ * 
+
+
+[Event "Chapter 10"]
+[Site "Game 15"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 10"]
+[Black "Game 15"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/1n2k3/4P3/2pNK3/7p/8/8 b - - 0 44"]
+
+44...Kf7  (44...Kd7 45.Kf3 Nd5 46.e6+ Ke8  (46...Kd6 47.Kg3 Nf4 48.Kxf4 h2 49.Nf5+ Kxe6 50.Ng3 Kd5 51.Ke3 Ke5 52.Nh1 c3 53.Kd3 Kf4 54.Kxc3 Kf3 55.Kd3 Kg2 56.Ke2 Kxh1 57.Kf1 )  47.Ne2 Ke7 48.Kg3 Kxe6 49.Kxh3 Ke5 50.Kg3 Ke4 51.Kf2 Kd3 52.Ke1 )   (44...Ke7 45.Kf3 Nd5 46.Kg3 Nf4 47.Kxf4 h2 48.Nf5+ Ke6 49.Ng3 )  45.Kf3  (45.Nf3 Ke7 46.Kd4 Nd7 47.e6  (47.Kxc4 Nxe5+ )  47...Ne5 48.Kxe5 h2 49.Nxh2 c3 )  45...Nd5 46.e6+  (46.Kg3 Nf4 47.Nf3 c3 )  46...Kf6 47.Kg3 Nf4
+ * 
+
+
+[Event "Chapter 10"]
+[Site "Game 16"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 10"]
+[Black "Game 16"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/3N4/5pK1/3kp3/4n1P1/8/8 b - - 0 83"]
+
+83...Kc5  (83...Kd5 84.Nb5  (84.Nf7 Kd4 )  84...Kc5  (84...Kc4 85.Nd6+ Kc5 )  85.Nc3 Kd4 86.Nb5+  (86.Ne2+ )  86...Ke5 87.Na3 Nd5  (87...Kd4 )   (87...Ng2 )   (87...Kd5 )  88.Nc4+ Ke6 89.Nd2 Ke5 90.Nc4+ Ke6  (90...Kd4 91.Kxf5 )  91.Nd2 Nf6 92.g4 Nxg4 )  84.Nf7  (84.Ne8 Nd5 85.Kxf5 e3 )   (84.Nb7+ Kd5 85.Kf4 Ng2+ 86.Kxf5 e3 )  84...Ng2  (84...Kd4 85.Nd6 Kc5  (85...Kd3 86.Kh5 Ke2 87.g4 )   (85...Kd5 86.Nf7 Ke6 87.Nh6 )  )  85.Kxf5  (85.Nh6 e3 )   (85.Ne5 e3 86.Kxf5 )  85...e3 86.Ne5 e2 87.Nf3  (87.Nd3+ Kd4 88.Ne5 Ke3 89.Nc4+ Kf3 90.Ne5+ Kxg3 91.Nd3 Kf3 92.Ne5+ Ke3 93.Nc4+ Kd4 94.Ne5 Nh4+ )  87...Kd5 88.g4  (88.Kf6 Ke4 89.Ng5+ Ke3 )  88...Nh4+
+ * 
+
+
+[Event "Chapter 10"]
+[Site "Game 17"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 10"]
+[Black "Game 17"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3n4/8/5KN1/4P2k/7P/8/8/8 w - - 0 72"]
+
+72.Nh8  (72.Nf4+ Kxh4 73.Ne2 Kg4 74.Nd4 Kg3 )  72...Kxh4  (72...Nc6 73.e6 Nb4 74.Ng6 Nd5+ 75.Kf7 Ne3 76.Nf4+ Kxh4 77.Ng2+ )  73.Nf7 Nc6 74.e6 Nb4  (74...Kh5 75.Nd8 Nb4 76.Ke5 )  75.Ke7  (75.Nh6 Nd5+  (75...Kh5 76.Ke5 Kxh6 77.Kd6 )  76.Ke5 Nc7 77.e7 Kg5 78.Nf5 Ne8 79.Ke6 Kg6 80.Nd6 Nf6 81.Ne4 Ne8 82.Kd7 Ng7 83.Nc5 Kf5 84.Ne6 Nh5 85.Kd8 Nf6 86.Nf8 Kg5 87.Nd7 )   (75.Ke5 Nc6+ )  75...Nc2  (75...Kh5 76.Kd6 )   (75...Nd5+ 76.Kd6 Nf6 77.e7 Kh5 78.Ke6 )  76.Kf8 Nd4 77.e7 Ne6+ 78.Ke8 Kg4 79.Kd7 Ng7 80.Nd8 Kf5 81.Ne6 Nh5 82.Kd8 Nf6 83.Nc5
+ * 
+
+
+[Event "Chapter 10"]
+[Site "Game 18"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 10"]
+[Black "Game 18"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5R2/2k5/4K3/4p1p1/6P1/4rP2/8/8 w - - 0 65"]
+
+65.Rf5  (65.Kd5 e4  (65...Kd7 66.Rf5 Kc7 67.Rxg5 Rxf3 68.Kxe5 Kd7 69.Rf5 Rg3 70.Kf4 )  66.fxe4 Rg3 67.e5 Kd7  (67...Rxg4 68.e6 )  68.Rf7+ Ke8 69.Ke6 Rxg4 70.Ra7 Kf8 71.Ra8+ Kg7 72.Kf5 Rg1 73.e6 Re1 )   (65.Rg8 Rxf3 66.Kxe5 Kd7 67.Rxg5 Ke7 68.Rg7+  (68.Rf5 Rxf5+ 69.Kxf5 Kf7 )  68...Kf8 )  65...e4 66.Rc5+ Kb6  (66...Kd8 67.fxe4 Rxe4+ 68.Kf5 Re1 69.Kxg5 Ke7 70.Rf5 )  67.Re5 Rxf3 68.Rxe4 Rf4 69.Kd5 Rf8  (69...Kc7 70.Rxf4 gxf4 71.Ke4 )  70.Re5 Rg8 71.Ke6 Kc6 72.Ke7 Kc7 73.Rc5+ Kb6 74.Kf7
+ * 
+
+
+[Event "Chapter 10"]
+[Site "Game 19"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 10"]
+[Black "Game 19"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/1N4k1/1n1PKp1p/6pP/4prP1/4R3/8 b - - 0 66"]
+
+66...f4  (66...Rxg3 67.d6 Nxd6 68.Kxd6 f4 69.Ke5 f3 70.Rc2 )   (66...Nc3 67.d6 Kf7  (67...Nxe2 68.d7 Nd4 69.Kxd4 e2 70.d8=Q e1=Q 71.Qg8+ )  68.Nd5 Nxd5 69.Kxd5 Rxg3 70.d7 Rg1  (70...Ke7 71.Kc6 )  71.Rxe3 Rd1+ 72.Ke5 Rxd7 73.Kxf5 )  67.gxf4 Nc3 68.d6  (68.Re1 e2 69.d6 Rd3 70.Ke6 Re3+ 71.Kd7 Kf5 72.Kc8 g3 73.d7 Rd3 74.d8=Q Rxd8+ 75.Kxd8 g2 )  68...Nxe2 69.d7 Nd4 70.Kd5  (70.Kxd4 Rxf4+ 71.Kxe3 Rf8 )  70...Ne6 71.Kxe6 e2 72.d8=Q e1=Q+ 73.Kd6 Rd3+ 74.Nd5 Rxd5+  (74...Rxd5+ 75.Kxd5 Qd2+ )
+ * 
+
+
+[Event "Chapter 10"]
+[Site "Game 20"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 10"]
+[Black "Game 20"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1PK1p3/8/6kp/4P3/1rp5/8/2R5 w - - 0 58"]
+
+58.Rf1  (58.b8=Q Rxb8 59.Kxb8 Kf4 60.Re1 c2 61.Kc7 h4  (61...Ke5 62.Kc6 Kd4 )  62.e5  (62.Kc6 h3 63.Kd5 h2 64.Kd4 Kf3 65.Rc1 )  62...h3 63.Kd7 h2 64.Kxe7 Kf3 65.e6 Kg2 66.Re2+ Kf3 67.Re1 Kg2 68.Re2+ Kf3 69.Re1 Kg2 )  58...h4  (58...c2 59.b8=Q Rxb8 60.Kxb8 h4 61.Kc7 h3 62.Kc6 Kg4 63.Kd5 Kg3 64.Kd4 h2 65.Rc1 )  59.b8=Q Rxb8 60.Kxb8 h3 61.Kc7 Kg4 62.Kc6 h2 63.Kd5 Kg3 64.Rc1 Kg2 65.Rc2+ Kg1 66.Rxc3
+ * 
+
+
+[Event "Chapter 10"]
+[Site "Game 21"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 10"]
+[Black "Game 21"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5bp1/8/4KP1P/6P1/2pk4/2N5/8 w - - 0 66"]
+
+66.Na1  (66.Na3 Ke3 67.f6 Kf3 68.fxg7  (68.g5 gxf6+ 69.gxf6 Bxh5 70.Nb5 Kg4 71.Nxc3 Kg5 )  68...Kxg4 69.Kf6 Bg8 70.Kg6 Bb3  (70...Bd5 71.h6  (71.Nc2 )  71...Be4+ 72.Kf7  (72.Kf6 Bh7 )  72...Kh5 73.Kf6 Bh7 74.Nc2 Kxh6 75.Nd4 Bg8 76.Nc2 Kh7 )  71.h6 c2 72.g8=Q c1=Q  (72...Bxg8 73.Nxc2 Kf4 74.Kg7 Kg5 75.Nd4 )  73.Qxb3 Qg5+ 74.Kh7 Qe7+ 75.Kg8 Qg5+ )  66...Ke3  (66...c2 67.Nxc2 Kxc2 68.f6 )  67.f6 Kf3 68.fxg7 Kxg4 69.Kf6 Bg8 70.Kg6 Bd5  (70...Bc4 71.Nc2 )  71.Nc2  (71.h6 Be4+ 72.Kf7 Kh5 )  71...Be4+  (71...Kh4 72.Ne3 Ba2 73.h6 Bb1+ 74.Nf5+ )   (71...Kf4 72.Nb4 )  72.Kh6 Bd5 73.Ne3+
+ * 
+
+
+[Event "Chapter 10"]
+[Site "Game 22"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 10"]
+[Black "Game 22"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/3k2K1/2n2P2/1p6/8/2p5/2P5/2B5 w - - 0 49"]
+
+49.Ba3  (49.f7 Nd8 50.Ba3 Kc6 51.Bb4 Kd5 52.Bxc3 Kc4 53.Bb2 b4 54.Kf6 Nxf7 55.Kxf7 Kd5  (55...b3 56.c3 Kd3 57.Ba1 )  56.Bf6  (56.Kf6 Ke4 )  56...Kc4 )  49...Nd8  (49...Ne5 50.f7 Nxf7 51.Kxf7 Kc6 52.Ke6 )   (49...b4 50.Bxb4 )  50.Be7  (50.f7 Kc6 51.Bb4 Kd5 52.Bxc3 Kc4 53.Bb2 b4 54.Kg6 Nxf7 55.Kxf7 Kd5 )  50...Ne6+  (50...Nc6 51.f7 )  51.Kf7 Nd4 52.Kg8 Kc6  (52...Ne6 53.Bb4 Kc6 54.f7 Kd5 55.Bxc3 Kc4 56.Bf6 )  53.f7 Ne6 54.Kh7 Kd7  (54...Kd5 55.Kg6 Ke5 56.Bf6+ Kd5 57.Bxc3 )  55.Bb4
+ * 
+
+
+[Event "Chapter 10"]
+[Site "Game 23"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 10"]
+[Black "Game 23"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/2b5/p5K1/N2k3P/8/5N2/8 w - - 0 59"]
+
+59.Nc5  (59.Nb6 Be8 60.Ng4 Kc5 61.Nf6 Kxb6 62.Nxe8 a4 63.Nf6 a3 64.Nd5+ Kc5 65.Nc3 Kc4 66.h5 Kxc3 67.h6 a2 68.h7 Kb2 69.h8=Q+ Kb1 )  59...Kxc5  (59...a4 60.h5 )  60.h5 Ba4 61.Ne4+  (61.Nd3+ )  61...Kd4 62.h6
+ * 
+
+
+[Event "Chapter 10"]
+[Site "Game 24"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 10"]
+[Black "Game 24"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/1p3k2/pB3P2/P1PnK3/8/8/8 b - - 0 56"]
+
+56...Nc2  (56...Nxf5 57.Kd5 )   (56...Nb3 57.Kd5 Kxf5 58.Kc6 Ke6 59.Kxb6 Kd6 60.Ba6 )  57.Kd5 Nb4+ 58.Kd6 Kxf5 59.Kc7 Ke5 60.Kxb6 Kd4 61.c5  (61.Kxa5 Kc5 62.Ba6 Nc6# )  61...Nd5+ 62.Kc6 Nc3  (62...Nf6 )  63.Kb6  (63.Kd6 Ne4+ )  63...Nd5+
+ * 
+
+
+[Event "Chapter 10"]
+[Site "Game 25"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 10"]
+[Black "Game 25"]
+[Result "*"]
+[SetUp "1"]
+[FEN "R7/4k3/8/P4r2/2p5/5P2/3K4/8 b - - 0 69"]
+
+69...Rxf3  (69...Kd7 70.a6 Kc7 71.a7 Ra5  (71...c3+ 72.Kd3 Kb7 73.Rc8 Kxa7 74.Ke4 )   (71...Kb7 72.Rc8 Kxa7 73.Ke3 )  72.Kc3 Kb7 73.Rd8 Kxa7 74.Kxc4 Rf5 75.Rd3 Kb6 76.Kd4 Rf8 77.Ke5 Re8+ 78.Kf6 Rf8+ 79.Kg7 Rf5 80.Rd6+ Kc5 81.Rf6 Rg5+ 82.Kh6 Rg1 83.f4 Rh1+  (83...Kd5 84.Rg6 Rh1+ 85.Kg5 )  84.Kg6 Rg1+ 85.Kf5  (85.Kf7 Kd5 )  )   (69...c3+ 70.Kc2 Kd7 71.a6 Kc7 72.a7 Kb6  (72...Ra5 73.Rf8 Rxa7 74.Rf7+ Kb6 75.Rxa7 Kxa7 76.Kxc3 )  73.Rc8 Kxa7 74.Rxc3 )  70.a6 Rd3+ 71.Kc2 Rd7 72.a7 Kd6 73.Kb2  (73.Kc3 Kd5 )  73...c3+  (73...Kd5 74.Kc3 )  74.Kxc3 Rc7+ 75.Kb4 Kc6 76.Ka5 Kb7
+ * 
+
+
+[Event "Chapter 10"]
+[Site "Game 26"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 10"]
+[Black "Game 26"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/5k2/3KN1pp/7P/8/4n3/8 b - - 0 49"]
+
+49...Kf5  (49...g4 50.Ke4 g3 51.Nd7+ Ke7 52.Kf3 Nd4+ 53.Kxg3 Kxd7 54.Kf4 Ne6+ 55.Kf5 Ng7+ 56.Kf6 )   (49...gxh4 50.Ke4 h3 51.Nf3 )  50.hxg5 Nf4+ 51.Kd4  (51.Kd6 Ng6 52.Nf3 Kg4 53.Ng1 Kxg5 54.Kd5 Kg4 55.Ke4 h4 56.Nf3 h3 57.Nh2+  (57.Ke3 Kg3 )  57...Kg3 58.Nf1+ Kf2 59.Nh2 Kg2 60.Ng4 Kg3 61.Ne3 Ne7 62.Ke5 Ng8 63.Nf1+ Kg2 64.Kf4 Nh6 65.Ne3+ Kg1 66.Nf1 Nf5 67.Nd2 Kg2 68.Nf3 Nd4 )  51...Ne6+ 52.Kd5 Nxg5 53.Nc4  (53.Kd4 Ne6+ 54.Kd5 h4 )   (53.Nd3 Ne6 )  53...Nf7  (53...Nf3 54.Ne3+ Kf4 55.Ng2+ Kg3 56.Ne3 )   (53...Kf4 54.Ne5 )   (53...h4 54.Ne3+ )  54.Ne3+  (54.Kd4 Kf4 55.Kd3 Kf3 56.Nd2+ Kg2 )  54...Kf4 55.Kd4 Nd6 56.Nd5+ Kf3 57.Ke5 h4 58.Nf4 Kg4 59.Nd3 Kg3 60.Nf4 Kf3 61.Nh3 Kg4 62.Nf4  (62.Ng1 Nf7+ 63.Ke4 Ng5+ 64.Ke3 Kg3 65.Ne2+ Kg2 66.Nf4+ Kf1 )  62...Nf7+ 63.Ke4 Ng5+ 64.Ke5  (64.Ke3 Kg3 65.Nh5+ Kg2 66.Nf4+ Kf1 )  64...Ne6 65.Nd3  (65.Nxe6 h3 )  65...Kg3 66.Kxe6 h3
+ * 
+
+
+[Event "Chapter 10"]
+[Site "Game 27"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 10"]
+[Black "Game 27"]
+[Result "*"]
+[SetUp "1"]
+[FEN "R7/K5k1/P7/7p/8/1r4P1/8/8 w - - 0 60"]
+
+60.Rc8  (60.Rb8 Rxg3 61.Rb5 Kh6 62.Kb6 Rg6+  (62...h4 63.a7 Rg8 64.Kb7 Rg7+ 65.Ka6 )  63.Ka5  (63.Kb7 Rg7+ 64.Ka8 Rg8+ 65.Rb8 Rg7 66.a7 Kg5 )  63...Rg7 64.Rb6+ Kg5 65.Rb7 Rg8 66.a7 Ra8 67.Kb6 h4 )  60...Rxg3 61.Rc5 Kh6 62.Kb6 Rg6+ 63.Rc6
+ * 
+
+
+[Event "Chapter 10"]
+[Site "Game 28"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 10"]
+[Black "Game 28"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/4r1k1/p7/1p3K2/1P6/6P1/4p1P1/4R3 b - - 0 51"]
+
+51...Re8  (51...a5 52.bxa5 b4 53.a6 b3 54.a7 )  52.Kf4 a5 53.bxa5 b4 54.a6 b3 55.a7 b2 56.Kf3 Rf8+  (56...Kg6 57.Kf2 Kg5 58.Rb1 Kg4 59.Ke1 Ra8 )  57.Ke3 Ra8 58.Rb1 e1=Q+ 59.Rxe1 Re8+ 60.Kf2 Rxe1 61.a8=Q b1=Q 62.Qa7+ Kf8
+ * 
+
+
+[Event "Chapter 10"]
+[Site "Game 29"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 10"]
+[Black "Game 29"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1P3pk1/8/6p1/4n3/2r4p/8/1R4K1 b - - 0 57"]
+
+57...Rc2  (57...Rg3+ 58.Kh2 g4 59.Rb2 Re3 60.b8=Q Ng5 61.Rb1  (61.Rb3 g3+ 62.Qxg3 Rxg3 63.Kxg3 Kg6 64.Rb4 f6 65.Rb6 Kf5 66.Rb5+ Kg6 67.Kg4 h2 68.Rb1 Ne4 69.Rf1 h1=Q )  61...g3+ 62.Kh1 Rf3 63.Qe5+  (63.Kg1 Rf2 64.Qxg3 Rg2+ )  63...Kg6 64.Rb6+ f6 65.Qe8+ Kh6 )  58.b8=Q Rg2+ 59.Kf1 Ng3+ 60.Ke1 h2 61.Qe5+ Kh7
+ * 
+
+
+[Event "Chapter 10"]
+[Site "Game 30"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 10"]
+[Black "Game 30"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/2R5/2n1Bk2/7R/7P/6P1/7K/4q3 w - - 0 59"]
+
+59.Bc4  (59.Rh6+ Ke5 60.Bh3 Qd2+ 61.Bg2 Qxh6 62.Rxc6 )  59...Ne5  (59...Qd2+ 60.Kh3 Ne5 61.Bb3  (61.Rh8 Qd1 62.Rf8+ Kg6 63.Bf7+ Nxf7 64.Rcxf7 )   (61.Bg8 )  61...Qe1 62.Rh6+ Kf5 63.Bc2+ )  60.Rh6+ Kf5 61.Bd3+ Nxd3  (61...Kg4 62.Rg7+ Kf3 63.Rf6+ Ke3 64.Bf1  (64.Ba6 )  64...Nf3+ 65.Rxf3+ Kxf3 66.Bg2+ )  62.Rf7+ Kg4 63.Rg7+ Kf5  (63...Kf3 64.Rf6+ )  64.Rg5+ Ke4 65.Re6+
+ * 
+
+
+[Event "Chapter 10"]
+[Site "Game 31"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 10"]
+[Black "Game 31"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/4p3/P7/5p2/1Bk2npK/8/8 b - - 0 65"]
+
+65...Ne1 66.Bxe6  (66.a6 g2 67.Kh2 f3 68.Kg1 Kd4 69.Kf2 Nd3+ 70.Kg1 Ke3 71.a7 Nf4 )  66...g2  (66...Kd4 67.a6 g2 )  67.Kh2 Kd4 68.a6  (68.Bh3 f3 69.a6 Ke3 )  68...f3 69.Bh3 Ke3 70.Bxg2 fxg2 71.Kg1  (71.a7 Kf2 72.a8=Q g1=Q+ 73.Kh3 Qg3# )  71...Kf3 72.a7 Kg3 73.a8=B Nf3+  (73...Nf3+ 74.Bxf3 Kxf3 )
+ * 
+
+
+[Event "Chapter 10"]
+[Site "Game 32"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 10"]
+[Black "Game 32"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5p2/1PR5/3p2p1/1P2nk2/3r1N2/5PK1/8 b - - 0 36"]
+
+36...Rxf3 37.b7 Rxf2+ 38.Kg1 Kf3 39.b8=Q Rd2 40.Qb5 Rd1+ 41.Qf1+ Rxf1+ 42.Kxf1 d4 43.Ra6  (43.b5 d3 44.Rc7 d2 45.Rxf7+ Ke3 46.Rd7 Nc5 47.Rd6 Nd3 48.Re6+ Kf3 49.Rf6+ Ke3 )  43...Nc3 44.Rf6+ Ke3 45.Rxf7 d3 46.Re7+ Kd2
+ * 
+
+
+[Event "Chapter 11"]
+[Site "Game 1"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 11"]
+[Black "Game 1"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/3R4/P6P/1r2k3/3p2K1/8/8 w - - 0 43"]
+
+43.h6  (43.a6 Ra4 44.h6  (44.Kf2 Ra2+ 45.Ke1 Ra1+ 46.Kd2 Ra2+ 47.Kc1 d2+ 48.Kd1 Ke3 )  44...d2 45.h7 Rxa6 46.Rxd2  (46.h8=Q Rxd6 47.Qe8+ Kd4 48.Qe7 Kc5 49.Qc7+ Kd5 50.Qc2 Ke5 51.Qd1 Rd3+ 52.Kg2 Rd4 53.Kf3 Rf4+ 54.Ke2 Re4+ 55.Kf3 Rf4+ 56.Kg3 Rd4 )   (46.Rxa6 d1=Q 47.Re6+ Kf5 48.h8=Q Kxe6 )  46...Rg6+ 47.Kf2 Rh6 48.Rd7 Kf5 )  43...Rb7 44.Kf2  (44.a6 Rf7 45.Kg4 Ke3 46.Kg5 d2 47.Kg6 Ra7 48.h7 Ra8 )  44...Rb2+ 45.Ke1 Ra2  (45...Rb1+ 46.Kd2 Rb2+ 47.Kc1 Rc2+  (47...Ra2 48.h7 Rh2 49.Rd7 Rh1+ )  48.Kd1 Ra2 49.h7 Rh2 50.Rd7 Rh1+ 51.Kd2 Rh2+ 52.Kc1 Rh1+ 53.Kb2 d2 54.Rxd2 Rxh7 55.Kb3 )  46.a6  (46.h7 Rh2 47.Rd7 Ke3  (47...d2+ 48.Kd1 Ke3 49.Kc2 )  48.Re7+ Kd4 49.a6 d2+ 50.Kd1 Kd3 51.Rd7+ Kc3 52.a7 Rh1+ 53.Ke2 Re1+ 54.Kf3 Re8 )  46...Ra1+ 47.Kd2  (47.Kf2 Ra2+ 48.Kg3 d2 49.h7 Rxa6 )  47...Ra2+ 48.Kc3  (48.Kc1 d2+ 49.Kd1 Ke3 )  48...Rc2+ 49.Kb4 Rc7 50.Kb5 Ke3 51.Kb6 Rh7 52.a7 Rh8 53.h7 d2
+ * 
+
+
+[Event "Chapter 11"]
+[Site "Game 2"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 11"]
+[Black "Game 2"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/2n1pB2/1k3p1p/3P4/1P3P1P/5K2/8 b - - 0 57"]
+
+57...Na5  (57...f4 58.Ke2 Kb4 59.Kd3 Kxb3 60.Ke4 Kc4 61.Be5 )  58.b4  (58.Kg3 Nxb3 59.Kh4 Nd2 60.f4 Ne4 61.Be5 Nf2 )  58...Nb3 59.Kg3 Kxb4 60.Kh4 Nd2 61.f4 Ne4 62.Be7+ Kc3 63.Kxh5 Kxd4 64.Kg6 e5 65.h4  (65.Kxf5 exf4 66.Kxf4 Kd5 67.Bf8 Nf2 68.h4 Ke6 )   (65.fxe5 Kxe5 66.h4 Ng3 )  65...exf4 66.h5 f3 67.Bh4 f4  (67...Nc5 68.Kf6 Ne4+ 69.Kxf5 Nd6+ 70.Kf6 Ne4+ 71.Kg6 Nc5 72.h6 Ne6 73.Kf6 Nf8 74.Kf7 Nh7 75.Kg7 Ng5 )  68.h6 Ng3 69.Bxg3 fxg3 70.h7 Kd3 71.h8=Q g2 72.Qd8+ Ke2 73.Qg5 f2 74.Qxg2 Ke1
+ * 
+
+
+[Event "Chapter 11"]
+[Site "Game 3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 11"]
+[Black "Game 3"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4R3/8/8/6PP/3k4/4p1K1/8/7r w - - 0 69"]
+
+69.Kg4  (69.h6 Kd3 70.Kf3  (70.Kg4 e2 )  70...Rh3+ 71.Kg4 Rh1 72.Kf5 e2 73.Kf6  (73.Kg6 e1=Q 74.Rxe1 Rxe1 75.h7 Rh1 76.Kg7 Ke4 77.g6 Kf5 )  73...Rh3 74.Kf7  (74.Rxe2 Kxe2 75.Kg7 Kf3 76.h7 Kg4 77.g6 Kg5 )  74...Rf3+ 75.Kg6 Re3 76.Rxe3+ Kxe3 77.h7 e1=Q 78.h8=Q Qb1+ 79.Kh6 Qh1+ 80.Kg7 Qb7+ )  69...Kd3 70.g6 e2 71.Kg5 e1=Q 72.Rxe1 Rxe1 73.g7
+ * 
+
+
+[Event "Chapter 11"]
+[Site "Game 4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 11"]
+[Black "Game 4"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5Q2/7k/4q3/3p2pP/8/8/5K2/8 w - - 0 60"]
+
+60.h6  (60.Qd8 Qf5+ 61.Kg3 Qe5+ 62.Kh3 d4 63.Qb6 Qe3+ 64.Kg2 Qe4+ 65.Kf2 d3 )  60...Qe5  (60...Qxh6 61.Qf7+ )  61.Kf3 d4 62.Kg4 d3  (62...Kg6 63.Qg8+ Kxh6 64.Qf8+ )  63.Qf7+ Kxh6 64.Qf8+ Kg6  (64...Qg7 65.Qd6+ )  65.Qg8+ Kf6  (65...Qg7 66.Qe6+ Qf6  (66...Kh7 67.Qe4+ Qg6 68.Qe7+ )  67.Qe4+ )  66.Qh8+ Ke6 67.Qe8+ Kd5 68.Qa8+ Kd4 69.Qa1+ Ke4  (69...Kd5 70.Qa8+ )  70.Qh1+  (70.Qe1+ Kd5 71.Qa5+ Ke6 72.Qa6+ Qd6 )  70...Ke3 71.Qe1+ Kd4 72.Qa1+ Kd5 73.Qa8+
+ * 
+
+
+[Event "Chapter 11"]
+[Site "Game 5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 11"]
+[Black "Game 5"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/3q3p/6pK/8/7P/6P1/1Q6/8 b - - 0 57"]
+
+57...g5  (57...Qc7 58.Qa1 Qe7 59.Qa8+ Kf7 60.Qb8  (60.Qf3+ Kg8 61.Qb3+ Kf8 62.Qc3 Kg8 63.Qc8+ Kf7 64.Qh8 Qe3+ 65.Kxh7 Qxg3 66.Qg7+ Ke8 67.h5 g5 68.Qg6+ Kf8 69.Qf6+ Ke8 70.Qc6+ Kf7 71.Qd7+ Kf8 72.Kg6 )  60...Qc5  (60...Qd7 61.Qe5 )  61.Qb7+ Kf6 62.Qf3+ Ke6 63.Kxh7 )  58.Qb8+ Kf7 59.Qb3+ Kf8 60.Qb4+ Kg8 61.Qc4+ Kh8
+ * 
+
+
+[Event "Chapter 11"]
+[Site "Game 6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 11"]
+[Black "Game 6"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3R4/p3k1p1/Pp3nBp/1Pp1r2P/2P5/1K6/2P2r2/3R4 b - - 0 56"]
+
+56...Re3+  (56...Re1 57.Re8+ )   (56...Rf1 57.R1d3 )  57.Kb2  (57.R8d3 Ree2 )  57...Rf1 58.R1d2 Rf2
+ * 
+
+
+[Event "Chapter 11"]
+[Site "Game 7"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 11"]
+[Black "Game 7"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1R6/5p1k/4bPpp/3pN3/2pP3P/r1P5/5PPK/8 w - - 0 36"]
+
+36.f4  (36.h5 gxh5 37.f4 Ra2 38.Rf8 Rf2 )  36...Rxc3  (36...Ra2 37.Rf8 )  37.h5 gxh5 38.Rf8 Ra3 39.f5 Bxf5 40.Rxf7+ Kg8 41.Rg7+ Kf8 42.Rb7 Ra8 43.Kg3 Rd8  (43...c3 44.Kf4 c2 45.Kxf5 c1=Q 46.Ng6+ Ke8 47.f7+ Kd8 48.f8=Q# )  44.Kf4 Be4 45.g3  (45.Rf7+ Ke8 46.Rg7 Kf8 47.Nd7+ )  45...c3 46.Rf7+ Kg8 47.Rg7+ Kf8 48.Nd7+ Rxd7  (48...Ke8 49.Re7# )  49.Rxd7
+ * 
+
+
+[Event "Chapter 11"]
+[Site "Game 8"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 11"]
+[Black "Game 8"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1R1Rb3/p3rkp1/1p2r3/4BpPp/5P1P/4P3/P4K2/8 w - - 0 49"]
+
+49.e4 Kg6  (49...fxe4 50.Bd6 Rd7 51.Rxd7+ Bxd7 52.Rf8+ Kg6 53.f5+ )  50.Bd6 Rd7  (50...Rf7 51.e5 )  51.Rxd7 Bxd7 52.e5 Bc6 53.Rc8 Be8  (53...Be4 54.Ke3 )  54.Ra8 Bf7 55.Rxa7 Re8 56.a3
+ * 
+
+
+[Event "Chapter 11"]
+[Site "Game 9"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 11"]
+[Black "Game 9"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/6B1/8/3k3r/pK6/P7/8 w - - 0 55"]
+
+55.Kxa3  (55.Kb4 Rh6 56.Bf7 Ra6 57.Bg8 Ra7 58.Be6 Kd3 59.Bb3 Kd2 60.Ba4 Rb7+ 61.Kc4  (61.Kxa3 Kc3 62.Be8 Ra7+ 63.Ba4 Kc4 )  61...Kc1 62.Kc3 Kb1  (62...Rg7 )  63.Bb3 Rc7+ 64.Kd3 Kb2 65.Kd2 Rd7+ 66.Ke3 Kc3 67.Bg8 Re7+ 68.Kf2 Kd2 69.Kf3 Kd3 70.Kf2 Re2+ 71.Kf3 Re8 )  55...Kc3 56.Be4  (56.Bb1 Rb4  (56...Rh8 57.Be4 )   (56...Rh6 57.Ka4 )  57.Be4 )  56...Rf4  (56...Rh6 57.Ka4 )  57.Bh1
+ * 
+
+
+[Event "Chapter 11"]
+[Site "Game 10"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 11"]
+[Black "Game 10"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1R6/8/6k1/5p2/6p1/4Pr2/4K3/8 w - - 0 110"]
+
+110.Rb5  (110.Rg8+ Kh5 111.Rh8+ Kg5 112.Rh7 Rh3 113.Rg7+  (113.Rf7 Rh2+ 114.Kf1 g3 115.Rg7+ Kh4 116.Rh7+ Kg4 117.Rxh2 gxh2 118.Kg2 h1=Q+ 119.Kxh1 Kf3 )  113...Kh4 114.Rf7 Rf3 115.Rh7+ Kg3 116.Rh8 Rf2+ 117.Kd3 Kg2 118.Rg8 g3 )
+ * 
+
+
+[Event "Chapter 11"]
+[Site "Game 11"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 11"]
+[Black "Game 11"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/2p1k2p/2N2p1P/3P2P1/4P1K1/2r5 b - - 0 80"]
+
+80...Rxc4 81.dxc4 fxg3 82.Kxg3 Ke4  (82...Kd4 83.Kf4 Kxc4 84.e4 )  83.Kf2 Kf4  (83...Kd4 84.e3+  (84.Ke1 Kxc4 85.Kd2 Kd4 86.e3+ Ke4 87.Ke2 c4 88.Kd2 Kf3 89.Kc3 Kxe3 90.Kxc4 Kf3 91.Kd3 )   (84.Kf3 Kxc4 85.e4 Kd4 86.Kf4 c4 )  84...Kxc4 85.Ke2 Kc3 86.Kf3  (86.e4 Kd4 87.Kf3 c4 )  86...c4 )  84.e3+  (84.Ke1 Kg3 )  84...Kg4 85.e4 Kxh4 86.Kf3 Kg5
+ * 
+
+
+[Event "Chapter 11"]
+[Site "Game 12"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 11"]
+[Black "Game 12"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r1k3/p1p3p1/1p2p2p/2r1Pn2/2P3R1/3R3P/P1P2PPB/5K2 b - - 0 28"]
+
+28...Ra5  (28...Ke7 29.Re4 Ke8 30.Bf4 Ra5 31.a3 Rd8 32.Bc1 )  29.a3 Rd8 30.Rxd8+ Kxd8 31.Rg6 Ke7  (31...Rxa3 32.g4 Rxh3 33.gxf5 Rxh2 34.fxe6 )  32.g4 Ne3+  (32...Ng3+ )  33.fxe3 Kf7
+ * 
+
+
+[Event "Chapter 11"]
+[Site "Game 13"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 11"]
+[Black "Game 13"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r5k1/6p1/4PpK1/3p2P1/5P1P/1p2P3/1B6/8 b - - 0 38"]
+
+38...Kf8  (38...fxg5 39.hxg5 Ra2  (39...Ra6 40.f5 Rb6 41.Bxg7 Ra6  (41...b2 42.Bxb2 Rxb2 43.e7 )  42.Bd4 Kf8 43.Kh7 Ke7 44.g6 Ra4 45.g7 Rxd4 46.exd4 )   (39...Kf8 40.Bxg7+ Ke7 41.f5 Ra2 42.Bf6+ Ke8 43.Be5 b2 44.Bxb2 Rxb2 45.f6 Kf8 46.e7+ Ke8 47.Kg7 Rf2 48.g6 Rf3 49.Kh7 Rxf6 50.g7 Rf7 51.Kg6 Rxg7+ 52.Kxg7 Kxe7 )  40.Bxg7  (40.e7 Ra6+ )  40...b2 41.Bxb2 Rxb2 42.f5 Rb6 43.Kf6 Kf8 44.Ke5 Rb4 45.f6 Rg4 46.e7+ Kf7 47.Kf5 Re4 48.g6+ Ke8 49.g7 Kf7 50.g8=Q+ Kxg8 51.Kg6 Re6  (51...Rg4+ 52.Kf5 Re4 53.Kg6 )  52.e8=Q+ Rxe8 53.f7+ )  39.h5  (39.gxf6 gxf6 40.h5  (40.Bxf6 Ra2 )  40...Ra2 41.Bxf6 Rg2+ 42.Kf5 b2 )  39...Ra2 40.h6  (40.gxf6 gxf6  (40...Rxb2 41.fxg7+ Ke7 42.g8=Q Rg2+ )  )  40...gxh6 41.gxf6 Rxb2
+ * 
+
+
+[Event "Chapter 11"]
+[Site "Game 14"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 11"]
+[Black "Game 14"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/7k/5P1p/8/4P2p/1r6/5K2/6R1 b - - 0 67"]
+
+67...Rb2+  (67...h3 68.Rg7+ Kh8 69.Rg4 h2  (69...Rb2+ 70.Kg1 )  70.Kg2 Rb2+ 71.Kh1 Rf2 72.e5 h5 73.Rg2 Rf5 74.Kxh2 Kh7 75.Re2 Kg8 76.e6 Kf8 77.e7+ Ke8 78.Re6 h4 79.Rd6 Kf7 80.Rd8 )  68.Kf1  (68.Kf3 h3 69.Rg7+ Kh8 70.Rg4 h2 71.Rh4 Kh7 )  68...Rb1+ 69.Kg2 Rb6 70.e5 Re6  (70...Kg6 71.Kh3+ )  71.Re1 Kg6 72.Kh3
+ * 
+
+
+[Event "Chapter 11"]
+[Site "Game 15"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 11"]
+[Black "Game 15"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/3R1ppk/2r5/4PPPK/1pp4P/6r1/8/2R5 b - - 0 43"]
+
+43...Kg8  (43...Rc8 44.Rxf7 b3 45.g6+ Kg8 46.Rb7 Rf8 47.f6 gxf6 48.Rxc4 b2 49.Rcc7 Re8 50.exf6 )  44.e6 fxe6 45.f6 gxf6 46.Kg6 Kf8 47.Ra1 Rc8  (47...Ke8 48.Rg7 Ra3 49.Rxa3 bxa3 50.gxf6 )  48.Raa7 fxg5 49.h5 e5  (49...c3 50.Rh7 )   (49...Rf3 50.Rh7 Ke8 51.h6 c3 52.Rh8+ Rf8 53.Rxf8+ Kxf8 54.h7 )  50.Rf7+ Ke8  (50...Kg8 51.Rg7+ Kf8 52.Raf7+ Ke8 53.Rg8# )  51.Kg7
+ * 
+
+
+[Event "Chapter 11"]
+[Site "Game 16"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 11"]
+[Black "Game 16"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/2b2p2/7k/7p/4Np1K/3r1P1P/6R1/8 w - - 0 66"]
+
+66.Rg8  (66.Rg5 Bd8 67.Nf6 Rxf3 68.Rg6+ )   (66.Nf6 Rd6  (66...Bd8 67.Rg5 )  67.Rg8 Rxf6 68.Rg6+ Kh7  (68...Kh7 69.Rxf6 Bd8 70.Kg5 Kg7 )  )  66...Bd8+  (66...Rxf3 67.Ng5 Rb3 68.Nxf7+ Kh7 69.Rg5 )  67.Ng5 Be7  (67...Bxg5+ 68.Rxg5 )  68.Rg6+
+ * 
+
+
+[Event "Chapter 11"]
+[Site "Game 17"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 11"]
+[Black "Game 17"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5k2/7R/5p1p/pr3PpP/6P1/4P3/4K3/8 b - - 0 50"]
+
+50...Rb2+  (50...Rb6 51.Rxh6 Kg7  (51...Ra6 52.Rg6 Kf7 53.h6 a4 54.e4 a3 55.h7 Ra8 56.e5 fxe5 57.Ra6 Rxa6 58.h8=Q a2 59.Qh7+ Kf8 60.f6 )  52.Rg6+ Kh7 53.e4  (53.h6 Ra6 )  53...a4 54.e5 Rb2+  (54...a3 55.exf6 )  55.Kd3 fxe5 56.f6 a3 57.Rg7+ Kh6 58.Rg8 Rb7 59.Ke4 )  51.Kf3  (51.Kd3 Rg2 52.Rxh6 Kf7 )  51...Rb6 52.Rxh6 Ra6 53.Rg6 a4 54.h6 Kf7 55.h7 Ra8 56.e4  (56.Rh6 Kg7 )  56...a3 57.e5 fxe5 58.Ra6 Rxa6 59.h8=Q a2 60.Qh7+ Kf8
+ * 
+
+
+[Event "Chapter 11"]
+[Site "Game 18"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 11"]
+[Black "Game 18"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3R4/pp6/3P1kP1/2p5/8/3K1P2/8/r7 b - - 0 43"]
+
+43...Rg1  (43...Kxg6 44.d7 )  44.d7 Ke7 45.Rb8  (45.Rb8 Kxd7 46.g7 Rxg7 47.Rxb7+ )
+ * 
+
+
+[Event "Chapter 11"]
+[Site "Game 19"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 11"]
+[Black "Game 19"]
+[Result "*"]
+[SetUp "1"]
+[FEN "R7/p5b1/1p2k3/1P1r4/3P4/4BK2/5P2/8 b - - 0 58"]
+
+58...Kf5  (58...Bxd4 59.Ke4 Bxe3 60.Re8+ Kd7 61.Kxd5 Kxe8 62.fxe3 Kd7 63.e4 Kc7 64.e5 Kd7 65.e6+ Ke7 66.Ke5 Ke8 67.Kd6 Kd8 68.e7+ Ke8 69.Ke6 )  59.Rxa7 Bxd4 60.Bxd4 Rxd4 61.Rb7 Rd3+ 62.Ke2 Rd6 63.Ke3 Ke5 64.f4+ Kd5 65.Rc7 Rh6 66.Kf3 Rh3+ 67.Kg4 Rb3 68.Re7 Kd6 69.Re5 Rb2 70.Kf5 Rh2 71.Kg5 Rh8
+ * 
+
+
+[Event "Chapter 11"]
+[Site "Game 20"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 11"]
+[Black "Game 20"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/2n4p/2K1k3/1P3p2/8/3N4/8 b - - 0 51"]
+
+51...Nxb4 52.Kxb4 Kd4 53.Kb5 Kd3 54.Nf1 Ke2  (54...h5 55.Kc5 Ke2 56.Nh2 Kf2 57.Kd4 Kg2 58.Ke4 Kxh2 59.Kxf4 h4 60.Kf3 Kg1 61.Kg4 )  55.Nh2 Kf2 56.Ng4+ Kg3 57.Nxh6 f3 58.Nf5+ Kf4
+ * 
+
+
+[Event "Chapter 11"]
+[Site "Game 21"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 11"]
+[Black "Game 21"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r5/p1p1k3/2P1P2p/Br5b/3R4/1P2p2P/P7/2K2R2 w - - 0 34"]
+
+34.Bc3 Rg8  (34...Kxe6 35.Re4+ Kd6  (35...Kd5 36.Re5+ Kxc6 37.Rf6+ )  36.Rf6+ Kc5 37.Rc4+  (37.Rf5+ Kxc6 38.Rxb5 Kxb5 39.Re5+ )  37...Kb6 38.Bd4+ Ka6 39.Ra4+ Ra5 40.Rxa5+ Kxa5 41.Rf5+ )  35.Rd7+ Ke8 36.Bf6  (36.Bf6 Rb8 37.Re7+ Kf8 38.Bh4+ )
+ * 
+
+
+[Event "Chapter 11"]
+[Site "Game 22"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 11"]
+[Black "Game 22"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7R/6k1/5p2/5r1R/7P/1p4PK/r7/8 w - - 0 50"]
+
+50.R5h7+  (50.Rxf5 Kxh8 51.Rxf6 Kg7 52.Rb6 b2 53.h5 )  50...Kg6 51.h5+ Rxh5+ 52.Rxh5 Ra1 53.R8h6+  (53.Kg2 b2 )  53...Kg7 54.Rh7+ Kg6 55.R5h6+ Kg5
+ * 
+
+
+[Event "Chapter 11"]
+[Site "Game 23"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 11"]
+[Black "Game 23"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/3k4/pR6/2n2pB1/1K6/5Pb1/8 b - - 0 48"]
+
+48...a4+  (48...Ne5 49.Bf5 a4+ 50.Kc3 Bc6  (50...Bd5 )  51.Ra5 )  49.Kc3  (49.Kxa4 Bc6 )   (49.Kxc4 Bf1+ 50.Kb4 Bxb5 51.Kxb5 a3 )   (49.Ka2 Bd5 )  49...a3 50.Rb1 Bd5
+ * 
+
+
+[Event "Chapter 11"]
+[Site "Game 24"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 11"]
+[Black "Game 24"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2R5/5pkp/B1b1p3/6p1/1p2P3/2r4P/P4PP1/6K1 b - - 0 32"]
+
+32...Bb5  (32...Bxe4 33.Rb8 )  33.Bb7 Rxc8 34.Bxc8 Bc4 35.e5 Bxa2 36.Ba6 Bb1  (36...b3 37.Bc4 )  37.Kf1  (37.Bc4 Bc2 )  37...b3
+ * 
+
+
+[Event "Chapter 11"]
+[Site "Game 25"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 11"]
+[Black "Game 25"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1R3pk1/7p/3KP1pP/5rP1/5P2/8/8 w - - 0 91"]
+
+91.e6  (91.Rb3 Kf8 92.Ra3 Ke7 93.Ra6 Rxf3 94.Rxh6 Rf4 )  91...Rf6  (91...Rxf3 92.Ke4 Rf4+ 93.Ke5 Rf6  (93...Rxg4 94.Rxf7+ Kg8 95.Rf6 )  94.Rxf7+ Rxf7 95.exf7 Kxf7 96.Kf5 )   (91...Kf8 92.Ke5 fxe6 93.Rh7 Rxf3 94.Rxh6 Kf7 95.Rg6 Re3+ 96.Kd4 Re1 97.Rxg5 Kf6 98.Rg6+ Kf7 )  92.Rxf7+  (92.e7 Re6 )   (92.Re7 Kf8 )  92...Rxf7 93.exf7 Kxf7
+ * 
+
+
+[Event "Chapter 11"]
+[Site "Game 26"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 11"]
+[Black "Game 26"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/Q1b1r3/8/5K2/8/2k3r1 b - - 0 125"]
+
+125...Rg3+  (125...Rf1+ 126.Kg4 Rfe1  (126...Rg1+ 127.Kf3 Rg3+ )  127.Qc3+ Kd1  (127...Kb1 128.Qb3+ Ka1 )  128.Qd3+ )  126.Kf4  (126.Kxg3 Bf2+ )  126...Be3+ 127.Kxe5 Rg5+
+ * 
+
+
+[Event "Chapter 11"]
+[Site "Game 27"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 11"]
+[Black "Game 27"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/1pR5/p1b4r/P1p1Pk2/2N5/1P3P2/5K2 w - - 0 42"]
+
+42.Ne2+  (42.Ke2 Ke5 )  42...Kf3  (42...Kg4 43.Rg6+ Rg5  (43...Kf3 44.Rf6+ )  44.f3+ Kh4 45.Rh6+ Rh5 46.Rxh5+ Kxh5 47.Nf4+ )  43.Rf6+ Kg4 44.f3+ Kh4 45.Rg6
+ * 
+
+
+[Event "Chapter 11"]
+[Site "Game 28"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 11"]
+[Black "Game 28"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7r/8/p4pk1/1P3r2/P2p2Kp/3P3P/2P1R3/1R6 w - - 0 37"]
+
+37.bxa6  (37.b6 Rhh5 38.Re4 Rf2 39.Rf4 Rg5+ )   (37.Rg2 Rhh5 38.Rbg1 axb5 39.axb5 Rxb5 )  37...Rhh5 38.Re4 Rf2  (38...Rfg5+ 39.Kf3 Rg3+ 40.Ke2 Rg2+ 41.Kd1 Ra5  (41...Rg1+ 42.Re1 Rxe1+ 43.Kxe1 Ra5 44.Rb4 )  42.Rb4 )  39.Rb6
+ * 
+
+
+[Event "Chapter 11"]
+[Site "Game 29"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 11"]
+[Black "Game 29"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3R1k2/2p5/3b2p1/5pPp/Bp5P/4P3/p2K1P2/8 b - - 0 53"]
+
+53...Ke7  (53...Kg7 54.Rd7+ Kf8 )  54.Re8+ Kf7 55.Ra8
+ * 
+
+
+[Event "Chapter 11"]
+[Site "Game 30"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 11"]
+[Black "Game 30"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/P7/2p1kppp/2B5/3PNKPP/8/2r5 w - - 0 40"]
+
+40.Nc2 g4+  (40...Rxc2 41.a7 )  41.Ke3  (41.hxg4 hxg4+ 42.Ke3 Rh1 43.a7 Rh8 44.Na3 )  41...gxh3 42.a7 h2 43.a8=Q h1=Q 44.Qb8+ Kf6 45.Qf8+ Kg6  (45...Ke5 46.Qe7# )  46.Bf7+  (46.Bf7+ Kf6 47.Bg8+ Kg6 48.Qf7+ Kh6 49.Qf6# )
+ * 
+
+
+[Event "Chapter 11"]
+[Site "Game 31"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 11"]
+[Black "Game 31"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r7/8/2bk4/p2p1P2/3K4/3BP3/8/2R5 w - - 0 73"]
+
+73.e4 a4  (73...dxe4 74.Rxc6+ Kxc6 75.Bxe4+ )  74.e5+ Kd7 75.f6  (75.f6 a3 76.Bf5+ Kc7 77.f7 a2 78.Ra1 )
+ * 
+
+
+[Event "Chapter 11"]
+[Site "Game 32"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 11"]
+[Black "Game 32"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b3n1/2p1k1b1/4p2p/pBP3p1/P1N1N1P1/7P/3K4/5R2 w - - 0 42"]
+
+42.Ned6  (42.c6 Nf6 )  42...Nf6  (42...cxd6 43.cxd6+ Kd8 44.Rf7 )  43.Nxc8+ Rxc8 44.Nxa5 Rd8+  (44...Ne4+ 45.Ke3 Nxc5 46.Nc6+ Kd6 47.Rd1+ )  45.Ke2
+ * 
+
+
+[Event "Chapter 11"]
+[Site "Game 33"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 11"]
+[Black "Game 33"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/2P5/4R1p1/3kBn2/5P2/6r1/7K b - - 0 66"]
+
+66...Ke3  (66...Ra2 67.Rxg5 )  67.Rc5  (67.c7 Kf2 )  67...Rd2 68.Rc3+  (68.c7 Rd1+ 69.Kh2 Rd2+ )   (68.Bc2 Ne6 69.c7 Nxc7 70.Rxc7 Kxf3 )  68...Kf2 69.Rc2  (69.c7 Kg3 70.Rc1 Rh2+ 71.Kg1 Nh3+ 72.Kf1 Rh1+ )  69...Rxc2 70.Bxc2 Ne6 71.Be4 Kg3
+ * 
+
+
+[Event "Chapter 11"]
+[Site "Game 34"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 11"]
+[Black "Game 34"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5k2/5Bp1/8/6Np/1r5P/5KP1/5b2/8 b - - 0 43"]
+
+43...Be1  (43...Bxg3 44.Kxg3  (44.Bxh5 Bxh4 )  44...Rg4+ 45.Kf3 Rxg5 46.hxg5 Kxf7 47.Kg3 Ke6  (47...Kg6 48.Kh4 )   (47...Ke7 48.Kf3 Kd6 49.Ke4 Ke6 50.Kf4 )  48.Kf4 g6  (48...Kd5 49.Kf5 Kd4 50.g6 Ke3 51.Kg5 )  49.Ke4 )  44.Bxh5  (44.Bd5 Ke7 )  44...Rb3+ 45.Kg4 Rxg3+ 46.Kf5 Ra3 47.Nf3 Bf2
+ * 
+
+
+[Event "Chapter 11"]
+[Site "Game 35"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 11"]
+[Black "Game 35"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1b4pk/1P5p/6rP/2Q5/2R2p2/2P1q3/1K3R2 b - - 0 59"]
+
+59...Qxc4  (59...Rb5+ 60.Kc1 )  60.Rxc4 Ba6 61.Rb4 Bxf1 62.b7 f2 63.b8=Q Bc4
+ * 
+
+
+[Event "Chapter 11"]
+[Site "Game 36"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 11"]
+[Black "Game 36"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2R5/5p2/6k1/7N/bP2rPP1/8/5K2/8 b - - 0 46"]
+
+46...f5  (46...Rxb4 47.Rg8+ Kh6 48.Kg3 f5  (48...Rb6 49.Kh4 Kh7 50.Rg7+ )  49.Nf6  (49.Nf6 fxg4 50.f5 )  )  47.Rg8+ Kf7 48.Rg7+ Kf8 49.Rb7  (49.gxf5 Bd1 )   (49.g5 Bd1 )  49...Bd1 50.Kg3 Bxg4 51.Nf6 Re3+ 52.Kh4 Bf3 53.Rb6 Kf7 54.Kg5 Re6 55.Rxe6 Kxe6 56.Ne8 Kd5
+ * 
+
+
+[Event "Chapter 11"]
+[Site "Game 37"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 11"]
+[Black "Game 37"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/1kp5/p1p3R1/P7/8/5BK1/2q5 w - - 0 61"]
+
+61.Rxc5 Qxc5 62.Kh1 Qxf2
+ * 
+
+
+[Event "Chapter 11"]
+[Site "Game 38"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 11"]
+[Black "Game 38"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/4k3/R6p/6b1/6P1/3r2P1/6K1/8 b - - 0 56"]
+
+56...Rd6 57.Rxd6  (57.Ra3 Ke6 )  57...Kxd6 58.Kh1 Ke5 59.Kg2 Ke4 60.Kh1 Kf3 61.Kh2 Kf2 62.Kh1 Kf1 63.Kh2 Be3 64.Kh1  (64.Kh3 Kg1 )  64...Bg1 65.g5 hxg5
+ * 
+
+
+[Event "Chapter 11"]
+[Site "Game 39"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 11"]
+[Black "Game 39"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/6k1/3bP1p1/5BK1/2R2P2/1p6/8 w - - 0 67"]
+
+67.Rc1 Be6+ 68.Kg3 gxf4+ 69.Kh4
+ * 
+
+
+[Event "Chapter 11"]
+[Site "Game 40"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chapter 11"]
+[Black "Game 40"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/p2k4/4p3/P3P1bp/2KN2b1/6P1/2N5 b - - 0 45"]
+
+45...Bf3 46.gxf3 h3 47.Ne2 Bh4
+ * 
+
+
