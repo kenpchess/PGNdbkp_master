@@ -19,8 +19,8 @@
 
 ## Overview
 
-[PGNdbkp][website-link] is a free for personal use SAN-UCI chess PGN viewer and 
-SQLite chess database.
+[PGNdbkp][https://github.com/kenpchess/PGNdbkp_master] is a free for personal use
+SAN-UCI chess PGN viewer and SQLite chess database.
 
 PGNdbkp  includes a graphical user interface (GUI) that displays the
 chessboard and makes it easy to view or replay moves. This program is considered
