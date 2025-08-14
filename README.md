@@ -39,8 +39,14 @@ liberally commented.
 The main Features of PGNdbkp are :
 
   * Reads most SAN or UCI PGN gamefiles. It attempts to remove all comments
-    and variations, although not 100% perfect. Also reads and writes an 
-    SQLite database file of its' own simple format.
+    and variations, although not 100% perfect. I would suggest using the
+    excellent pgn-extract utility (https://github.com/kentdjb/pgn-extract/
+    or https://www.cs.kent.ac.uk/people/staff/djb/pgn-extract/) to fully
+    clean any PGN files you find troublesome. (A command such as:
+    pgn-extract -C -V input.pgn --output cleaned.pgn should work fine).
+    
+  * PGNdbkp also reads and writes an SQLite database file of its' own 
+    simple format.
     
   * Allows game export (all games or current game) to SQLite database file.
   
