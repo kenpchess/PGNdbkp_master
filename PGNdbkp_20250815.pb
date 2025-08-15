@@ -1293,7 +1293,7 @@ Procedure DisplayGames()
   If SampleGames_Flag = #False
     FileInfoResult = StringGadget(#DbFile_Gadget, #fileinfogadgetDefaultX, #fileinfogadgetDefaultY, #fileinfogadgetwidth, 25, "db: " + DB_InputFile)
   Else
-    FileInfoResult = StringGadget(#DbFile_Gadget, #fileinfogadgetDefaultX, #fileinfogadgetDefaultY, #fileinfogadgetwidth, 25, "no file was selected: showing sample games")
+    FileInfoResult = StringGadget(#DbFile_Gadget, #fileinfogadgetDefaultX, #fileinfogadgetDefaultY, #fileinfogadgetwidth, 25, "A file was NOT selected: showing sample games.")
   EndIf
   FENBtnResult = ButtonGadget(#Btn_Fen, #FENBtnDefaultX, #FENBtnDefaultY, 90, 25, "Show FEN")
   BrdSizeBtnResult = ButtonGadget(#Btn_BoardSize, #ButtonsLeftEdgeDefaultX+85, #FENBtnDefaultY, 100, 25, "BoardSize")
@@ -2164,6 +2164,7 @@ EndProcedure
 Procedure LoadSampleGames()
 
   Protected i.b
+  #sample_games = 7
   
   ; sample game 1
   EventSites(1) = "WCC31-Moscow" : GameDates(1) = "19840910" :  WhitePlayers(1) = "Karpov, Anatoly   G#1" : WhiteElos(1) = "2705" : BlackPlayers(1) = "Kasparov, Garry   G#1" : BlackElos(1) = "2715" : Each_Game_Result(1) = "1-0"
@@ -2190,8 +2191,21 @@ Procedure LoadSampleGames()
   
   FilePGNs(5) = "1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 Bb4+ 6. Bd2 Be7 7. Nc3 c6 8.e4 d5 9. Qc2 dxe4 10. Nxe4 Bb7 11. Neg5 c5 12. d5 exd5 13. cxd5 h6 14. Nxf7 Kxf7 15. O-O-O Bd6 16. Nh4 Bc8 17. Re1 Na6 18. Re6 Nb4 19. Bxb4 cxb4 20. Bc4 b5 21. Bxb5 Be7 22. Ng6 Nxd5 23. Rxe7+ Nxe7 24. Bc4+ Kf6 25. Nxh8 Qd4 26. Rd1 Qa1+ 27. Kd2 Qd4+ 28. Ke1 Qe5+ 29. Qe2 Qxe2+ 30. Kxe2 Nf5 31. Nf7 a5 32. g4 Nh4 33. h3 Ra7 34. Rd6+ Ke7 35. Rb6 Rc7 36. Ne5 Ng2 37. Ng6+ Kd8 38. Kf1 Bb7 39. Rxb7 Rxb7 40. Kxg2 Rd7 41. Nf8 Rd2 42. Ne6+ Ke7 43. Nxg7 Rxa2 44. Nf5+ Kf6 45. Nxh6 Rc2 46. Bf7 Rc3 47. f4 a4 48. bxa4 b3 49. g5+ Kg7 50. f5 b2 51. f6+ Kh7 52. Nf5 1-0"
   
-  For i = 1 To 5 : Display_Flag(i) = 1 : FEN_setup_str(i) = "" : FEN_setup_flag(1) = 0 : Next
-  GameCount = 6
+  ; sample game 6
+  EventSites(6) = "Wijk aan Zee" : GameDates(6) = "19990120" :  WhitePlayers(6) = "Kasparov, Garry   G#6" : WhiteElos(6) = "2812" : BlackPlayers(6) = "Topalov, Veselin   G#6" : BlackElos(6) = "2700" : Each_Game_Result(6) = "1-0"
+  
+  FilePGNs(6) = "1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Be3 Bg7 5. Qd2 c6 6. f3 b5 7. Nge2 Nbd7 8. Bh6 Bxh6 9. Qxh6 Bb7 10. a3 e5 11. O-O-O Qe7 12. Kb1 a6 13. Nc1 O-O-O 14. Nb3 exd4 15. Rxd4 c5 16. Rd1 Nb6 17. g3 Kb8 18. Na5 Ba8 19. Bh3 d5 20. Qf4+ Ka7 21. Rhe1 d4 22. Nd5 Nbxd5 23. exd5 Qd6 24. Rxd4 cxd4 25. Re7+ Kb6 26. Qxd4+ Kxa5 27. b4+ Ka4 28. Qc3 Qxd5 29. Ra7 Bb7 30. Rxb7 Qc4 31. Qxf6 Kxa3 32. Qxa6+ Kxb4 33. c3+ Kxc3 34. Qa1+ Kd2 35. Qb2+ Kd1 36. Bf1 Rd2 37. Rd7 Rxd7 38. Bxc4 bxc4 39. Qxh8 Rd3 40. Qa8 c3 41. Qa4+ Ke1 42. f4 f5 43. Kc1 Rd2 44. Qa7 1-0"
+  
+  ; sample game 7
+  EventSites(7) = "KasparovChessGP" : GameDates(7) = "2000210" :  WhitePlayers(7) = "Gulko, Boris   G#7" : WhiteElos(7) = "2644" : BlackPlayers(7) = "Adams, Michael   G#7" : BlackElos(7) = "2715" : Each_Game_Result(7) = "0-1"
+  
+  FilePGNs(7) = "1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. a3 Bxc3+ 7. bxc3 dxc4 8. Bxc4 c5 9. Nf3 Qa5 10. Bd2 Qc7 11. Bd3 b6 12. e4 Ba6 13. Bxa6 Nxa6 14. Qe2 Qb7 15. e5 Ne4 16. O-O Rfd8 17. Rfd1 cxd4 18. cxd4 Nxd2 19. Rxd2 h6 20. Rc1 Nc7 21. Rdc2 Nd5 22. g3 Rac8 23. Qd3 Rxc2 24. Rxc2 b5 25. Rc5 a6 26. Qe4 b4 27. axb4 Qxb4 28. Qe1 Qb3 29. Kg2 Rb8 30. Qc1 Kh7 31. h4 Ra8 32. Ra5 Qb7 33. h5 Kg8 34. Qc2 Rc8 35. Rc5 Rb8 36. Qc4 Qa8 37. Ra5 Ne3+ 38. fxe3 Rb2+ 0-1"
+
+  ; sample game 8
+  ; nothing yet
+  
+  For i = 1 To #sample_games : Display_Flag(i) = 1 : FEN_setup_str(i) = "" : FEN_setup_flag(1) = 0 : Next
+  GameCount = #sample_games + 1
 
 EndProcedure
   
@@ -4116,8 +4130,8 @@ EndIf
 
 DisplayGames()
 ; IDE Options = PureBasic 6.21 - C Backend (MacOS X - x64)
-; CursorPosition = 3227
-; FirstLine = 3210
+; CursorPosition = 2200
+; FirstLine = 2179
 ; Folding = --------------------
 ; EnableThread
 ; EnableXP
