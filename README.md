@@ -67,6 +67,11 @@ The main Features of PGNdbkp are :
   
   * GUI allows main window resizing (limited) and allows using arrow-keys
     for move traversal.
+    
+  * There are a few "Easter Egg" features if you look at the source code.
+    One such feature is if you choose "cancel" at the file-open dialog
+    instead of selecting a PGN file, you will be presented with some
+    nice built-in sample chess games to view.
 
 
 ## Files
