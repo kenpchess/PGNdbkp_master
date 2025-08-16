@@ -2164,7 +2164,7 @@ EndProcedure
 Procedure LoadSampleGames()
 
   Protected i.b
-  #sample_games = 9
+  #sample_games = 10
   
   ; sample game 1
   EventSites(1) = "WCC31-Moscow" : GameDates(1) = "19840910" :  WhitePlayers(1) = "Karpov, Anatoly   G#1" : WhiteElos(1) = "2705" : BlackPlayers(1) = "Kasparov, Garry   G#1" : BlackElos(1) = "2715" : Each_Game_Result(1) = "1-0"
@@ -2197,22 +2197,24 @@ Procedure LoadSampleGames()
   FilePGNs(6) = "1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Be3 Bg7 5. Qd2 c6 6. f3 b5 7. Nge2 Nbd7 8. Bh6 Bxh6 9. Qxh6 Bb7 10. a3 e5 11. O-O-O Qe7 12. Kb1 a6 13. Nc1 O-O-O 14. Nb3 exd4 15. Rxd4 c5 16. Rd1 Nb6 17. g3 Kb8 18. Na5 Ba8 19. Bh3 d5 20. Qf4+ Ka7 21. Rhe1 d4 22. Nd5 Nbxd5 23. exd5 Qd6 24. Rxd4 cxd4 25. Re7+ Kb6 26. Qxd4+ Kxa5 27. b4+ Ka4 28. Qc3 Qxd5 29. Ra7 Bb7 30. Rxb7 Qc4 31. Qxf6 Kxa3 32. Qxa6+ Kxb4 33. c3+ Kxc3 34. Qa1+ Kd2 35. Qb2+ Kd1 36. Bf1 Rd2 37. Rd7 Rxd7 38. Bxc4 bxc4 39. Qxh8 Rd3 40. Qa8 c3 41. Qa4+ Ke1 42. f4 f5 43. Kc1 Rd2 44. Qa7 1-0"
   
   ; sample game 7
-  EventSites(7) = "KasparovChessGP" : GameDates(7) = "2000210" :  WhitePlayers(7) = "Gulko, Boris   G#7" : WhiteElos(7) = "2644" : BlackPlayers(7) = "Adams, Michael   G#7" : BlackElos(7) = "2715" : Each_Game_Result(7) = "0-1"
+  EventSites(7) = "KasparovChessGP" : GameDates(7) = "20000210" :  WhitePlayers(7) = "Gulko, Boris   G#7" : WhiteElos(7) = "2644" : BlackPlayers(7) = "Adams, Michael   G#7" : BlackElos(7) = "2715" : Each_Game_Result(7) = "0-1"
   
   FilePGNs(7) = "1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. a3 Bxc3+ 7. bxc3 dxc4 8. Bxc4 c5 9. Nf3 Qa5 10. Bd2 Qc7 11. Bd3 b6 12. e4 Ba6 13. Bxa6 Nxa6 14. Qe2 Qb7 15. e5 Ne4 16. O-O Rfd8 17. Rfd1 cxd4 18. cxd4 Nxd2 19. Rxd2 h6 20. Rc1 Nc7 21. Rdc2 Nd5 22. g3 Rac8 23. Qd3 Rxc2 24. Rxc2 b5 25. Rc5 a6 26. Qe4 b4 27. axb4 Qxb4 28. Qe1 Qb3 29. Kg2 Rb8 30. Qc1 Kh7 31. h4 Ra8 32. Ra5 Qb7 33. h5 Kg8 34. Qc2 Rc8 35. Rc5 Rb8 36. Qc4 Qa8 37. Ra5 Ne3+ 38. fxe3 Rb2+ 0-1"
 
   ; sample game 8
-  EventSites(8) = "WCC-BGN London" : GameDates(8) = "2001010" :  WhitePlayers(8) = "Kramnik, Vladimir   G#8" : WhiteElos(8) = "2770" : BlackPlayers(8) = "Kasparov, Garry   G#8" : BlackElos(8) = "2849" : Each_Game_Result(8) = "1-0"
+  EventSites(8) = "WCC-BGN London" : GameDates(8) = "20010210" :  WhitePlayers(8) = "Kramnik, Vladimir   G#8" : WhiteElos(8) = "2770" : BlackPlayers(8) = "Kasparov, Garry   G#8" : BlackElos(8) = "2849" : Each_Game_Result(8) = "1-0"
   
   FilePGNs(8) = "1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Nf3 c5 8. Be3 Qa5 9. Qd2 Bg4 10. Rb1 a6 11. Rxb7 Bxf3 12. gxf3 Nc6 13. Bc4 O-O 14. O-O cxd4 15. cxd4 Bxd4 16. Bd5 Bc3 17. Qc1 Nd4 18. Bxd4 Bxd4 19. Rxe7 Ra7 20. Rxa7 Bxa7 21. f4 Qd8 22. Qc3 Bb8 23. Qf3 Qh4 24. e5 g5 25. Re1 Qxf4 26. Qxf4 gxf4 27. e6 fxe6 28. Rxe6 Kg7 29. Rxa6 Rf5 30. Be4 Re5 31. f3 Re7 32. a4 Ra7 33. Rb6 Be5 34. Rb4 Rd7 35. Kg2 Rd2+ 36. Kh3 h5 37. Rb5 Kf6 38. a5 Ra2 39. Rb6+ Ke7 40. Bd5 1-0"
   
   ;sample game 9
-  EventSites(9) = "Linares-19" : GameDates(9) = "2002039" :  WhitePlayers(9) = "Kasparov, Garry   G#9" : WhiteElos(9) = "2838" : BlackPlayers(9) = "Ponomariov, Ruslan   G#9" : BlackElos(9) = "2727" : Each_Game_Result(9) = "1-0"
+  EventSites(9) = "Linares-19" : GameDates(9) = "20020309" :  WhitePlayers(9) = "Kasparov, Garry   G#9" : WhiteElos(9) = "2838" : BlackPlayers(9) = "Ponomariov, Ruslan   G#9" : BlackElos(9) = "2727" : Each_Game_Result(9) = "1-0"
   
   FilePGNs(9) = "1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. c3 c5 8. Ne5 Nd7 9. Bb5 Bd6 10. Qg4 Kf8 11. O-O $5 Nxe5 12. dxe5 Bxe5 13. Bg5 Bf6 14. Rad1 Qc7 15. Qh4 Bxg5 16. Qxg5 f6 17. Qh5 g6 18. Qh6+ Kf7 19. Rd3 a6 20. Rh3 Qe7 21. Bd3 f5 22. g4 Qf6 23. Rd1 b5 24. Be2 e5 25. Rhd3 Ra7 26. Rd6 Qg7 27. Qe3 Rc7 28. a4 e4 29. axb5 axb5 30. Bxb5 Qe5 31. Qg5 Qe7 32. Qh6 Be6 33. Qf4 Bc8 34. Qh6 Be6 35. gxf5 gxf5 36. Be2 Qf6 37. Bh5+ Ke7 38. Rxe6+ 1-0"
   
   ; sample game 10
+  EventSites(10) = "JBorowski-4th" : GameDates(10) = "20020525" :  WhitePlayers(10) = "Kasimdzhanov, Rustam   G#10" : WhiteElos(10) = "2675" : BlackPlayers(10) = "Kortschnoj, Viktor   G#10" : BlackElos(10) = "2635" : Each_Game_Result(10) = "1-0"
   
+  FilePGNs(10) = "1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 dxe4 5. Nxe4 Nbd7 6. Nxf6+ Nxf6 7. Nf3 c5 8. Bc4 Qa5+ 9. c3 Be7 10. O-O O-O 11. Re1 h6 12. Bh4 Rd8 13. Qe2 cxd4 14. Nxd4 Bd7 15. Rad1 Kh8 16. Rd3 Ng8 17. Bg3 Rac8 18. Rf3 Bf6 19. Bd3 Qd5 20. Be4 Qxa2 21. Bb1 Qd5 22. Qd3 g6 23. Rxf6 Nxf6 24. Be5 Kg7 25. Qg3 Qc5 26. Re3 Bc6 27. Bxg6 fxg6 28. Bxf6+ Kh7 29. Bxd8 Rxd8 30. Rxe6 Qg5 31. Qxg5 hxg5 32. Re7+ Kh6 33. h3 Bd5 34. Nc2 1-0"
   
   For i = 1 To #sample_games : Display_Flag(i) = 1 : FEN_setup_str(i) = "" : FEN_setup_flag(1) = 0 : Next
   GameCount = #sample_games + 1
@@ -4145,8 +4147,8 @@ EndIf
 
 DisplayGames()
 ; IDE Options = PureBasic 6.21 - C Backend (MacOS X - x64)
-; CursorPosition = 3821
-; FirstLine = 3798
+; CursorPosition = 2209
+; FirstLine = 2192
 ; Folding = --------------------
 ; EnableThread
 ; EnableXP
