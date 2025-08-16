@@ -72,7 +72,12 @@ The main Features of PGNdbkp are :
     One such feature is if you choose "cancel" at the file-open dialog
     instead of selecting a PGN file, you will be presented with some
     nice built-in sample chess games to view.
-
+    
+  * It should probably be noted that PGNdbkp runs more smoothly on MacOs
+    than Windows primarily because 90% of the coding and debugging were
+    done on MacOS. Also some features of PureBasic are implemented
+    differently on the two platforms, which necessitated different
+    coding approaches for the two platforms.
 
 ## Files
 
