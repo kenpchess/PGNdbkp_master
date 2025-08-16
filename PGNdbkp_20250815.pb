@@ -2164,7 +2164,7 @@ EndProcedure
 Procedure LoadSampleGames()
 
   Protected i.b
-  #sample_games = 7
+  #sample_games = 9
   
   ; sample game 1
   EventSites(1) = "WCC31-Moscow" : GameDates(1) = "19840910" :  WhitePlayers(1) = "Karpov, Anatoly   G#1" : WhiteElos(1) = "2705" : BlackPlayers(1) = "Kasparov, Garry   G#1" : BlackElos(1) = "2715" : Each_Game_Result(1) = "1-0"
@@ -2202,7 +2202,17 @@ Procedure LoadSampleGames()
   FilePGNs(7) = "1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. a3 Bxc3+ 7. bxc3 dxc4 8. Bxc4 c5 9. Nf3 Qa5 10. Bd2 Qc7 11. Bd3 b6 12. e4 Ba6 13. Bxa6 Nxa6 14. Qe2 Qb7 15. e5 Ne4 16. O-O Rfd8 17. Rfd1 cxd4 18. cxd4 Nxd2 19. Rxd2 h6 20. Rc1 Nc7 21. Rdc2 Nd5 22. g3 Rac8 23. Qd3 Rxc2 24. Rxc2 b5 25. Rc5 a6 26. Qe4 b4 27. axb4 Qxb4 28. Qe1 Qb3 29. Kg2 Rb8 30. Qc1 Kh7 31. h4 Ra8 32. Ra5 Qb7 33. h5 Kg8 34. Qc2 Rc8 35. Rc5 Rb8 36. Qc4 Qa8 37. Ra5 Ne3+ 38. fxe3 Rb2+ 0-1"
 
   ; sample game 8
-  ; nothing yet
+  EventSites(8) = "WCC-BGN London" : GameDates(8) = "2001010" :  WhitePlayers(8) = "Kramnik, Vladimir   G#8" : WhiteElos(8) = "2770" : BlackPlayers(8) = "Kasparov, Garry   G#8" : BlackElos(8) = "2849" : Each_Game_Result(8) = "1-0"
+  
+  FilePGNs(8) = "1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Nf3 c5 8. Be3 Qa5 9. Qd2 Bg4 10. Rb1 a6 11. Rxb7 Bxf3 12. gxf3 Nc6 13. Bc4 O-O 14. O-O cxd4 15. cxd4 Bxd4 16. Bd5 Bc3 17. Qc1 Nd4 18. Bxd4 Bxd4 19. Rxe7 Ra7 20. Rxa7 Bxa7 21. f4 Qd8 22. Qc3 Bb8 23. Qf3 Qh4 24. e5 g5 25. Re1 Qxf4 26. Qxf4 gxf4 27. e6 fxe6 28. Rxe6 Kg7 29. Rxa6 Rf5 30. Be4 Re5 31. f3 Re7 32. a4 Ra7 33. Rb6 Be5 34. Rb4 Rd7 35. Kg2 Rd2+ 36. Kh3 h5 37. Rb5 Kf6 38. a5 Ra2 39. Rb6+ Ke7 40. Bd5 1-0"
+  
+  ;sample game 9
+  EventSites(9) = "Linares-19" : GameDates(9) = "2002039" :  WhitePlayers(9) = "Kasparov, Garry   G#9" : WhiteElos(9) = "2838" : BlackPlayers(9) = "Ponomariov, Ruslan   G#9" : BlackElos(9) = "2727" : Each_Game_Result(9) = "1-0"
+  
+  FilePGNs(9) = "1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. c3 c5 8. Ne5 Nd7 9. Bb5 Bd6 10. Qg4 Kf8 11. O-O $5 Nxe5 12. dxe5 Bxe5 13. Bg5 Bf6 14. Rad1 Qc7 15. Qh4 Bxg5 16. Qxg5 f6 17. Qh5 g6 18. Qh6+ Kf7 19. Rd3 a6 20. Rh3 Qe7 21. Bd3 f5 22. g4 Qf6 23. Rd1 b5 24. Be2 e5 25. Rhd3 Ra7 26. Rd6 Qg7 27. Qe3 Rc7 28. a4 e4 29. axb5 axb5 30. Bxb5 Qe5 31. Qg5 Qe7 32. Qh6 Be6 33. Qf4 Bc8 34. Qh6 Be6 35. gxf5 gxf5 36. Be2 Qf6 37. Bh5+ Ke7 38. Rxe6+ 1-0"
+  
+  ; sample game 10
+  
   
   For i = 1 To #sample_games : Display_Flag(i) = 1 : FEN_setup_str(i) = "" : FEN_setup_flag(1) = 0 : Next
   GameCount = #sample_games + 1
@@ -2889,7 +2899,7 @@ Procedure NextMove()
             Next i
 
             ResultPGN = ResultPGN + CleanedLine + " " ; Add a space after each processed line
-            PrintN("ResultPGN = " + ResultPGN)
+            ;PrintN("ResultPGN = " + ResultPGN)
         Wend
 
 
@@ -3465,9 +3475,12 @@ Procedure RemoveNumberDotSequenceSpecialNotations(XGameScore_Movelist.s)
    XGameScore_MoveList = ReplaceString(XGameScore_MoveList,Space(2),Space(1))
   Wend
   
-  PrintN("") : PrintN("XGameScore_Movelist reduced = " + XGameScore_MoveList) : PrintN("")
-  GameScore_MoveList = XGameScore_Movelist                                                  ; work-around for global string bug I do not understand??
-  PrintN("") : PrintN("GameScore_Movelist reduced = " + GameScore_MoveList) : PrintN("")
+  GameScore_MoveList = XGameScore_Movelist ; work-around for global string bug I do not understand??
+  
+  CompilerIf #PB_Compiler_OS = #PB_OS_MacOS
+    PrintN("") : PrintN("XGameScore_Movelist reduced = " + XGameScore_MoveList) : PrintN("")       
+    PrintN("") : PrintN("GameScore_Movelist reduced = " + GameScore_MoveList) : PrintN("")
+  CompilerEndIf
     
 EndProcedure
 
@@ -3801,7 +3814,9 @@ Procedure SpacifyNoSpaceGamescoreLine(line.s)
   
   GameScore_MoveList = Line
   
-  PrintN("") : PrintN("GameScore_Movelist spacified = " + GameScore_MoveList) : PrintN("")
+  CompilerIf #PB_Compiler_OS = #PB_OS_MacOS
+    PrintN("") : PrintN("GameScore_Movelist spacified = " + GameScore_MoveList) : PrintN("")
+  CompilerEndIf
   
 EndProcedure
 
@@ -4130,8 +4145,8 @@ EndIf
 
 DisplayGames()
 ; IDE Options = PureBasic 6.21 - C Backend (MacOS X - x64)
-; CursorPosition = 2200
-; FirstLine = 2179
+; CursorPosition = 3821
+; FirstLine = 3798
 ; Folding = --------------------
 ; EnableThread
 ; EnableXP
