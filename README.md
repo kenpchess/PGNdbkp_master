@@ -78,6 +78,11 @@ The main Features of PGNdbkp are :
     done on MacOS. Also some features of PureBasic are implemented
     differently on the two platforms, which necessitated different
     coding approaches for the two platforms.
+    
+  * There are almost certainly still software bugs in this program!
+    Reported bugs will probably be fixed but not in any particular
+    timeframe. The author (me) is a retired 72 year-old gentleman
+    with only so much time and energy! Thank you!
 
 ## Files
 
