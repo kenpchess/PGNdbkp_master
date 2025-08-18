@@ -83,6 +83,12 @@ The main Features of PGNdbkp are :
     Reported bugs will probably be fixed but not in any particular
     timeframe. The author (me) is a retired 72 year-old gentleman
     with only so much time and energy! Thank you!
+    
+  * Although PGNdbkp is totally free for personal use, if you find it
+    useful and would like to send me a small PayPal donation, it would
+    be most appreciated! My PayPal donation link is:
+    [https://paypal.me/kenpresley?locale.x=en_US&country.x=US]
+    
 
 ## Files
 
