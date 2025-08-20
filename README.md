@@ -68,6 +68,12 @@ The main Features of PGNdbkp are :
   * GUI allows main window resizing (limited) and allows using arrow-keys
     for move traversal.
     
+  * The current gamescore limit for PGNdbkp is set at 200,000 games via
+    the #game_max constant at the top of the source file. You can of
+    course increase this limit and re-compile your own version if you
+    have the memory. PGNdbkp uses about 200mb of memory (all games are
+    stored in memory) for every 100,000 games in the PGN input file.
+    
   * There are a few "Easter Egg" features if you look at the source code.
     One such feature is if you choose "cancel" at the file-open dialog
     instead of selecting a PGN file, you will be presented with some
