@@ -50,7 +50,8 @@ The main Features of PGNdbkp are :
     
   * Allows game export (all games or current game) to SQLite database file.
   
-  * Allows current game to be exported to a single-game PGN gamefile textfile.
+  * Allows the current game or a range of games to be exported to a PGN 
+    gamefile textfile.
   
   * Stockfish or UCI engine interaction. Allows chess engine to analyze moves
     or positions. The default engine location is updatable.
