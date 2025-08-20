@@ -73,6 +73,9 @@ The main Features of PGNdbkp are :
     course increase this limit and re-compile your own version if you
     have the memory. PGNdbkp uses about 200mb of memory (all games are
     stored in memory) for every 100,000 games in the PGN input file.
+    The above-mentioned pgn-extract utility is one such utility that
+    allows you to split very large PGN files into any number of smaller
+    files.
     
   * There are a few "Easter Egg" features if you look at the source code.
     One such feature is if you choose "cancel" at the file-open dialog
