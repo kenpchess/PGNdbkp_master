@@ -1027,11 +1027,12 @@ Procedure ConstructPositionfromFEN(FENpositionstr.s)
   Dim FENrankstr.s(8)
 
   tempFENstr = FENpositionstr
-  PrintN("")
-  PrintN("FEN = " + tempFENstr)
-  PrintN("")
-  
-  PrintN("CPF - HalfMoveCount = " + Str(HalfMoveCount))
+  CompilerIf #PB_Compiler_OS = #PB_OS_MacOS
+    PrintN("")
+    PrintN("FEN = " + tempFENstr)
+    PrintN("")
+    PrintN("CPF - HalfMoveCount = " + Str(HalfMoveCount))
+  CompilerEndIf
   
   FEN_ColorToMove = FindString(tempFENstr," w",1)
   
@@ -1043,7 +1044,7 @@ Procedure ConstructPositionfromFEN(FENpositionstr.s)
   
   MoveNoStr = Mid(tempFENstr,Len(tempFENstr)-1,2)
   GameMoveNumber = Val(Trim(MoveNoStr,Space(1)))
-  PrintN("debug: CPfF - length of FEN string = " + Str(Len(tempFENstr)) + " GameMoveNumber = " + Str(GameMoveNumber))
+  ;PrintN("debug: CPfF - length of FEN string = " + Str(Len(tempFENstr)) + " GameMoveNumber = " + Str(GameMoveNumber))
 
   For chessrank = 2 To 9
     If chessrank <> 9
@@ -1675,7 +1676,9 @@ If FileID
       If Game_FEN_Positions(z) <> "" And Engine_analy_flag > 0
         SF_Time_Per_Move = 350
         QuickEngine_Flag = #True
-        PrintN("...calling Stockfish...halfmove = " + Str(z) + " FEN=" + Game_FEN_Positions(z))
+        CompilerIf #PB_Compiler_OS = #PB_OS_MacOS
+          PrintN("...calling Stockfish...halfmove = " + Str(z) + " FEN=" + Game_FEN_Positions(z))
+        CompilerEndIf
         If FindString(GameResult_SearchMask, Trim(GameScore_Plain_HalfMoves(z),Space(1))) > 0
           SF_fenposition = Game_FEN_Positions(z-1)
         Else
@@ -1985,23 +1988,29 @@ Procedure GetBestMoveUCIPV(ProgramID, fen.s, searchTime_ms, MultiPV.b)
       If cpscore_mate_pos > 0
         pvstring(MultiPV) = Trim(pvstring(MultiPV),Space(1)) + "#"
       EndIf
-      PrintN("")
-      PrintN("pvstring" + "(" + Str(multipv) + ") = " + pvstring(MultiPV))
-      PrintN("")
+      CompilerIf #PB_Compiler_OS = #PB_OS_MacOS
+        PrintN("")
+        PrintN("pvstring" + "(" + Str(multipv) + ") = " + pvstring(MultiPV))
+        PrintN("")
+      CompilerEndIf
     EndIf
     
     If cpscore_normal_pos > 0
       cpscore_str(MultiPV) = Trim(Mid(response2, cpscore_normal_pos+9, nodes-cpscore_normal_pos-9), Space(1))
-      PrintN("")
-      PrintN("score(" + Str(MultiPV) + ") = " + cpscore_str(MultiPV))
-      PrintN("")
+      CompilerIf #PB_Compiler_OS = #PB_OS_MacOS
+        PrintN("")
+        PrintN("score(" + Str(MultiPV) + ") = " + cpscore_str(MultiPV))
+        PrintN("")
+      CompilerEndIf
     EndIf
     
     If cpscore_mate_pos > 0
       cpscore_str(MultiPV) = "mate " + Trim(Mid(response2, cpscore_mate_pos+11, nodes-cpscore_mate_pos-11), Space(1))
-      PrintN("")
-      PrintN("score(" + Str(MultiPV) + ") = " + cpscore_str(MultiPV))
-      PrintN("")
+      CompilerIf #PB_Compiler_OS = #PB_OS_MacOS
+        PrintN("")
+        PrintN("score(" + Str(MultiPV) + ") = " + cpscore_str(MultiPV))
+        PrintN("")
+      CompilerEndIf
     EndIf
 
     If pos
@@ -4343,9 +4352,9 @@ EndIf
 
 DisplayGames()
 ; IDE Options = PureBasic 6.21 - C Backend (MacOS X - x64)
-; CursorPosition = 1991
-; FirstLine = 1972
-; Folding = --------------------
+; CursorPosition = 3545
+; FirstLine = 3536
+; Folding = ---------------------
 ; EnableThread
 ; EnableXP
 ; DPIAware
