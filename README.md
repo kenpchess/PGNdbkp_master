@@ -9,7 +9,7 @@
   
   <br>
   
-  ![Alt text](PGNdbkp_20250815_78pct.png "PGNdbko screenshot")
+  ![Alt text](PGNdbkp_20250903_75pct.png "PGNdbko screenshot")
 
   
   <br>
@@ -52,6 +52,11 @@ The main Features of PGNdbkp are :
   
   * Allows the current game or a range of games to be exported to a PGN 
     gamefile textfile, including ascii diagrams and engine analysis.
+    
+  * Allows the current game or a range of games to be exported to a PDF
+    file with graphic board diagrams (smaller version of on-screen
+    chessboard) and engine analysis. These are essentially make-your-own
+    PDF chessbooks (only partially working under Windows).
   
   * Stockfish or UCI engine interaction. Allows chess engine to analyze moves
     or positions. The default engine location is updatable.
@@ -81,7 +86,7 @@ The main Features of PGNdbkp are :
   * There are a few "Easter Egg" features if you look at the source code.
     One such feature is if you choose "cancel" at the file-open dialog
     instead of selecting a PGN file, you will be presented with some
-    nice built-in sample chess games to view.
+    nice built-in sample chess games to view (about 800 games).
     
   * It should probably be noted that PGNdbkp runs more smoothly on MacOs
     than Windows primarily because 90% of the coding and debugging were
