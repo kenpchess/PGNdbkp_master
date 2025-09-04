@@ -3566,12 +3566,12 @@ EventSites(186) = "RUS-chT 13th  Sochi" : GameDates(186) = "20060430" : WhitePla
 FilePGNs(186) = "1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 b6 7. Bg5 Bb7 8. e3 d6 9. Ne2 Nbd7 10. Qd3 c5 11. Nc3 Qe7 12. Be2  Bxg2 13. Rg1 Bb7 14. O-O-O Rfc8 15. d5  exd5 16. cxd5 a6 17. Qf5 b5 18. Bd3 g6 19. Ne4  gxf5 20. Bxf6+  Kf8 21. Bxe7+ Kxe7 22. Ng3 Nf6  23. Nxf5+ Kd7 24. e4  Rg8 25. Nh6  Rxg1 26. Rxg1 Rf8 27. Rg7 Ke7 28. Nf5+ Kd7 29. Kd2 Bc8 30. b4  c4 31. Bc2 h5 32. h4  Kc7 33. Nh6 Ng4 34. Nxf7  Nxf2 35. Ne5+ Kb6 36. a4  a5  37. bxa5+ Kxa5 38. Nc6+ Kb6 39. a5+ Kc5 40. Rc7 Ng4  41. Kc3  Rf3+ 42. Kb2 Rf2 43. Ne5+ Kb4 44. Nc6+ Kc5 45. Ne5+ Kb4 1/2-1/2 "
 
 ; sample game 187
-EventSites(187) = "Sigeman & Co 14th  Malmö" : GameDates(187) = "20060503" : WhitePlayers(187) = "Khenkin, Igor   G#187" : WhiteElos(187) = "2602" : BlackPlayers(187) = "Atalik, Suat   G#187" : BlackElos(187) = "2632" : Each_Game_Result(187) = "0-1"
+EventSites(187) = "Sigeman & Co 14th  MalmÃ¶" : GameDates(187) = "20060503" : WhitePlayers(187) = "Khenkin, Igor   G#187" : WhiteElos(187) = "2602" : BlackPlayers(187) = "Atalik, Suat   G#187" : BlackElos(187) = "2632" : Each_Game_Result(187) = "0-1"
 
 FilePGNs(187) = "1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Be3 c5 8. Qd2 cxd4 9. cxd4 Nc6 10. Bb5 O-O 11. Ne2 Qa5 12. Qxa5 Nxa5 13. Rc1 a6  14. Bd3 Bd7 15. Rc7 Bb5 16. Bxb5  axb5 17. Rxe7 Nc4 18. Bc1  Rxa2 19. e5 Rb8   20. Rc7 Bf8 21. h4 Bb4+ 22. Kd1 Nxe5   23. Rh3 Ng4 24. Be3 Re8 25. Nc3 Nxf2+ 26. Bxf2 Rxf2 27. Rf3 Rxg2 28. Rfxf7 Ra8 29. Rg7+ Kf8 0-1 "
 
 ; sample game 188
-EventSites(188) = "Sigeman & Co 14th  Malmö" : GameDates(188) = "20060506" : WhitePlayers(188) = "Hector, Jonny   G#188" : WhiteElos(188) = "2514" : BlackPlayers(188) = "Atalik, Suat   G#188" : BlackElos(188) = "2632" : Each_Game_Result(188) = "0-1"
+EventSites(188) = "Sigeman & Co 14th  MalmÃ¶" : GameDates(188) = "20060506" : WhitePlayers(188) = "Hector, Jonny   G#188" : WhiteElos(188) = "2514" : BlackPlayers(188) = "Atalik, Suat   G#188" : BlackElos(188) = "2632" : Each_Game_Result(188) = "0-1"
 
 FilePGNs(188) = "1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Be3 Qf6 6. c3 Nge7 7. g3 h5  8. f4  Bxd4 9. cxd4 d5 10. Nc3 Bg4 11. Be2 dxe4  12. Bxg4 hxg4 13. d5 O-O-O 14. Qxg4+ Qf5 15. Qxf5+ Nxf5 16. Bc5 b6 17. Ba3  Nxg3   18. Rg1 Nd4 19. hxg3 Nc2+ 20. Kd1 Nxa1 21. Be7 Rd7 22. Bh4 c6  23. Nxe4  cxd5 24. Ng5 Rc7 25. Kd2 Nc2 26. Nxf7 Rxf7 27. Kxc2 Re8  28. Kd3 d4  29. Rc1+ Rc7 30. Rxc7+ Kxc7 31. Kxd4 Re2 32. Kc3 Kd6  33. a4 a6 34. Kb3 Kc5 35. Ka3 b5  36. axb5 axb5  37. f5 Kc4 38. Ka2 b4 39. Kb1 b3 40. Kc1 Rc2+ 0-1 "
 
