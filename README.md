@@ -56,11 +56,14 @@ The main Features of PGNdbkp are :
   * Allows the current game or a range of games to be exported to a PDF
     file with graphic board diagrams (smaller version of on-screen
     chessboard) and engine analysis. These are essentially make-your-own
-    PDF chessbooks (only partially working under Windows, no engine
-    analysis scores at this time).
+    PDF chessbooks (only partially working under Windows, still a work
+    in progress!).
   
   * Stockfish or UCI engine interaction. Allows chess engine to analyze moves
-    or positions. The default engine location is updatable.
+    or positions. The default engine location is updatable. On MacOs make
+    sure you have your "Security Preferences" set to allow Stockfish
+    to run. MacOs blocks most "outsider" downloads like Stockfish until
+    you tell it otherwise.
     
   * Play a game directly against Stockfish or another UCI engine.
   
@@ -73,7 +76,8 @@ The main Features of PGNdbkp are :
   * Board size option for small or medium-size chessboard.
   
   * GUI allows main window resizing (limited) and allows using arrow-keys
-    for move traversal.
+    for move traversal. On MacOs ARM64 machines you may need to use 
+    SHIFT-arrow-keys for move traversal.
     
   * The current gamescore limit for PGNdbkp is set at 200,000 games via
     the #game_max constant at the top of the source file. You can of
