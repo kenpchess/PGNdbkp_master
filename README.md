@@ -76,8 +76,8 @@ The main Features of PGNdbkp are :
   * Board size option for small or medium-size chessboard.
   
   * GUI allows main window resizing (limited) and allows using arrow-keys
-    for move traversal. On MacOs ARM64 machines you may need to use 
-    SHIFT-arrow-keys for move traversal.
+    for move traversal. On some MacOs ARM64 machines you may need to use 
+    SHIFT-arrow-keys for move traversal (depending on MacOs settings).
     
   * The current gamescore limit for PGNdbkp is set at 200,000 games via
     the #game_max constant at the top of the source file. You can of
@@ -91,7 +91,7 @@ The main Features of PGNdbkp are :
   * There are a few "Easter Egg" features if you look at the source code.
     One such feature is if you choose "cancel" at the file-open dialog
     instead of selecting a PGN file, you will be presented with some
-    nice built-in sample chess games to view (about 800 games).
+    nice built-in sample chess games to view (currently about 1000 games).
     
   * It should probably be noted that PGNdbkp runs more smoothly on MacOs
     than Windows primarily because 90% of the coding and debugging were
