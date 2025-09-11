@@ -54,10 +54,11 @@ The main Features of PGNdbkp are :
     gamefile textfile, including ascii diagrams and engine analysis.
     
   * Allows the current game or a range of games to be exported to a PDF
-    file with graphic board diagrams (smaller version of on-screen
+    file(s) with graphic board diagrams (smaller version of on-screen
     chessboard) and engine analysis. These are essentially make-your-own
     PDF chessbooks (only partially working under Windows, still a work
-    in progress!).
+    in progress!). Note that each analyzed game will be output to a
+    separate pdf file.
   
   * Stockfish or UCI engine interaction. Allows chess engine to analyze moves
     or positions. The default engine location is updatable. On MacOs make
