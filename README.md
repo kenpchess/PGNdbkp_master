@@ -14,6 +14,12 @@
   
   <br>
   
+  
+  ![Alt text](PGNdbkp_20250930b_75pct.png "PGNdbko scrolling screenshot")
+  
+  
+  <br>
+  
 
 </div>
 
@@ -27,7 +33,7 @@ chessboard and makes it easy to view or replay moves. This program is considered
 somewhat didatic in that it demonstrates several features of PureBasic 6.21,
 including event loops, threads, various gadgets, SQLite interface to PureBasic
 6.21, auto-resizing of gadgets and other PureBasic 6.21 features. This application
-is not completely loaded with sophisticated code but does showcase many nice
+is not a total example of sophisticated code but does showcase many nice
 features of PureBasic 6.21 including enumeration, postevents, binary data
 encapsulation, conditional compilation, RunProgram for launching external 
 binaries, and several others. Refer also to the source code as it is quite 
@@ -68,18 +74,22 @@ The main Features of PGNdbkp are :
     
   * Play a game directly against Stockfish or another UCI engine.
   
-  * PLayer search/sort options to sort all games or search for the
-    games of a specific player.
+  * Player/moves search/sort options to sort all games, search for the
+    games of a specific player, or search for specific move sequences such
+    as "1. e4 e5 2. Nf3 Nc6 3. Bc4" or even iconic sacrifice moves such as
+    simply Bxh7+.
     
   * Basic FEN position GUI chessboard editor. Utilizes point-and-click
-    GUI to edit games or setup positions.
+    GUI to edit games or setup positions. FEN starting positions (if any)
+    can now also be viewed by right-scrolling in the games window.
     
   * Board size option for small or medium-size chessboard.
   
   * GUI allows main window resizing (limited) and allows using arrow-keys
     and shift-arrow-keys for move traversal. You may also use the "automove"
     button to automatically replay the entire game [press the escape-key
-    for about two seconds to stop "automove" replay].
+    for about two seconds to stop "automove" replay]. You may right-scroll
+    in the games window to view all raw movelists and any FENs.
     
   * The current gamescore limit for PGNdbkp is set at 200,000 games via
     the #game_max constant at the top of the source file. You can of
