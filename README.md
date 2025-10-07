@@ -9,13 +9,13 @@
   
   <br>
   
-  ![Alt text](PGNdbkp_20250923_75pct.png "PGNdbko screenshot")
+  ![Alt text](PGNdbkp_20251005a_75pct.png "PGNdbko screenshot")
 
   
   <br>
   
   
-  ![Alt text](PGNdbkp_20250930b_75pct.png "PGNdbko scrolling screenshot")
+  ![Alt text](PGNdbkp_20251005b_75pct.png "PGNdbko scrolling screenshot")
   
   
   <br>
@@ -75,9 +75,9 @@ The main Features of PGNdbkp are :
   * Play a game directly against Stockfish or another UCI engine.
   
   * Player/moves search/sort options to sort all games, search for the
-    games of a specific player, or search for specific move sequences such
-    as "1. e4 e5 2. Nf3 Nc6 3. Bc4" or even iconic sacrifice moves such as
-    simply Bxh7+.
+    games of a specific player, sort by ECO code, or search for specific 
+    move sequences such as "1. e4 e5 2. Nf3 Nc6 3. Bc4" or even iconic sacrifice
+    moves such as simply Bxh7+.
     
   * Basic FEN position GUI chessboard editor. Utilizes point-and-click
     GUI to edit games or setup positions. FEN starting positions (if any)
@@ -103,7 +103,7 @@ The main Features of PGNdbkp are :
   * There are a few "Easter Egg" features if you look at the source code.
     One such feature is if you choose "cancel" at the file-open dialog
     instead of selecting a PGN file, you will be presented with some
-    nice built-in sample chess games to view (currently about 1500 games).
+    nice built-in sample chess games to view (currently about 1800 games).
     
   * It should probably be noted that PGNdbkp runs more smoothly on MacOs
     than Windows primarily because 90% of the coding and debugging were
