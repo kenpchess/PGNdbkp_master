@@ -85,11 +85,11 @@ The main Features of PGNdbkp are :
     
   * Board size option for small or medium-size chessboard.
   
-  * Allows for somewhat limited engine matches (2-engines). The new engine
-    match feature is primarily for entertainment purposes and is not (yet)
-    designed for serious engine matches or for statistical purposes. The 
-    engine match feature has a self-contained opening lines book of about 
-    10000 openings.
+  * Allows for somewhat limited engine matches (4-engines, round-robin or 
+    gauntlet). The new engine match feature is primarily for entertainment 
+    purposes and is not (yet) designed for serious engine matches or for 
+    statistical purposes. The engine match feature has a self-contained  
+    opening lines book of about 10000 openings.
   
   * GUI allows main window resizing (limited) and allows using arrow-keys
     and shift-arrow-keys for move traversal. You may also use the "automove"
