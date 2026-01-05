@@ -77,7 +77,8 @@ The main Features of PGNdbkp are :
   * Player/moves search/sort options to sort all games, search for the
     games of a specific player, sort by ECO code, or search for specific 
     move sequences such as "1. e4 e5 2. Nf3 Nc6 3. Bc4" or even iconic sacrifice
-    moves such as simply Bxh7+.
+    moves such as simply Bxh7+. You can also filter games for material
+    sacrifices of a specified amount between one and nine pawns.
     
   * Basic FEN position GUI chessboard editor. Utilizes point-and-click
     GUI to edit games or setup positions. FEN starting positions (if any)
@@ -85,11 +86,11 @@ The main Features of PGNdbkp are :
     
   * Board size option for small or medium-size chessboard.
   
-  * Allows for somewhat limited engine matches (4-engines, round-robin or 
+  * Allows for somewhat limited engine matches (8-engines, round-robin or 
     gauntlet). The new engine match feature is primarily for entertainment 
     purposes and is not (yet) designed for serious engine matches or for 
     statistical purposes. The engine match feature has a self-contained  
-    opening lines book of about 10000 openings.
+    opening lines book of about 20000 openings.
   
   * GUI allows main window resizing (limited) and allows using arrow-keys
     and shift-arrow-keys for move traversal. You may also use the "automove"
@@ -109,7 +110,7 @@ The main Features of PGNdbkp are :
   * There are a few "Easter Egg" features if you look at the source code.
     One such feature is if you choose "cancel" at the file-open dialog
     instead of selecting a PGN file, you will be presented with some
-    nice built-in sample chess games to view (currently about 1800 games).
+    nice built-in sample chess games to view (currently about 5000 games).
     
   * It should probably be noted that PGNdbkp runs more smoothly on MacOs
     than Windows primarily because 90% of the coding and debugging were
@@ -158,6 +159,10 @@ This distribution of PGNdbkp consists of the following files:
     created by PGNdbkp_yyyymmdd.
     
   * [PGNdbkp_*.png], miscellaneous screenshots of PGNdbkp_yyyymmdd.
+  
+  * [16ply_openings_20000_spaces.pb], opening sequences file.
+  
+  * [eco_name_pgn_fen.pb], standard ECO opening classifications file.
   
   
 
