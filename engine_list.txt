@@ -1,3 +1,7 @@
+; PGNdbkp_20260110 engine_list.txt
+
+; a line beginning with a semicolon is obviuosly a comment
+
 /Applications/ChessEnginesOSX/stockfish17_avx2
 
 /Applications/ChessEnginesOSX/berserk_20250203_kp
@@ -18,9 +22,13 @@
 
 /Applications/ChessEnginesOSX/Leorik-32
 
+/Applications/ChessEnginesOSX/komodo-1302-64-free
+
+/Applications/ChessEnginesOSX/Halogen12-pgo-kp
+
+/Applications/ChessEnginesOSX/Winter_v40_kp
+
 ;/Applications/ChessEnginesOSX/viridithas_18_kp
 
 ;/Applications/ChessEnginesOSX/caissa124_kp
-
-;/Applications/ChessEnginesOSX/komodo-1302-64-free
 
