@@ -86,12 +86,14 @@ The main Features of PGNdbkp are :
     
   * Board size option for small or medium-size chessboard.
   
-  * Allows for somewhat limited engine matches (16-engines, round-robin or 
+  * Allows for somewhat limited engine matches (26-engines, round-robin or 
     gauntlet). The new engine match feature is primarily for entertainment 
     purposes and is not (yet) designed for serious engine matches or for 
     statistical purposes. The engine match feature has a self-contained  
     opening lines book of about 20000 openings. Now allows an "engine_list.txt"
-    file to hold a list of the engine match engines.
+    file to hold a list of the engine match engines. Also allows an external
+    opening book file with up to 20000 additional opening lines [book files
+    are 80-character 16-ply UCI compliant text files].
   
   * GUI allows main window resizing (limited) and allows using arrow-keys
     and shift-arrow-keys for move traversal. You may also use the "automove"
@@ -112,6 +114,10 @@ The main Features of PGNdbkp are :
     One such feature is if you choose "cancel" at the file-open dialog
     instead of selecting a PGN file, you will be presented with some
     nice built-in sample chess games to view (currently about 5000 games).
+    
+  * There are also some additional pgn utilities in the [UTILITIES] folder.
+    This includes MiniGUI4PgnExtract, which is a small GUI overlay for some
+    of the functions of the great PGN-Extract utility.
     
   * It should probably be noted that PGNdbkp runs more smoothly on MacOs
     than Windows primarily because 90% of the coding and debugging were
@@ -164,6 +170,8 @@ This distribution of PGNdbkp consists of the following files:
   * [16ply_openings_20000_spaces.pb], opening sequences file.
   
   * [eco_name_pgn_fen.pb], standard ECO opening classifications file.
+  
+  * [MiniGUI4PgnExtract], the small GUI overlay for PGN-Extract.
   
   
 
