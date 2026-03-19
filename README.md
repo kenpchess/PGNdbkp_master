@@ -113,7 +113,7 @@ The main Features of PGNdbkp are :
   * There are a few "Easter Egg" features if you look at the source code.
     One such feature is if you choose "cancel" at the file-open dialog
     instead of selecting a PGN file, you will be presented with some
-    nice built-in sample chess games to view (currently about 5000 games).
+    nice built-in sample chess games to view (currently about 15000 games).
     
   * There are also some additional pgn utilities in the [UTILITIES] folder.
     This includes MiniGUI4PgnExtract, which is a small GUI overlay for some
