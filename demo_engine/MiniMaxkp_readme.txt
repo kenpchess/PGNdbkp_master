@@ -27,7 +27,7 @@ I am not sure it matters but since this is a conversion/rewrite of a previously 
 
 File Locations:
 
-The above mentioned source and binary files should be in an "engine_demo" subdirectory at my github repository site for my chess pgn viewer/db utility which is:
+The above mentioned source and binary files should be in an "demo_engine" subdirectory at my github repository site for my chess pgn viewer/db utility which is:
 
 
 https://github.com/kenpchess/PGNdbkp_master
